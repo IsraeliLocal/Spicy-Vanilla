@@ -1,0 +1,198 @@
+political_decisions = {
+	integrate_central_asia = {
+		picture = integrate_central_asia
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = central_asia_integrated
+			}
+		}
+		allow = {
+			prestige = 30
+			owns = 1201
+			owns = 1207
+			owns = 1208
+			owns = 1202
+			owns = 1203
+			owns = 1190
+			owns = 1189
+			owns = 1196
+			owns = 1206
+			owns = 1200
+			owns = 1199
+			owns = 1198
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = central_asia_integrated
+			prestige = 10
+			badboy = -2
+			add_accepted_culture = tajik
+			add_accepted_culture = uzbek
+			add_accepted_culture = turkmen
+			add_accepted_culture = kazak
+			add_accepted_culture = kirgiz
+			1201 = { add_core = PER }
+			1207 = { add_core = PER }
+			1208 = { add_core = PER }
+			1202 = { add_core = PER }
+			1203 = { add_core = PER }
+			1190 = { add_core = PER }
+			1189 = { add_core = PER }
+			1196 = { add_core = PER }
+			1206 = { add_core = PER }
+			1200 = { add_core = PER }
+			1199 = { add_core = PER }
+			1198 = { add_core = PER }
+			1204 = { add_core = PER }
+		}
+	}
+	integrate_afghanistan = {
+		picture = integrate_afghanistan
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = afghanistan_integrated
+			}
+		}
+		allow = {
+			prestige = 30
+			owns = 1209
+			owns = 1216
+			owns = 1212
+			owns = 1211
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = afghanistan_integrated
+			prestige = 10
+			badboy = -1
+			add_accepted_culture = hazara
+			add_accepted_culture = pashtun
+			1212 = { add_core = PER }
+			1211 = { add_core = PER }
+			1213 = { add_core = PER }
+			1214 = { add_core = PER }
+			1215 = { add_core = PER }
+			1210 = { add_core = PER }
+			1209 = { add_core = PER }
+			1216 = { add_core = PER }
+			1217 = { add_core = PER }
+		}
+	}
+	integrate_balochistan = {
+		picture = integrate_balochistan
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = balochistan_integrated
+			}
+		}
+		allow = {
+			prestige = 30
+			owns = 1220
+			owns = 1221
+			owns = 1222
+			state_n_government = 1
+		}
+		effect = {
+			set_country_flag = balochistan_integrated
+			prestige = 10
+			badboy = -1
+			1220 = { add_core = PER }
+			1221 = { add_core = PER }
+			1222 = { add_core = PER }
+			1219 = { add_core = PER }
+			1218 = { add_core = PER }
+			1223 = { add_core = PER }
+		}
+	}
+	cores_in_mesopotamia = {
+		picture = cores_in_mesopotamia
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = cored_mesopotamia
+			}
+		}
+		allow = {
+			prestige = 100
+			owns = 923
+			owns = 924
+			owns = 925
+			owns = 926
+			owns = 927
+			owns = 928
+			owns = 929
+			owns = 930
+			owns = 932
+			owns = 933
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = cored_mesopotamia
+			prestige = 50
+			923 = { add_core = PER }
+			924 = { add_core = PER }
+			925 = { add_core = PER }
+			926 = { add_core = PER }
+			927 = { add_core = PER }
+			928 = { add_core = PER }
+			929 = { add_core = PER }
+			930 = { add_core = PER }
+			932 = { add_core = PER }
+			933 = { add_core = PER }
+		}
+	}
+	bagdad_tech = {
+		picture = bagdad_tech
+		potential = {
+			tag = PER
+			has_country_flag = cored_mesopotamia
+			NOT = {
+				has_country_flag = bagdad_tech_done
+			}
+		}
+		allow = {
+			prestige = 150
+			owns = 926
+			analytic_philosophy = 1
+		}
+		effect = {
+			set_country_flag = bagdad_tech_done
+			add_country_modifier = { 
+				name = bagdad_islamic_acadamia
+				duration = -1
+			}
+		}
+	}
+	cores_in_kurdistan = {
+		picture = cores_in_kurdistan
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = cored_kurdistan
+			}
+		}
+		allow = {
+			prestige = 70
+			owns = 923
+			owns = 924
+			owns = 925
+			owns = 928
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = cored_kurdistan
+			add_accepted_culture = kurdish
+			prestige = 50
+			889 = { add_core = PER }
+			890 = { add_core = PER }
+			891 = { add_core = PER }
+			892 = { add_core = PER }
+			893 = { add_core = PER }
+			899 = { add_core = PER }
+			901 = { add_core = PER }
+		}
+	}
+}

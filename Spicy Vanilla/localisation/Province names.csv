@@ -1,0 +1,3250 @@
+;;;;;;;;;;x
+PROV1;Sitka;x
+PROV2;Yakutat;x
+PROV3;Kenai;x
+PROV4;Dutch Harbor;x
+PROV5;Bethel;x
+PROV6;Whitehorse;x
+PROV7;Dawson;x
+PROV8;Ross River;x
+PROV9;Fort Simpson;x
+PROV10;Inuvik;x
+PROV11;Echo Bay;x
+PROV12;Reliance;x
+PROV13;Vancouver;x
+PROV14;Vancouver Island;x
+PROV15;Prince Rupert;x
+PROV16;Glenora;x
+PROV17;Atlin;x
+PROV18;Fort Saint John;x
+PROV19;Prince George;x
+PROV20;Kelowna;x
+PROV21;Vernon;x
+PROV22;Edmonton;x
+PROV23;Athabaska Landing;x
+PROV24;Jasper;x
+PROV25;Banff;x
+PROV26;Calgary;x
+PROV27;Denwood;x
+PROV28;Fort MacLeod;x
+PROV29;Medicine Hat;x
+PROV30;Regina;x
+PROV31;Stanley;x
+PROV32;Prince Albert;x
+PROV33;Asquith;x
+PROV34;Saskatoon;x
+PROV35;Maple Creek;x
+PROV36;Winnipeg;x
+PROV37;Churchill;x
+PROV38;Indian Lakes;x
+PROV39;Norway House;x
+PROV40;Dauphin;x
+PROV41;Brandon;x
+PROV42;Pembina;x
+PROV43;Arviat;x
+PROV44;Coral Harbour;x
+PROV45;Baffin Island;x
+PROV46;Toronto;x
+PROV47;Fort Severn;x
+PROV48;Fort Albany;x
+PROV49;Dryden;x
+PROV50;Thunder Bay;x
+PROV51;Sault Ste Marie;x
+PROV52;Sudbury;x
+PROV53;Barrie;x
+PROV54;Windsor;x
+PROV55;Hamilton;x
+PROV56;Kingston;x
+PROV57;Ottawa;x
+PROV58;Montreal;x
+PROV59;Nitchequon;x
+PROV60;Fort Rupert;x
+PROV61;Chicoutimi;x
+PROV62;Sept-Iles;x
+PROV63;Temiscaming;x
+PROV64;Trois-Rivieres;x
+PROV65;Quebec City;x
+PROV66;Sherbrooke;x
+PROV67;Rimouski;x
+PROV68;Fredericton;x
+PROV69;Bathurst;x
+PROV70;Prince Edward Island;x
+PROV71;Halifax;x
+PROV72;Truro;x
+PROV73;Cape Breton Island;x
+PROV74;Saint Johns;x
+PROV75;Millertown;x
+PROV76;Hopedale;x
+PROV77;St Pierre & Miquelon;x
+PROV78;Seattle;x
+PROV79;Spokane;x
+PROV80;Walla Walla;x
+PROV81;Portland;x
+PROV82;Baker City;x
+PROV83;Klamath Falls;x
+PROV84;San Francisco;x
+PROV85;Eureka;x
+PROV86;Sacramento;x
+PROV87;Monterey;x
+PROV88;Mariposa;x
+PROV89;Los Angeles;x
+PROV90;San Diego;x
+PROV91;Boise;x
+PROV92;Coeur D'Alene;x
+PROV93;Pocatello;x
+PROV94;Carson City;x
+PROV95;Elko;x
+PROV96;Las Vegas;x
+PROV97;Salt Lake City;x
+PROV98;Loa;x
+PROV99;Moab;x
+PROV100;Phoenix;x
+PROV101;Flagstaff;x
+PROV102;Tucson;x
+PROV103;Santa Fe;x
+PROV104;Albuquerque;x
+PROV105;Las Cruces;x
+PROV106;Denver;x
+PROV107;Grand Junction;x
+PROV108;Alamosa;x
+PROV109;Pueblo;x
+PROV110;Cheyenne;x
+PROV111;Cody;x
+PROV112;Casper;x
+PROV113;Bozeman;x
+PROV114;Missoula;x
+PROV115;Great Falls;x
+PROV116;Billings;x
+PROV117;Bismarck;x
+PROV118;Minot;x
+PROV119;Dickinson;x
+PROV120;Sioux Falls;x
+PROV121;Dupree;x
+PROV122;Rapid City;x
+PROV123;Omaha;x
+PROV124;Alliance;x
+PROV125;North Platte;x
+PROV126;Topeka;x
+PROV127;Goodland;x
+PROV128;Wichita;x
+PROV129;Oklahoma City;x
+PROV130;Tahlequah;x
+PROV131;Okmulgee;x
+PROV132;Houston;x
+PROV133;Austin;x
+PROV134;Dallas;x
+PROV135;Lubbock;x
+PROV136;El Paso;x
+PROV137;San Antonio;x
+PROV138;Laredo;x
+PROV139;New Orleans;x
+PROV140;Baton Rouge;x
+PROV141;Lake Charles;x
+PROV142;Shreveport;x
+PROV143;Little Rock;x
+PROV144;Hot Springs;x
+PROV145;Fayetteville;x
+PROV146;St Louis;x
+PROV147;Joplin;x
+PROV148;Malden;x
+PROV149;Jefferson City;x
+PROV150;Kansas City;x
+PROV151;Des Moines;x
+PROV152;Oskaloosa;x
+PROV153;Cedar Rapids;x
+PROV154;Sioux City;x
+PROV155;Minneapolis;x
+PROV156;Granite Falls;x
+PROV157;Moorhead;x
+PROV158;Duluth;x
+PROV159;Milwaukee;x
+PROV160;Eau Claire;x
+PROV161;Green Bay;x
+PROV162;Madison;x
+PROV163;Chicago;x
+PROV164;Rockford;x
+PROV165;Champaign;x
+PROV166;Peoria;x
+PROV167;Springfield;x
+PROV168;Carbondale;x
+PROV169;Indianapolis;x
+PROV170;Evansville;x
+PROV171;South Bend;x
+PROV172;Fort Wayne;x
+PROV173;Detroit;x
+PROV174;Grand Rapids;x
+PROV175;Saginaw;x
+PROV176;Traverse City;x
+PROV177;Marquette;x
+PROV178;Cleveland;x
+PROV179;Columbus;x
+PROV180;Sandusky;x
+PROV181;Dayton;x
+PROV182;Cincinnati;x
+PROV183;Marietta;x
+PROV184;Louisville;x
+PROV185;Lexington;x
+PROV186;Bowling Green;x
+PROV187;Paducah;x
+PROV188;Nashville;x
+PROV189;Memphis;x
+PROV190;Knoxville;x
+PROV191;Chattanooga;x
+PROV192;Jackson;x
+PROV193;Vicksburg;x
+PROV194;Biloxi;x
+PROV195;Montgomery;x
+PROV196;Tuscaloosa;x
+PROV197;Mobile;x
+PROV198;Tallahassee;x
+PROV199;St Augustine;x
+PROV200;Tampa;x
+PROV201;Atlanta;x
+PROV202;Valdosta;x
+PROV203;Bermuda;x
+PROV204;Savannah;x
+PROV205;Charleston;x
+PROV206;Columbia;x
+PROV207;Greenville;x
+PROV208;Raleigh;x
+PROV209;Charlotte;x
+PROV210;Wilmington;x
+PROV211;Richmond;x
+PROV212;Manassas;x
+PROV213;Fredericksburg;x
+PROV214;Norfolk;x
+PROV215;Staunton;x
+PROV216;Roanoke;x
+PROV217;Wheeling;x
+PROV218;Huntington;x
+PROV219;Baltimore;x
+PROV220;Washington;x
+PROV221;Hagerstown;x
+PROV222;Dover;x
+PROV223;Philadelphia;x
+PROV224;Scranton;x
+PROV225;Williamsport;x
+PROV226;Harrisburg;x
+PROV227;Pittsburgh;x
+PROV228;Erie;x
+PROV229;Newark;x
+PROV230;Trenton;x
+PROV231;Atlantic City;x
+PROV232;New York;x
+PROV233;Long Island;x
+PROV234;Albany;x
+PROV235;Binghamton;x
+PROV236;Buffalo;x
+PROV237;Rochester;x
+PROV238;Syracuse;x
+PROV239;Watertown;x
+PROV240;Plattsburgh;x
+PROV241;Hartford;x
+PROV242;Providence;x
+PROV243;Boston;x
+PROV244;New Bedford;x
+PROV245;Pittsfield;x
+PROV246;Burlington;x
+PROV247;Concord;x
+PROV248;Lewiston;x
+PROV249;Bangor;x
+PROV250;Caribou;x
+PROV251;Godthab;x
+PROV252;Iceland;x
+PROV253;Faroe Islands;x
+PROV254;Belfast;x
+PROV255;Londonderry;x
+PROV256;Armagh;x
+PROV257;Donegal;x
+PROV258;Galway;x
+PROV259;Sligo;x
+PROV260;Cork;x
+PROV261;Limerick;x
+PROV262;Waterford;x
+PROV263;Dublin;x
+PROV264;Kildare;x
+PROV265;Wexford;x
+PROV266;Aberdeen;x
+PROV267;Inverness;x
+PROV268;Dundee;x
+PROV269;Edinburgh;x
+PROV270;Stirling;x
+PROV271;Glasgow;x
+PROV272;Dumfries;x
+PROV273;Cardiff;x
+PROV274;Cardigan;x
+PROV275;Llandrindod;x
+PROV276;Holyhead;x
+PROV277;Liverpool;x
+PROV278;Manchester;x
+PROV279;Carlisle;x
+PROV280;Newcastle-upon-Tyne;x
+PROV281;Hull;x
+PROV282;Leeds;x
+PROV283;Sheffield;x
+PROV284;Birmingham;x
+PROV285;Chester;x
+PROV286;Shrewsbury;x
+PROV287;Coventry;x
+PROV288;Nottingham;x
+PROV289;Leicester;x
+PROV290;Lincoln;x
+PROV291;Cambridge;x
+PROV292;Ipswich;x
+PROV293;Chelmsford;x
+PROV294;Oxford;x
+PROV295;St Albans;x
+PROV296;Bristol;x
+PROV297;Salisbury;x
+PROV298;Bath;x
+PROV299;Plymouth;x
+PROV300;London;x
+PROV301;Canterbury;x
+PROV302;Brighton;x
+PROV303;Southampton;x
+PROV304;Isle of Man;x
+PROV305;Trondheim;x
+PROV306;Bodo;x
+PROV307;Hammerfest;x
+PROV308;Alesund;x
+PROV309;Bergen;x
+PROV310;Christianssand;x
+PROV311;Skien;x
+PROV312;Drammen;x
+PROV313;Christiania;x
+PROV314;Hamar;x
+PROV315;Lillehammer;x
+PROV316;Frederiksstad;x
+PROV317;Gavle;x
+PROV318;Sundsvall;x
+PROV319;Stromsund;x
+PROV320;Umea;x
+PROV321;Lulea;x
+PROV322;Stockholm;x
+PROV323;Falun;x
+PROV324;Uppsala;x
+PROV325;Norrkoping;x
+PROV326;Vasteras;x
+PROV327;Orebro;x
+PROV328;Karlstad;x
+PROV329;Gothenburg;x
+PROV330;Boras;x
+PROV331;Gotland;x
+PROV332;Kalmar;x
+PROV333;Vaxjo;x
+PROV334;Malmo;x
+PROV335;Karlskrona;x
+PROV336;Oulu;x
+PROV337;Kajaani;x
+PROV338;Tornio;x
+PROV339;Viipuri;x
+PROV340;Kotka;x
+PROV341;Mikkeli;x
+PROV342;Kuopio;x
+PROV343;Helsinki;x
+PROV344;H�meenlinna;x
+PROV345;Turku;x
+PROV346;Vaasa;x
+PROV347;Tampere;x
+PROV348;�land Islands;x
+PROV349;Reval;x
+PROV350;Narva;x
+PROV351;P�rnu;x
+PROV352;Dorpat;x
+REMOVE_PROV353;Kuressaare;Kuressaare;Kuressaare;;Kuressaare;;;;;;;;;x;;;;
+PROV353;�sel;x
+PROV354;Riga;x
+PROV355;Valmiera;x
+PROV356;Daugavpils;x
+PROV357;Jelgava;x
+PROV358;Ventspils;x
+PROV359;Liepaja;x
+PROV360;Vilnius;x
+PROV361;Kaunas;x
+PROV362;Marijampole;x
+PROV363;Panevezys;x
+PROV364;Siauliai;x
+PROV365;Palanga;x
+PROV366;Aarhus;x
+PROV367;Aalborg;x
+PROV368;Ribe;x
+PROV369;Kiel;x
+PROV370;Flensburg;x
+PROV371;Aabenraa;x
+PROV372;Copenhagen;x
+PROV373;Odense;x
+PROV374;Bornholm;x
+PROV375;Amsterdam;x
+PROV376;Rotterdam;x
+PROV377;Utrecht;x
+PROV378;Middelburg;x
+PROV379;Eindhoven;x
+PROV380;Breda;x
+PROV381;Maastricht;x
+PROV382;Arnhem;x
+PROV383;Groningen;x
+PROV384;Zwolle;x
+PROV385;Leeuwarden;x
+PROV386;Assen;x
+PROV387;Brussels;x
+PROV388;Bruges;x
+PROV389;Ghent;x
+PROV390;Antwerp;x
+PROV391;Hasselt;x
+PROV392;Namur;x
+PROV393;Tournai;x
+PROV394;Charleroi;x
+PROV395;Liege;x
+PROV396;Spa;x
+PROV397;Luxembourg;x
+PROV398;Arlon;x
+PROV399;Lille;x
+PROV400;Dunkirk;x
+PROV401;Arras;x
+PROV402;Amiens;x
+PROV403;Laon;x
+PROV404;Cambrai;x
+PROV405;Charleville;x
+PROV406;Troyes;x
+PROV407;Chaumont;x
+PROV408;Chalons;x
+PROV409;Strasbourg;x
+PROV410;Colmar;x
+PROV411;Nancy;x
+PROV412;Metz;x
+PROV413;Verdun;x
+PROV414;Epinal;x
+PROV415;Rouen;x
+PROV416;Evreux;x
+PROV417;Alen�on;x
+PROV418;Caen;x
+PROV419;Channel Islands;x
+PROV420;Brest;x
+PROV421;St-Brieuc;x
+PROV422;Vannes;x
+PROV423;Nantes;x
+PROV424;Rennes;x
+PROV425;Paris;x
+PROV426;Chartres;x
+PROV427;Melun;x
+PROV428;Dijon;x
+PROV429;Auxerre;x
+PROV430;Moulins;x
+PROV431;Macon;x
+PROV432;Besan�on;x
+PROV433;Lons;x
+PROV434;Angers;x
+PROV435;Laval;x
+PROV436;Le Mans;x
+PROV437;La Roche;x
+PROV438;Orl�ans;x
+PROV439;Bourges;x
+PROV440;Blois;x
+PROV441;Tours;x
+PROV442;La Rochelle;x
+PROV443;Poitiers;x
+PROV444;Angoul�me;x
+PROV445;Limoges;x
+PROV446;Ch�teauroux;x
+PROV447;Tulle;x
+PROV448;Clermont-Ferrand;x
+PROV449;Aurillac;x
+PROV450;Cahors;x
+PROV451;Lyon;x
+PROV452;Saint-�tienne;x
+PROV453;Valence;x
+PROV454;Grenoble;x
+PROV455;Toulouse;x
+PROV456;Montauban;x
+PROV457;Foix;x
+PROV458;Bordeaux;x
+PROV459;Mont-de-Marsan;x
+PROV460;Pau;x
+PROV461;Montpellier;x
+PROV462;Rodez;x
+PROV463;Carcassonne;x
+PROV464;Perpignan;x
+PROV465;Annecy;x
+PROV466;Chamb�ry;x
+PROV467;Marseilles;x
+PROV468;Avignon;x
+PROV469;Digne;x
+PROV470;Toulon;x
+PROV471;Frejus;x
+PROV472;Nice;x
+PROV473;Corsica;x
+PROV474;La Coru�a;x
+PROV475;Oviedo;x
+PROV476;Vigo;x
+PROV477;Le�n;x
+PROV478;Santander;x
+PROV479;Burgos;x
+PROV480;Valladolid;x
+PROV481;Soria;x
+PROV482;Salamanca;x
+PROV483;�vila;x
+PROV484;Badajoz;x
+PROV485;Almendralejo;x
+PROV486;C�ceres;x
+PROV487;Madrid;x
+PROV488;Sig�enza;x
+PROV489;Toledo;x
+PROV490;Cuenca;x
+PROV491;Ciudad Real;x
+PROV492;Bilbao;x
+PROV493;Pamplona;x
+PROV494;Logro�o;x
+PROV495;Zaragoza;x
+PROV496;Huesca;x
+PROV497;Teruel;x
+PROV498;Barcelona;x
+PROV499;Gerona;x
+PROV500;L�rida;x
+PROV501;Tarragona;x
+PROV502;Balearic Islands;x
+PROV503;Valencia;x
+PROV504;Castell�n;x
+PROV505;Alicante;x
+PROV506;Cartagena;x
+PROV507;Murcia;x
+PROV508;Albacete;x
+PROV509;Seville;x
+PROV510;C�rdoba;x
+PROV511;Huelva;x
+PROV512;C�diz;x
+PROV513;Granada;x
+PROV514;M�laga;x
+PROV515;Almer�a;x
+PROV516;Ja�n;x
+PROV517;Gibraltar;x
+PROV518;Porto;x
+PROV519;Vila Real;x
+PROV520;Covilha;x
+PROV521;Lisbon;x
+PROV522;Coimbra;x
+PROV523;Abrantes;x
+PROV524;Setubal;x
+PROV525;�vora;x
+PROV526;Beja;x
+PROV527;Faro;x
+PROV528;Hamburg;x
+PROV529;Lauenburg;x
+PROV530;L�beck;x
+PROV531;Stade;x
+PROV532;L�neburg;x
+PROV533;Heligoland;x
+PROV534;Hanover;x
+PROV535;Nienburg;x
+PROV536;Brunswick;x
+PROV537;G�ttingen;x
+PROV538;Osnabr�ck;x
+PROV539;Bremen;x
+PROV540;Oldenburg;x
+PROV541;Cloppenburg;x
+PROV542;Lingen;x
+PROV543;Emden;x
+PROV544;Schwerin;x
+PROV545;Neustrelitz;x
+PROV546;Stettin;x
+PROV547;Swinem�nde;x
+PROV548;Stralsund;x
+PROV549;Berlin;x
+PROV550;Prenzlau;x
+PROV551;Pritzwalk;x
+PROV552;Cottbus;x
+PROV553;Magdeburg;x
+PROV554;Erfurt;x
+PROV555;Dessau;x
+PROV556;Halle;x
+PROV557;Stendal;x
+PROV558;Dresden;x
+PROV559;Leipzig;x
+PROV560;Chemnitz;x
+PROV561;Weimar;x
+PROV562;Gotha;x
+PROV563;Meiningen;x
+PROV564;Frankfurt;x
+PROV565;Wiesbaden;x
+PROV566;Kassel;x
+PROV567;Giessen;x
+PROV568;Fulda;x
+PROV569;Mannheim;x
+PROV570;Mainz;x
+PROV571;Kaiserslautern;x
+PROV572;Trier;x
+PROV573;Saarbr�cken;x
+PROV574;Kreuznach;x
+PROV575;K�ln;x
+PROV576;Aachen;x
+PROV577;Cleves;x
+PROV578;D�sseldorf;x
+PROV579;Koblenz;x
+PROV580;Dortmund;x
+PROV581;M�nster;x
+PROV582;Minden;x
+PROV583;Siegen;x
+PROV584;Korbach;x
+PROV585;Detmold;x
+PROV586;Karlsruhe;x
+PROV587;Freiburg;x
+PROV588;Konstanz;x
+PROV589;Stuttgart;x
+PROV590;Heilbronn;x
+PROV591;T�bingen;x
+PROV592;Augsburg;x
+PROV593;Ulm;x
+PROV594;Sigmaringen;x
+PROV595;N�rnberg;x
+PROV596;Aschaffenburg;x
+PROV597;W�rzburg;x
+PROV598;Bayreuth;x
+PROV599;Munich;x
+PROV600;Landshut;x
+PROV601;Ingolstadt;x
+PROV602;Regensburg;x
+PROV603;Z�rich;x
+PROV604;Basel;x
+PROV605;Bern;x
+PROV606;Lucerne;x
+PROV607;Geneva;x
+PROV608;Neuch�tel;x
+PROV609;Sion;x
+PROV610;Ponape;x
+PROV611;Chur;x
+PROV612;Innsbruck;x
+PROV613;Salzburg;x
+PROV614;Bregenz;x
+PROV615;Lienz;x
+PROV616;Graz;x
+PROV617;Judenburg;x
+PROV618;Klagenfurt;x
+PROV619;Vienna;x
+PROV620;Sankt P�lten;x
+PROV621;Krems;x
+PROV622;Linz;x
+PROV623;Sopron;x
+PROV624;Eisenstadt;x
+PROV625;Prague;x
+PROV626;K�niggr�tz;x
+PROV627;Karlsbad;x
+PROV628;Aussig;x
+PROV629;Plzen;x
+PROV630;Budejovice;x
+PROV631;Brno;x
+PROV632;Olomouc;x
+PROV633;Bratislava;x
+PROV634;Trentschin;x
+PROV635;Nitra;x
+PROV636;Bansk� Bystrica;x
+PROV637;Ko�ice;x
+PROV638;Ro�nava;x
+PROV639;Zalaegerszeg;x
+PROV640;P�cs;x
+PROV641;Budapest;x
+PROV642;Gyor;x
+PROV643;Sz�kesfeh�rv�r;x
+PROV644;Kaposv�r;x
+PROV645;Kecskem�t;x
+PROV646;Miskolc;x
+PROV647;Oradea;x
+PROV648;Debrecen;x
+PROV649;Szeged;x
+PROV650;B�k�scsaba;x
+PROV651;Szatm�rn�meti;x
+PROV652;Temesvar;x
+PROV653;Reschitz;x
+PROV654;Cluj;x
+PROV655;Gyulafehervar;x
+PROV656;Deva;x
+PROV657;Nagyszeben;x
+PROV658;Hawaii;x
+PROV659;Bra?ov;x
+PROV660;Udvarhely;x
+PROV661;Beszterce;x
+PROV662;Cernauti;x
+PROV663;Suceava;x
+PROV664;Bucharest;x
+PROV665;Tirgu Jiu;x
+PROV666;Craiova;x
+PROV667;Tirgoviste;x
+PROV668;Braila;x
+PROV669;Calarasi;x
+PROV670;Iasi;x
+PROV671;Botosani;x
+PROV672;Bacau;x
+PROV673;Galati;x
+PROV674;Constanta;x
+PROV675;Tulcea;x
+PROV676;Kishinev;x
+PROV677;Balti;x
+PROV678;Izmail;x
+PROV679;Kolberg;x
+PROV680;K�slin;x
+PROV681;K�strin;x
+PROV682;Breslau;x
+PROV683;Liegnitz;x
+PROV684;Oppeln;x
+PROV685;Kattowitz;x
+PROV686;Line Islands;x
+PROV687;G�rlitz;x
+PROV688;Troppau;x
+PROV689;Te��n;x
+PROV690;Danzig;x
+PROV691;Tuchel;x
+PROV692;Deutsch Krone;x
+PROV693;Elbing;x
+PROV694;Torun;x
+PROV695;K�nigsberg;x
+PROV696;Allenstein;x
+PROV697;Gumbinnen;x
+PROV698;Memel;x
+PROV699;Posen;x
+PROV700;Bromberg;x
+PROV701;Gniezno;x
+PROV702;Lvov;x
+PROV703;Krakow;x
+PROV704;Novy Sacz;x
+PROV705;Przemysl;x
+PROV706;Warsaw;x
+PROV707;Suwalki;x
+PROV708;Plock;x
+PROV709;Lomza;x
+PROV710;Skierniewice;x
+PROV711;Siedlice;x
+PROV712;Lodz;x
+PROV713;Radom;x
+PROV714;Tarnow;x
+PROV715;Lublin;x
+PROV716;Kielce;x
+PROV717;Kalisz;x
+PROV718;Minsk;x
+PROV719;Bialystock;x
+PROV720;Turin;x
+PROV721;Aosta;x
+PROV722;Novara;x
+PROV723;Alessandria;x
+PROV724;Genoa;x
+PROV725;Savona;x
+PROV726;Milan;x
+PROV727;Bergamo;x
+PROV728;Brescia;x
+PROV729;Venice;x
+PROV730;Verona;x
+PROV731;Padua;x
+PROV732;Treviso;x
+PROV733;Udine;x
+PROV734;Trento;x
+PROV735;Bozen;x
+PROV736;Trieste;x
+PROV737;Gorizia;x
+PROV738;Parma;x
+PROV739;Modena;x
+PROV740;Massa;x
+PROV741;Bologna;x
+PROV742;Ferrara;x
+PROV743;Ravenna;x
+PROV744;Florence;x
+PROV745;Leghorn;x
+PROV746;Lucca;x
+PROV747;Siena;x
+PROV748;Grosetto;x
+PROV749;Rome;x
+PROV750;Viterbo;x
+PROV751;Perugia;x
+PROV752;Ancona;x
+PROV753;Aquila;x
+PROV754;Naples;x
+PROV755;Salerno;x
+PROV756;Bari;x
+PROV757;Foggia;x
+PROV758;Brindisi;x
+PROV759;Reggio-di-Calabria;x
+PROV760;Catanzaro;x
+PROV761;Potenza;x
+PROV762;Palermo;x
+PROV763;Messina;x
+PROV764;Catania;x
+PROV765;Cagliari;x
+PROV766;Sassari;x
+PROV767;Maribor;x
+PROV768;Laibach;x
+PROV769;Postojna;x
+PROV770;Pola;x
+PROV771;Zagreb;x
+PROV772;Sisak;x
+PROV773;Karlovac;x
+PROV774;Senj;x
+PROV775;Vara�din;x
+PROV776;Bjelovar;x
+PROV777;Po�ega;x
+PROV778;Fiume;x
+PROV779;Osijek;x
+PROV780;Split;x
+PROV781;Zadar;x
+PROV782;Ragusa;x
+PROV783;Sarajevo;x
+PROV784;Bihac;x
+PROV785;Banja Luka;x
+PROV786;Tuzla;x
+PROV787;Foca;x
+PROV788;Mostar;x
+PROV789;Livno;x
+PROV790;Kitwe;x
+PROV791;Mitrovica;x
+PROV792;Pancevo;x
+PROV793;Vukovar;x
+PROV794;Belgrade;x
+PROV795;Bor;x
+PROV796;Kragujevac;x
+PROV797;U�ice;x
+PROV798;Ni�;x
+PROV799;Leskovac;x
+PROV800;Ulcinj;x
+PROV801;Tahiti;x
+PROV802;Pristina;x
+PROV803;Prizren;x
+PROV804;Novi Pazar;x
+PROV805;Salonika;x
+PROV806;Skopje;x
+PROV807;Bitola;x
+PROV808;Petrich;x
+PROV809;Sofia;x
+PROV810;Vidin;x
+PROV811;Ruse;x
+PROV812;Pleven;x
+PROV813;Shumen;x
+PROV814;Varna;x
+PROV815;Plovdiv;x
+PROV816;Stara Zagora;x
+PROV817;Burgas;x
+PROV818;Silistre;x
+PROV819;Florina;x
+PROV820;Grevena;x
+PROV821;Edessa;x
+PROV822;Polygyros;x
+PROV823;Kavala;x
+PROV824;Ioannina;x
+PROV825;Arta;x
+PROV826;Corfu;x
+PROV827;Zante;x
+PROV828;Edirne;x
+PROV829;Xanthe;x
+PROV830;Dedeagatch;x
+PROV831;Larissa;x
+PROV832;Volos;x
+PROV833;Trikkala;x
+PROV834;Athens;x
+PROV835;Amfissa;x
+PROV836;Lamia;x
+PROV837;Missolonghi;x
+PROV838;Khalkis;x
+PROV839;Nafplion;x
+PROV840;Corinth;x
+PROV841;Kalamata;x
+PROV842;Patras;x
+PROV843;Chios;x
+PROV844;Myteline;x
+PROV845;Cyclades;x
+PROV846;Dodecanese;x
+PROV847;Chania;x
+PROV848;Iraklion;x
+PROV849;Tirana;x
+PROV850;Shkod�r;x
+PROV851;Durr�s;x
+PROV852;Vlor�;x
+PROV853;Gjirokast�r;x
+PROV854;Malta;x
+PROV855;Nicosia;x
+PROV856;Limassol;x
+PROV857;Famagusta;x
+PROV858;Kirklareli;x
+PROV859;Gallipoli;x
+PROV860;Konstantiniyye;x
+PROV861;�sk�dar;x
+PROV862;Izmit;x
+PROV863;Bursa;x
+PROV864;Balikesir;x
+PROV865;Canakkale;x
+PROV866;Afyon;x
+PROV867;K�tahya;x
+PROV868;Eskishehir;x
+PROV869;Izmir;x
+PROV870;Manisa;x
+PROV871;Denizli;x
+PROV872;Mugla;x
+PROV873;Konya;x
+PROV874;Burdur;x
+PROV875;Antalya;x
+PROV876;Angora;x
+PROV877;Amasya;x
+PROV878;Kayseri;x
+PROV879;Sivas;x
+PROV880;Kastamonu;x
+PROV881;Bolu;x
+PROV882;Trabzon;x
+PROV883;Sinop;x
+PROV884;Giresun;x
+PROV885;Kars;x
+PROV886;Ardahan;x
+PROV887;Erzurum;x
+PROV888;Erzincan;x
+PROV889;Malatya;x
+PROV890;Van;x
+PROV891;Bitlis;x
+PROV892;Hakkari;x
+PROV893;Diyarbakir;x
+PROV894;Adana;x
+PROV895;Mersin;x
+PROV896;Marash;x
+PROV897;Aleppo;x
+PROV898;Antep;x
+PROV899;Urfa;x
+PROV900;Antakya;x
+PROV901;Deir ez-Zor;x
+PROV902;Damascus;x
+PROV903;Homs;x
+PROV904;Hama;x
+PROV905;Latakia;x
+PROV906;Suwayda;x
+PROV907;Palmyra;x
+PROV908;Amman;x
+PROV909;Jerash;x
+PROV910;Ruwaished;x
+PROV911;Maan;x
+PROV912;Baalbeck;x
+PROV913;Beirut;x
+PROV914;Tripoli;x
+PROV915;Sidon;x
+PROV916;Akka;x
+PROV917;Jerusalem;x
+PROV918;Nablus;x
+PROV919;Jaffa;x
+PROV920;Gaza;x
+PROV921;Beersheba;x
+PROV922;Aqaba;x
+PROV923;Mosul;x
+PROV924;Arbil;x
+PROV925;Kirkuk;x
+PROV926;Baghdad;x
+PROV927;Samarra;x
+PROV928;Mendeli;x
+PROV929;Karbala;x
+PROV930;Kut;x
+PROV931;Rutbah;x
+PROV932;Basra;x
+PROV933;Nasiriyya;x
+PROV934;Najaf;x
+PROV935;Kuwait;x
+PROV936;Grodno;x
+PROV937;Brest-Litovsk;x
+PROV938;Lida;x
+PROV939;Baranovichi;x
+PROV940;Pinsk;x
+PROV941;Slutsk;x
+PROV942;Mozyr;x;
+PROV943;Smolensk;x
+PROV944;Orsha;x
+PROV945;Vitebsk;x
+PROV946;Polotsk;x
+PROV947;Pastavy;x
+PROV948;Mogilev;x
+PROV949;Gomel;x
+PROV950;Uzgorord;x
+PROV951;Stryi;x
+PROV952;Tarnopol;x
+PROV953;Stanislavov;x
+PROV954;Vinnitsa;x
+PROV955;Proskorov;x
+PROV956;Rovne;x
+PROV957;Kovel;x
+PROV958;Kiev;x
+PROV959;Korosten;x
+PROV960;Zhitomir;x
+PROV961;Cherkassy;x
+PROV962;Chernigov;x
+PROV963;Poltava;x
+PROV964;Simferopol;x
+PROV965;Cherson;x
+PROV966;Kerch;x
+PROV967;Sevastopol;x
+PROV968;Odessa;x
+PROV969;Pervomaisk;x
+PROV970;Nikolaev;x
+PROV971;Krivoy Rog;x
+PROV972;Ekaterinoslav;x
+PROV973;Melitopol;x
+PROV974;Kramatorsk;x
+PROV975;Yuzovka;x
+PROV976;Mariupol;x
+PROV977;Kursk;x
+PROV978;Kharkov;x
+PROV979;Rostov;x
+PROV980;Luhansk;x
+PROV981;Archangel;x
+PROV982;Petsamo;x
+PROV983;Kandalaksha;x
+PROV984;Kostomushka;x
+PROV985;Mezen;Mezen;x
+PROV986;Naryn Mar;x
+PROV987;Ust Sysolsk;x
+PROV988;Povyents;x
+PROV989;Vologda;x
+PROV990;Kotlas;x
+PROV991;Uglich;x
+PROV992;Belozersk;x
+PROV993;Vyterga;x
+PROV994;St Petersburg;x
+PROV995;Petrozavorsk;x
+PROV996;Luga;x
+PROV997;Gdov;x
+PROV998;Tver;x
+PROV999;Rzhev;x
+PROV1000;Staritsa;x
+PROV1001;Yaroslavl;x
+PROV1002;Manzhouli;x
+PROV1003;Novgorod;x
+PROV1004;Tikhvin;x
+PROV1005;Borovichi;x
+PROV1006;Pskov;x
+PROV1007;Velikiye Luki;x
+PROV1008;Moscow;x
+PROV1009;Borodino;x
+PROV1010;Kaluga;x
+PROV1011;Tula;x
+PROV1012;Ryazan;x
+PROV1013;Vladimir;x
+PROV1014;Vyazma;x
+PROV1015;Peremyshl;x
+PROV1016;Bryansk;x
+PROV1017;Orel;x
+PROV1018;Belgorod;x
+PROV1019;Voronets;x
+PROV1020;Nizhni Novgorod;x
+PROV1021;Penza;x
+PROV1022;Ivanovo;x
+PROV1023;Kostorma;x
+PROV1024;Galich;x
+PROV1025;Tambov;x
+PROV1026;Perm;x
+PROV1027;Vetluga;x
+PROV1028;Vyatkha;x
+PROV1029;Glasov;x
+PROV1030;Kazan;x
+PROV1031;Sarapul;x
+PROV1032;Chistopol;x
+PROV1033;Simbirsk;x
+PROV1034;Samara;x
+PROV1035;Syzran;x
+PROV1036;Astrakhan;x
+PROV1037;Saratov;x
+PROV1038;Novo Uzensk;x
+PROV1039;Tsaritsyn;x
+PROV1040;Zarevka;x
+PROV1041;Elitsa;x
+PROV1042;Ufa;x
+PROV1043;Busuluk;x
+PROV1044;Orenburg;x
+PROV1045;Migolinskaya;x
+PROV1046;Chirskaya;x
+PROV1047;Azov;x
+PROV1048;Ekaterinodar;x
+PROV1049;Novorossiysk;x
+PROV1050;Stavropol;x
+PROV1051;Adygei;x
+PROV1052;Derbent;x
+PROV1053;Gunib;x
+PROV1054;Vladikavkaz;x
+PROV1055;Grozny;x
+PROV1056;Pyatigorsk;x
+PROV1057;Kizylyar;x
+PROV1058;Ekaterinburg;x
+PROV1059;Chelyabinsk;x
+PROV1060;Orsk;x
+PROV1061;Tyumen;x
+PROV1062;Berezov;x
+PROV1063;Tomsk;x
+PROV1064;Omsk;x
+PROV1065;Nizhnevartovsk;x
+PROV1066;Tobolsk;x
+PROV1067;Barnaul;x
+PROV1068;Ulala;x
+PROV1069;Vilyuysk;x
+PROV1070;Bryanka;x
+PROV1071;Bytantaysk;x
+PROV1072;Okhotsk;x
+PROV1073;Yevensk;x
+PROV1074;Petropavlovsk;x
+PROV1075;Irkutsk;x
+PROV1076;Bratsk;x
+PROV1077;Krasnoyarsk;x
+PROV1078;Chita;x
+PROV1079;Nerchinsk;x
+PROV1080;Chernomin;x
+PROV1081;Yaksa;x
+PROV1082;Haishenwai;x
+PROV1083;Boli;x
+PROV1084;Utchan;x
+PROV1085;Ulusamudan;x
+PROV1086;Pogobi;x
+PROV1087;Ootomari;x
+PROV1088;Shumshu;x
+PROV1089;Etorofu;x
+PROV1090;Tblisi;x
+PROV1091;Pasanauri;x
+PROV1092;Kutaisi;x
+PROV1093;Akhaltsikhe;x
+PROV1094;Poti;x
+PROV1095;Sukhumi;x
+PROV1096;Batum;x
+PROV1097;New Caledonia;x
+PROV1098;Erivan;x
+PROV1099;Gyumri;x
+PROV1100;Kapan;x
+PROV1101;Nakhichevan;x
+PROV1102;Baku;x
+PROV1103;Siyazen;x
+PROV1104;Sheki;x
+PROV1105;Ganja;x
+PROV1106;Agdam;x
+PROV1107;Lankaran;x
+PROV1108;Tabriz;x
+PROV1109;Khvoy;x
+PROV1110;Urumia;x
+PROV1111;Mahabad;x
+PROV1112;Ardabil;x
+PROV1113;Rasht;x
+PROV1114;Noshehr;x
+PROV1115;Sari;x
+PROV1116;Gorgan;x
+PROV1117;Kermanshah;x
+PROV1118;Sanandaj;x
+PROV1119;Ilam;x
+PROV1120;Khoramabad;x
+PROV1121;Tehran;x
+PROV1122;Hamadan;x
+PROV1123;Zanjan;x
+PROV1124;Qazvin;x
+PROV1125;Qom;x
+PROV1126;Semnan;x
+PROV1127;Isfahan;x
+PROV1128;Arak;x
+PROV1129;Kashan;x
+PROV1130;Yazd;x
+PROV1131;Ahvaz;x
+PROV1132;Abadan;x
+PROV1133;Dezful;x
+PROV1134;Dehkord;x
+PROV1135;Shiraz;x
+PROV1136;Bushire;x
+PROV1137;Yasuj;x
+PROV1138;Kangan;x
+PROV1139;Sirjan;x
+PROV1140;Kerman;x
+PROV1141;Lengeh;x
+PROV1142;Bandar Abbas;x
+PROV1143;Bam;x
+PROV1144;Zahedan;x
+PROV1145;Jask;x
+PROV1146;Chabahar;x
+PROV1147;Mashhad;x
+PROV1148;Birjand;x
+PROV1149;Sabzevar;x
+PROV1150;Bojnurd;x
+PROV1151;Mecca;x
+PROV1152;Jidda;x
+PROV1153;Medina;x
+PROV1154;Tabuk;x
+PROV1155;Abha;x
+PROV1156;Kaf;x
+PROV1157;Riyadh;x
+PROV1158;Rafha;x
+PROV1159;Halaban;x
+PROV1160;Hail;x
+PROV1161;Sharurah;x
+PROV1162;Bahrain;x
+PROV1163;Qatif;x
+PROV1164;Hufuf;x
+PROV1165;Doha;x
+PROV1166;Muscat;x
+PROV1167;Abu Dhabi;x
+PROV1168;Dubai;x
+PROV1169;Sohar;x
+PROV1170;Nizwa;x
+PROV1171;Sur;x
+PROV1172;Duqm;Duqm;x
+PROV1173;Mukalla;x
+PROV1174;Salalah;x
+PROV1175;Ghayda;x
+PROV1176;Bayda;x
+PROV1177;Socotra;x
+PROV1178;Sana'a;x
+PROV1179;Hodeida;x
+PROV1180;Taizz;x
+PROV1181;Qaraganda;x
+PROV1182;Guryev;x
+PROV1183;Aqtobe;x
+PROV1184;Kokshetau;x
+PROV1185;Yasi;x
+PROV1186;Alma Ata;x
+PROV1187;Semipalatinsk;x
+PROV1188;Qaratal;x
+PROV1189;Bishkek;x
+PROV1190;Naryn;x
+PROV1191;Khiva;x
+PROV1192;Nukus;x
+PROV1193;Kyzylorda;x
+PROV1194;Aqtau;x
+PROV1195;Tashkent;x
+PROV1196;Dashhowuz;x
+PROV1197;Shymkent;x
+PROV1198;Bukhara;x
+PROV1199;Samarkand;x
+PROV1200;Qarshi;x
+PROV1201;Khojand;x
+PROV1202;Kokand;x
+PROV1203;Osh;x
+PROV1204;Ashkhabad;x
+PROV1205;Kyzyl Arvat;x
+PROV1206;Merv;x
+PROV1207;Kulob;x
+PROV1208;Khorug;x
+PROV1209;Kabul;x
+PROV1210;Faizabad;x
+PROV1211;Balkh;x
+PROV1212;Herat;x
+PROV1213;Bamyan;x
+PROV1214;Farrah;x
+PROV1215;Kandahar;x
+PROV1216;Jalalabad;x
+PROV1217;Ghazni;x
+PROV1218;Peshawar;x
+PROV1219;Quetta;x
+PROV1220;Dalbandin;x
+PROV1221;Kalat;x
+PROV1222;Bela;x
+PROV1223;Chitral;x
+PROV1224;Srinagar;x
+PROV1225;Gilgit;x
+PROV1226;Leh;x
+PROV1227;Lahore;x
+PROV1228;Multan;x
+PROV1229;Sialkot;x
+PROV1230;Attock;x
+PROV1231;Bahawalpur;x
+PROV1232;Shahpur;x
+PROV1233;Amritsar;x
+PROV1234;Firozpur;x
+PROV1235;Simla;x
+PROV1236;Delhi;x
+PROV1237;Panipat;x
+PROV1238;Dehra Dun;x
+PROV1239;Meerut;x
+PROV1240;Agra;x
+PROV1241;Cawnpore;x
+PROV1242;Lucknow;x
+PROV1243;Allahabad;x
+PROV1244;Fyzabad;x
+PROV1245;Benares;x
+PROV1246;Gorakhpur;x
+PROV1247;Patna;x
+PROV1248;Gaya;x
+PROV1249;Kharswari;x
+PROV1250;Bhagalpur;x
+PROV1251;Kolkata;x
+PROV1252;Darjeeling;x
+PROV1253;Bardwan;x
+PROV1254;Dacca;x
+PROV1255;Rajshahi;x
+PROV1256;Jessore;x
+PROV1257;Chittagong;x
+PROV1258;Gauhati;x
+PROV1259;Imphal;x
+PROV1260;Dibrugarh;x
+PROV1261;Cuttack;x
+PROV1262;Keunjahr;x
+PROV1263;Sambalpur;x
+PROV1264;Ajmer;x
+PROV1265;Jaisalmer;x
+PROV1266;Jodhpur;x
+PROV1267;Bikaner;x
+PROV1268;Jaipur;x
+PROV1269;Udaipur;x
+PROV1270;Gwalior;x
+PROV1271;Indore;x
+PROV1272;Bhopal;x
+PROV1273;Chhatarpur;x
+PROV1274;Rewa;x
+PROV1275;Jubbulpore;x
+PROV1276;Hoshangabad;x
+PROV1277;Nagpur;x
+PROV1278;Amarati;x
+PROV1279;Jagdalpur;x
+PROV1280;Raipur;x
+PROV1281;Bilaspur;x
+PROV1282;Raigarh;x
+PROV1283;Hyderabad;x
+PROV1284;Aurangabad;x
+PROV1285;Nizamabad;x
+PROV1286;Gulbarga;x
+PROV1287;Warangal;x
+PROV1288;Karachi;x
+PROV1289;Sukkur;x
+PROV1290;Umarkot;x
+PROV1291;Ahmedabad;x
+PROV1292;Rajkot;x
+PROV1293;Mandvi;x
+PROV1294;Patan;x
+PROV1295;Baroda;x
+PROV1296;Surat;x
+PROV1297;Bombay;x
+PROV1298;Nasik;x
+PROV1299;Poona;x
+PROV1300;Bijapur;x
+PROV1301;Kolhapur;x
+PROV1302;Belgaum;x
+PROV1303;Goa;x
+PROV1304;Madras;x
+PROV1305;Vizagapatnam;x
+PROV1306;Masulipatnam;x
+PROV1307;Nellore;x
+PROV1308;Kurnool;x
+PROV1309;Tanjore;x
+PROV1310;Madurai;x
+PROV1311;Coimbatore;x
+PROV1312;Pondicherry;x
+PROV1313;Bangalore;x
+PROV1314;Mysore;x
+PROV1315;Chitaldroog;x
+PROV1316;Mangalore;x
+PROV1317;Calicut;x
+PROV1318;Cochin;x
+PROV1319;Trivandrum;x
+PROV1320;Andaman Islands;x
+PROV1321;Colombo;x
+PROV1322;Jaffna;x
+PROV1323;Kandy;x
+PROV1324;Trincomalee;x
+PROV1325;Maldives;x
+PROV1326;Katmandu;x
+PROV1327;Jumla;x
+PROV1328;Tumlong;x
+PROV1329;Thimpu;x
+PROV1330;Rangoon;Rangoon;x
+PROV1331;Bassein;x
+PROV1332;Pegu;x
+PROV1333;Toungoo;x
+PROV1334;Ava;x
+PROV1335;Kyaukse;x
+PROV1336;Magwe;x
+PROV1337;Prome;x
+PROV1338;Taunggyi;x
+PROV1339;Haka;x
+PROV1340;Lashio;x
+PROV1341;Putao;x
+PROV1342;Myitkyina;x
+PROV1343;Moulmein;x
+PROV1344;Mergui;x
+PROV1345;Sittwe;x
+PROV1346;Bangkok;x
+PROV1347;Lopburi;x
+PROV1348;Nakhon Sawan;x
+PROV1349;Sukhothai;x
+PROV1350;Nakhon Ratchasima;x
+PROV1351;Prachinburi;x
+PROV1352;Phuket;x
+PROV1353;Ratchaburi;x
+PROV1354;Nakhon Si Thammarat;x
+PROV1355;Chiang Mai;x
+PROV1356;Luang Prabang;x
+PROV1357;Vientiane;x
+PROV1358;Udon Thani;x
+PROV1359;Sisaket;x
+PROV1360;Xiangabouli;x
+PROV1361;Savannakhet;x
+PROV1362;Salavan;x
+PROV1363;Pakche;x
+PROV1364;Oudong;x
+PROV1365;Chanthaburi;x
+PROV1366;Battambang;x
+PROV1367;Kampot;x
+PROV1368;Stongtreng;x
+PROV1369;Hanoi;x
+PROV1370;Hai Phong;x
+PROV1371;Cao Bang;x
+PROV1372;Son La;x
+PROV1373;Lang Son;x
+PROV1374;Thanh Hoa;x
+PROV1375;Hue;x
+PROV1376;Vinh;x
+PROV1377;Tourane;x
+PROV1378;Pleiku;x
+PROV1379;Qui Nhon;x
+PROV1380;Saigon;x
+PROV1381;Dong Quai;x
+PROV1382;Hatien;x
+PROV1383;Vinhlong;x
+PROV1384;Singapore;x
+PROV1385;Johor Bahru;x
+PROV1386;Malacca;x
+PROV1387;Kuala Lumpur;x
+PROV1388;Penang;x
+PROV1389;Alor Setar;x
+PROV1390;Kuantan;x
+PROV1391;Kota Bahru;x
+PROV1392;Pattani;x
+PROV1393;Brunei;x
+PROV1394;Kuching;x
+PROV1395;Bintulu;x
+PROV1396;Api;x
+PROV1397;Sandakan;x
+PROV1398;Jambi;x
+PROV1399;Palembang;x
+PROV1400;Inderagiri;x
+PROV1401;Siak;x
+PROV1402;Tanjungpinang;x
+PROV1403;Lampung;x
+PROV1404;Palak Pinang;x
+PROV1405;Banda Aceh;x
+PROV1406;Medan;x
+PROV1407;Tapaktuan;x
+PROV1408;Padang;x
+PROV1409;Sibolga;x
+PROV1410;Bencoolen;x
+PROV1411;Gunungsitoli;x
+PROV1412;Aden;x
+PROV1413;Batavia;x
+PROV1414;Bogor;x
+PROV1415;Cirebon;x
+PROV1416;Yogyakarta;x
+PROV1417;Semarang;x
+PROV1418;Surabaya;x
+PROV1419;Surakarta;x
+PROV1420;Probolinggo;x
+PROV1421;Madura;x
+PROV1422;Muraleve;x
+PROV1423;Banjarmasin;x
+PROV1424;Pasir;x
+PROV1425;Tarakan;x
+PROV1426;Pontianak;x
+PROV1427;Kota Waringin;x
+PROV1428;Sintang;x
+PROV1429;Samarinda;x
+PROV1430;Makassar;x
+PROV1431;Bone;x
+PROV1432;Mamuju;x
+PROV1433;Menado;x
+PROV1434;Luwuk;x
+PROV1435;Palu;x
+PROV1436;Kendari;x
+PROV1437;Bulon;x
+PROV1438;Bali;x
+PROV1439;Flores;x
+PROV1440;Sumbawa;x
+PROV1441;Sumba;x
+PROV1442;Lombok;x
+PROV1443;Roti;x
+PROV1444;Alor;x
+PROV1445;Kaupeng;x
+PROV1446;Dili;x
+PROV1447;Ternate;x
+PROV1448;Jilolo;x
+PROV1449;Ambon;x
+PROV1450;Ceram;x
+PROV1451;Aru;x
+PROV1452;Biak;x
+PROV1453;Sorong;x
+PROV1454;Merah;x
+PROV1455;Manila;x
+PROV1456;Vigan;x
+PROV1457;Legazpi;x
+PROV1458;Mindoro;x
+PROV1459;Palawan;x
+PROV1460;Iloilo;x
+PROV1461;Tacloban;x
+PROV1462;Zamboanga;x
+PROV1463;Davao;x
+PROV1464;Sulu;x
+PROV1465;Urga;x
+PROV1466;Dalandzadgad;x
+PROV1467;Bayan Tumen;x
+PROV1468;Uliastai;x
+PROV1469;Kyzyl;x
+PROV1470;Anqing;x
+PROV1471;Chizhou;x
+PROV1472;Fengyang;x
+PROV1473;Huizhou;x
+PROV1474;Luzhou;x
+PROV1475;Ningguo;x
+PROV1476;Sizhou;x
+PROV1477;Taiping;x
+PROV1478;Yingzhou;x
+PROV1479;Mukden;x
+PROV1480;Jinzhou;x
+PROV1481;Dalian;x
+PROV1482;Fuzhou;x
+PROV1483;Jianning;x
+PROV1484;Quanzhou;x
+PROV1485;Taibei;x
+PROV1486;Tingzhou;x
+PROV1487;Zhangzhou;x
+PROV1488;Jiayuguan;x
+PROV1489;Gongchang;x
+PROV1490;Lanzhou;x
+PROV1491;Ningxia;x
+PROV1492;Pingliang;x
+PROV1493;Canton;x
+PROV1494;Chaozhou;x
+PROV1495;Zhanjiang;x
+PROV1496;Hong Kong;x
+PROV1497;Huizhou;x
+PROV1498;Macao;x
+PROV1499;Hainan;x
+PROV1500;Shaozhou;x;
+PROV1501;Zhaoqing;x
+PROV1502;Nanning;x
+PROV1503;Guilin;x
+PROV1504;Pingle;x
+PROV1505;Guiyang;x
+PROV1506;Anshun;x
+PROV1507;Zhenyuan;x
+PROV1508;Kaifeng;x
+PROV1509;Guide;x
+PROV1510;Luoyang;x
+PROV1511;Zhengzhou;x
+PROV1512;Chenzhou;x
+PROV1513;Nanyang;x
+PROV1514;Runing;x
+PROV1515;Weihui;x
+PROV1516;Hanyang;x
+PROV1517;Dean;x
+PROV1518;Huangzhou;x
+PROV1519;Anlu;x
+PROV1520;Jingzhou;x
+PROV1521;Shinan;x
+PROV1522;Wuchang;x
+PROV1523;Xiangyang;x
+PROV1524;Changsha;x
+PROV1525;Changde;x
+PROV1526;Baoqing;x
+PROV1527;Hengzhou;x
+PROV1528;Yuezhou;x
+PROV1529;Yongshun;x
+PROV1530;Yongzhou;x
+PROV1531;New Ireland;x
+PROV1532;Guihua Tumed;x
+PROV1533;Jirim Chuulgan;x
+PROV1534;Ulaan Chab Chuulghan;x
+PROV1535;Yeke Juu Chuulghan;x
+PROV1536;Huaian;x
+PROV1537;Changzhou;x
+PROV1538;Shanghai;x
+PROV1539;Suzhou;x
+PROV1540;Taicangzhou;x
+PROV1541;Tongzhou;x
+PROV1542;Xuzhou;x
+PROV1543;Yangzhou;x
+PROV1544;Zhenjiang;x
+PROV1545;Nanchang;x
+PROV1546;Guangxin;x
+PROV1547;Jian;x
+PROV1548;Jianchang;x
+PROV1549;Jiujiang;x
+PROV1550;Ganzhou;x
+PROV1551;Raozhou;x
+PROV1552;Qiqihar;x
+PROV1553;Aigun;x
+PROV1554;Ninguta;x
+PROV1555;Jilin;x
+PROV1556;Makhai;x
+PROV1557;Balekungomi;x
+PROV1558;Kegudo;x
+PROV1559;Xian;x
+PROV1560;Merauke;x
+PROV1561;Yenan;x
+PROV1562;Hanzhong;x
+PROV1563;Jinan;x
+PROV1564;Caozhou;x
+PROV1565;Laizhou;x
+PROV1566;Qingdao;x
+PROV1567;Qingzhou;x
+PROV1568;Taian;x
+PROV1569;Weihaiwei;x
+PROV1570;Wuding;x
+PROV1571;Yizhou;x
+PROV1572;Taiyuan;x
+PROV1573;Fenzhou;x
+PROV1574;Luan;x
+PROV1575;Pingyang;x
+PROV1576;Datong;x
+PROV1577;Chongqing;x
+PROV1578;Chengdu;x
+PROV1579;Baotung;x
+PROV1580;Jiading;x
+PROV1581;Kuizhou;x
+PROV1582;Longan;x
+PROV1583;Shunqing;x
+PROV1584;Tongchuan;x
+PROV1585;Yibin;x
+PROV1586;Yazhou;x
+PROV1587;Lhasa;x
+PROV1588;Chamdo;x
+PROV1589;Shigatse;x
+PROV1590;Lhodrak;x
+PROV1591;Changtang;x
+PROV1592;Ngari;x
+PROV1593;Tawang;x
+PROV1594;Kashgar;x
+PROV1595;Ili;x
+PROV1596;Tulta;x
+PROV1597;Aksu;x
+PROV1598;Khotan;x
+PROV1599;Kumul;x
+PROV1600;D�hu�;x
+PROV1601;Kunming;x
+PROV1602;Dali;x
+PROV1603;Puer;x
+PROV1604;Hangzhou;x
+PROV1605;Huzhou;x
+PROV1606;Jiaxing;x
+PROV1607;Jinhua;x
+PROV1608;Ningbo;x
+PROV1609;Shaoxing;x
+PROV1610;Taizhou;x
+PROV1611;Wenzhou;x
+PROV1612;Beijing;x
+PROV1613;Chengde;x
+PROV1614;Daming;x
+PROV1615;Jizhou;x
+PROV1616;Tangshan;x
+PROV1617;Tianjin;x
+PROV1618;Zhongding;x
+PROV1619;Pyongyang;x
+PROV1620;Chonchon;x
+PROV1621;Hamhung;x
+PROV1622;Chongjin;x
+PROV1623;Kimchaek;x
+PROV1624;Seoul;x
+PROV1625;Kaesong;x
+PROV1626;Haeju;x
+PROV1627;Sariwon;x
+PROV1628;Inchon;x
+PROV1629;Wonsan;x
+PROV1630;Kangnung;x
+PROV1631;Wonju;x
+PROV1632;Pusan;x
+PROV1633;Taegu;x
+PROV1634;Pohang;x
+PROV1635;Kwangju;x
+PROV1636;Taejon;x
+PROV1637;Cheju;x
+PROV1638;Hiroshima;x
+PROV1639;Okayama;x
+PROV1640;Yamaguchi;x
+PROV1641;Matsue;x
+PROV1642;Hakodate;x
+PROV1643;Ishikara;x
+PROV1644;Nemuru;x
+PROV1645;Niigata;x
+PROV1646;Kanazawa;x
+PROV1647;Fukui;x
+PROV1648;Toyama;x
+PROV1649;Edo;x
+PROV1650;Chiba;x
+PROV1651;Yokohama;x
+PROV1652;Urawa;x
+PROV1653;Mito;x
+PROV1654;Bonin;x
+PROV1655;Osaka;x
+PROV1656;Wakayama;x
+PROV1657;Kyoto;x
+PROV1658;Nara;x
+PROV1659;Kobe;x
+PROV1660;Fukuoka;x
+PROV1661;Nagasaki;x
+PROV1662;Kagoshima;x
+PROV1663;Miyazaki;x
+PROV1664;Kumamoto;x
+PROV1665;Kochi;x
+PROV1666;Matsuyama;x
+PROV1667;Tokushima;x
+PROV1668;Sendai;x
+PROV1669;Fukushima;x
+PROV1670;Morioka;x
+PROV1671;Akita;x
+PROV1672;Aomori;x
+PROV1673;Yamagata;x
+PROV1674;Utsunomiya;x
+PROV1675;Nagoya;x
+PROV1676;Shizuoka;x
+PROV1677;Nagano;x
+PROV1678;Okinawa;x
+PROV1679;Amari;x
+PROV1680;Fez;x
+PROV1681;Wazzan;x
+PROV1682;Meknes;x
+PROV1683;Taza;x
+PROV1684;Wujda;Oujda;Wujda;;Wujda;;;;;;;;;x;;;;
+PROV1685;Rabat;Rabat;Rabat;;Rabat;;;;;;;;;x;;;;
+PROV1686;Tangier;Tanger;Tangier;;Tangier;;;;;;;;;x;;;;
+PROV1687;Tetouan;T彋ouan;Tetouan;;Tetouan;;;;;;;;;x;;;;
+PROV1688;Ajdir;Ajdir;Ajdir;;Ajdir;;;;;;;;;x;;;;
+PROV1689;Melilla;Melilla;Melilla;;Melilla;;;;;;;;;x;;;;
+PROV1690;Marrakesh;Marrakech;Marrakesch;;Marrakech;;;;;;;;;x;;;;
+PROV1691;Casablanca;Casablanca;Casablanca;;Casablanca;;;;;;;;;x;;;;
+PROV1692;Huribka;Huribka;Huribka;;Huribka;;;;;;;;;x;;;;
+PROV1693;Sawira;Sawira;Sawira;;Sawira;;;;;;;;;x;;;;
+PROV1694;Agadir;Agadir;Agadir;;Agadir;;;;;;;;;x;;;;
+PROV1695;Ifni;Ifni;Ifni;;Ifni;;;;;;;;;x;;;;
+PROV1696;Tarfaya;Tarfaya;Tarfaya;;Tarfaya;;;;;;;;;x;;;;
+PROV1697;Figuig;Figuig;Figuig;;Figuig;;;;;;;;;x;;;;
+PROV1698;Rashidia;Rashidia;Rashidia;;Rashidia;;;;;;;;;x;;;;
+PROV1699;Warzazat;Ouarzazate;Warzazat;;Warzazat;;;;;;;;;x;;;;
+PROV1700;Algiers;Alger;Algiers;;Argel;;;;;;;;;x;;;;
+PROV1701;Bougie;Bougie;Bougie;;Bougie;;;;;;;;;x;;;;
+PROV1702;Setif;S彋if;Setif;;Setif;;;;;;;;;x;;;;
+PROV1703;Medea;M嶮嶧;Medea;;Medea;;;;;;;;;x;;;;
+PROV1704;Oran;Oran;Oran;;Or嫕;;;;;;;;;x;;;;
+PROV1705;Tlemcen;Tlemcen;Tlemcen;;Tlemcen;;;;;;;;;x;;;;
+PROV1706;Mustaghanim;Mostaganem;Mustaghanim;;Mustaghanim;;;;;;;;;x;;;;
+PROV1707;Mascara;Mascara;Mascara;;Mascara;;;;;;;;;x;;;;
+PROV1708;Constantine;Constantine;Constantine;;Constantina;;;;;;;;;x;;;;
+PROV1709;Bone;Bone;Bone;;Bone;;;;;;;;;x;;;;
+PROV1710;Biskra;Biskra;Biskra;;Biskra;;;;;;;;;x;;;;
+PROV1711;Ouargla;Ouargla;Ouargla;;Ouargla;;;;;;;;;x;;;;
+PROV1712;Tuggurt;Touggourt;Tuggurt;;Tuggurt;;;;;;;;;x;;;;
+PROV1713;Laghwat;Laghwat;Laghwat;;Laghwat;;;;;;;;;x;;;;
+PROV1714;Bechar;B嶰har;Bechar;;Bechar;;;;;;;;;x;;;;
+PROV1715;Naama;Na滵a;Naama;;Naama;;;;;;;;;x;;;;
+PROV1716;Tindouf;Tindouf;Tindouf;;Tindouf;;;;;;;;;x;;;;
+PROV1717;Chenachene;Chenachane;Chenachene;;Chenachene;;;;;;;;;x;;;;
+PROV1718;In Salah;In Salah;In Salah;;In Salah;;;;;;;;;x;;;;
+PROV1719;Ilizi;Illizi;Ilizi;;Ilizi;;;;;;;;;x;;;;
+PROV1720;Timimoun;Timimoun;Timimoun;;Timimoun;;;;;;;;;x;;;;
+PROV1721;In Guezzam;In Guezzam;In Guezzam;;In Guezzam;;;;;;;;;x;;;;
+PROV1722;Tin Zawatene;Tin Zaouatene;Tin Zawatene;;Tin Zawatene;;;;;;;;;x;;;;
+REMOVE_PROV1723;Colon;Canal de Panama ;Panamakanal;;Col鏮;;;;;;;;;x;;;;
+PROV1724;Tamanrasset;Tamanrasset;Tamanrasset;;Tamanrasset;;;;;;;;;x;;;;
+PROV1725;Tunis;Tunis;Tunis;;Tez;;;;;;;;;x;;;;
+PROV1726;Bizerte;Bizerte;Bizerte;;Bizerte;;;;;;;;;x;;;;
+PROV1727;Gafsa;Gafsa;Gafsa;;Gafsa;;;;;;;;;x;;;;
+PROV1728;Kairouan;Kairouan;Kairouan;;Kairouan;;;;;;;;;x;;;;
+PROV1729;Tozeur;Tozeur;Tozeur;;Tozeur;;;;;;;;;x;;;;
+PROV1730;Gabes;Gabes;Gabes;;Gabes;;;;;;;;;x;;;;
+PROV1731;Tripoli;Tripoli;Tripolis;;Tr甑oli;;;;;;;;;x;;;;
+PROV1732;Gharyan;Gharyan;Gharyan;;Gharyan;;;;;;;;;x;;;;
+PROV1733;Misratah;Misratah;Misratah;;Misurata;;;;;;;;;x;;;;
+PROV1734;Sirt;Sirt;Sirt;;Sirte;;;;;;;;;x;;;;
+PROV1735;Benghazi;Benghazi;Benghazi;;Bengasi;;;;;;;;;x;;;;
+PROV1736;Darna;Darna;Darna;;Darna;;;;;;;;;x;;;;
+PROV1737;Tobruk;Tobrouk;Tobruk;;Tobruk;;;;;;;;;x;;;;
+PROV1738;Jaghbub;Jaghbub;Jaghbub;;Jaghbub;;;;;;;;;x;;;;
+PROV1739;Kufra;Koufra;Kufra;;Kufra;;;;;;;;;x;;;;
+PROV1740;Waddan;Waddan;Waddan;;Waddan;;;;;;;;;x;;;;
+PROV1741;Murzuk;Murzuk;Murzuk;;Murzuq;;;;;;;;;x;;;;
+PROV1742;Sabha;Sabha;Sabha;;Sabha;;;;;;;;;x;;;;
+PROV1743;Ghat;Ghat;Ghat;;Ghat;;;;;;;;;x;;;;
+PROV1744;Ghadamis;Ghadam鋊;Ghadamis;;Ghadamis;;;;;;;;;x;;;;
+PROV1745;Cairo;Cairo;Kairo;;Cairo;;;;;;;;;x;;;;
+PROV1746;Dumyat;Dumyat;Dumyat;;Dumyat;;;;;;;;;x;;;;
+PROV1747;Tanta;Tanta;Tanta;;Tanta;;;;;;;;;x;;;;
+PROV1748;Mansura;Mansura;Mansura;;Mansura;;;;;;;;;x;;;;
+PROV1749;Ziqaziq;Ziqaziq;Ziqaziq;;Ziqaziq;;;;;;;;;x;;;;
+PROV1750;Giza;Gizeh;Giza;;Giza;;;;;;;;;x;;;;
+PROV1751;Alexandria;Alexandrie;Alexandria;;Alexandr燰;;;;;;;;;x;;;;
+PROV1752;Matruh;Matruh;Matruh;;Matruh;;;;;;;;;x;;;;
+PROV1753;Sidi Barrani;Sidi Barrani;Sidi Barrani;;S骾?Barr滱?;;;;;;;;x;;;;
+PROV1754;Siwa;Siwa;Siwa;;Siwa;;;;;;;;;x;;;;
+PROV1755;Suez;Canal de Suez;Suez;;Suez;;;;;;;;;x;;;;
+PROV1756;Al Arish;Al Arish;Al Arish;;Al Arish;;;;;;;;;x;;;;
+PROV1757;Sharm al-Shaykh;Sharm el Sheikh;Sharm al-Shaykh;;Sharm al-Shaykh;;;;;;;;;x;;;;
+PROV1758;Farafra;Farafra;Farafra;;Farafra;;;;;;;;;x;;;;
+PROV1759;Bawiti;Bawiti;Bawiti;;Bawiti;;;;;;;;;x;;;;
+PROV1760;Mut;Mut;Mut;;Mut;;;;;;;;;x;;;;
+PROV1761;Baris;Baris;Baris;;Baris;;;;;;;;;x;;;;
+PROV1762;Asyut;Asyut;Asyut;;Asiut;;;;;;;;;x;;;;
+PROV1763;Bani Suwayf;Bani Suwayf;Bani Suwayf;;Bani Suwayf;;;;;;;;;x;;;;
+PROV1764;Minya;Minya;Minya;;Minya;;;;;;;;;x;;;;
+PROV1765;Fayyum;Fayyum;Fayyum;;Fayyum;;;;;;;;;x;;;;
+PROV1766;Aswan;Assouan;Aswan;;Asu嫕;;;;;;;;;x;;;;
+PROV1767;Luxor;Louxor;Luxor;;Luxor;;;;;;;;;x;;;;
+PROV1768;Idfu;Edfou;Idfu;;Idfu;;;;;;;;;x;;;;
+PROV1769;Qina;Qina;Qina;;Qina;;;;;;;;;x;;;;
+PROV1770;Qusayr;Qusayr;Qusayr;;Qusayr;;;;;;;;;x;;;;
+PROV1771;Marsa Alam;Marsa Alam;Marsa Alam;;Marsa Alam;;;;;;;;;x;;;;
+PROV1772;Ras Gharib;Ras Gharib;Ras Gharib;;Ras Gharib;;;;;;;;;x;;;;
+PROV1773;Aaiun;Aaiun;Aaiun;;Aaiun;;;;;;;;;x;;;;
+PROV1774;Dakhla;Dakhla;Dakhla;;Dakhla;;;;;;;;;x;;;;
+PROV1775;Nouakchott;Nouakchott;Nouakchott;;Nuakchot;;;;;;;;;x;;;;
+PROV1776;Rosso;Rosso;Rosso;;Rosso;;;;;;;;;x;;;;
+PROV1777;Aleg;Aleg;Aleg;;Aleg;;;;;;;;;x;;;;
+PROV1778;Maghama;Maghama;Maghama;;Maghama;;;;;;;;;x;;;;
+PROV1779;Shingit;Shingit;Shingit;;Shingit;;;;;;;;;x;;;;
+PROV1780;Tichit;Tichit;Tichit;;Tichit;;;;;;;;;x;;;;
+PROV1781;Walata;Walata;Walata;;Walata;;;;;;;;;x;;;;
+PROV1782;Bir Murghayn;Bir Murghayn;Bir Murghayn;;Bir Murghayn;;;;;;;;;x;;;;
+PROV1783;Dakar;Dakar;Dakar;;Dakar;;;;;;;;;x;;;;
+PROV1784;Saint-Louis;Saint-Louis;Saint-Louis;;Saint-Louis;;;;;;;;;x;;;;
+PROV1785;Banjul;Banjul;Banjul;;Banjul;;;;;;;;;x;;;;
+PROV1786;Linguere;Lingu鋨e;Linguere;;Linguere;;;;;;;;;x;;;;
+PROV1787;Diourbel;Diourbel;Diourbel;;Diourbel;;;;;;;;;x;;;;
+PROV1788;Kaolack;Kaolack;Kaolack;;Kaolack;;;;;;;;;x;;;;
+PROV1789;Podor;Podor;Podor;;Podor;;;;;;;;;x;;;;
+PROV1790;Matam;Matam;Matam;;Matam;;;;;;;;;x;;;;
+PROV1791;Bakel;Bakel;Bakel;;Bakel;;;;;;;;;x;;;;
+PROV1792;Ziguinchor;Ziguinchor;Ziguinchor;;Ziguinchor;;;;;;;;;x;;;;
+PROV1793;Velingara;Velingara;Velingara;;Velingara;;;;;;;;;x;;;;
+PROV1794;Bamako;Bamako;Bamako;;Bamako;;;;;;;;;x;;;;
+PROV1795;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x;;;;
+PROV1796;Nioro;Nioro;Nioro;;Nioro;;;;;;;;;x;;;;
+PROV1797;Kita;Kita;Kita;;Kita;;;;;;;;;x;;;;
+PROV1798;Bougouni;Bougouni;Bougouni;;Bougouni;;;;;;;;;x;;;;
+PROV1799;Sikasso;Sikasso;Sikasso;;Sikasso;;;;;;;;;x;;;;
+PROV1800;Segu;Segu;Segu;;Segu;;;;;;;;;x;;;;
+PROV1801;Mourdiah;Mourdiah;Mourdiah;;Mourdiah;;;;;;;;;x;;;;
+PROV1802;Jenne;Jenne;Jenne;;Jenne;;;;;;;;;x;;;;
+PROV1803;Timbuktu;Tombouctou;Timbuktu;;Tombuct?;;;;;;;;x;;;;
+PROV1804;Bandiagara;Bandiagara;Bandiagara;;Bandiagara;;;;;;;;;x;;;;
+PROV1805;Gao;Gao;Gao;;Gao;;;;;;;;;x;;;;
+PROV1806;Taoudenni;Taoudenni;Taoudenni;;Taoud幯i;;;;;;;;;x;;;;
+PROV1807;Tessalit;Tessalit;Tessalit;;Tessalit;;;;;;;;;x;;;;
+PROV1808;Niamey;Niamey;Niamey;;Niamey;;;;;;;;;x;;;;
+PROV1809;Say;Say;Say;;Say;;;;;;;;;x;;;;
+PROV1810;Dosso;Dosso;Dosso;;Dosso;;;;;;;;;x;;;;
+PROV1811;Maradi;Maradi;Maradi;;Maradi;;;;;;;;;x;;;;
+PROV1812;Agades;Agadez;Agades;;Agad鋊;;;;;;;;;x;;;;
+PROV1813;Arlit;Arlit;Arlit;;Arlit;;;;;;;;;x;;;;
+PROV1814;Madama;Madama;Madama;;Madama;;;;;;;;;x;;;;
+PROV1815;Zinder;Zinder;Zinder;;Zinder;;;;;;;;;x;;;;
+PROV1816;Kufe;Kufe;Kufe;;Kufe;;;;;;;;;x;;;;
+PROV1817;Bilma;Bilma;Bilma;;Bilma;;;;;;;;;x;;;;
+PROV1818;Massenya;Massenya;Massenya;;Massenya;;;;;;;;;x;;;;
+PROV1819;Moundou;Moundou;Moundou;;Moundou;;;;;;;;;x;;;;
+PROV1820;Bongor;Bongor;Bongor;;Bongor;;;;;;;;;x;;;;
+PROV1821;Abeche;Ab嶰h?Abeche;;Abeche;;;;;;;;;x;;;;
+PROV1822;Am Timan;Am Timan;Am Timan;;Am Timan;;;;;;;;;x;;;;
+PROV1823;Mongo;Mongo;Mongo;;Mongo;;;;;;;;;x;;;;
+PROV1824;Mao;Mao;Mao;;Mao;;;;;;;;;x;;;;
+PROV1825;Zouar;Zouar;Zouar;;Zouar;;;;;;;;;x;;;;
+PROV1826;Faya;Faya;Faya;;Faya;;;;;;;;;x;;;;
+PROV1827;Khartoum;Khartoum;Khartoum;;Jartum;;;;;;;;;x;;;;
+PROV1828;Wad Madani;Wad Madani;Wad Madani;;Wad Madan?;;;;;;;;x;;;;
+PROV1829;Kassala;Kassala;Kassala;;Kassala;;;;;;;;;x;;;;
+PROV1830;Sennar;Sennar;Sennar;;Sennar;;;;;;;;;x;;;;
+PROV1831;Rabak;Rabak;Rabak;;Rabak;;;;;;;;;x;;;;
+PROV1832;Fashoda;Fashoda;Fashoda;;Fashoda;;;;;;;;;x;;;;
+PROV1833;Suakin;Suakin;Suakin;;Suakin;;;;;;;;;x;;;;
+PROV1834;Halaib;Halaib;Halaib;;Halaib;;;;;;;;;x;;;;
+PROV1835;Dongola;Dongola;Dongola;;Dongola;;;;;;;;;x;;;;
+PROV1836;Hayya;Hayya;Hayya;;Hayya;;;;;;;;;x;;;;
+PROV1837;Atbara;Atbara;Atbara;;Atbara;;;;;;;;;x;;;;
+PROV1838;Obeid;Obeid;Obeid;;Obeid;;;;;;;;;x;;;;
+PROV1839;Nuhud;Nuhud;Nuhud;;Nuhud;;;;;;;;;x;;;;
+PROV1840;Kaduqli;Kaduqli;Kaduqli;;Kaduqli;;;;;;;;;x;;;;
+PROV1841;Fasher;Fasher;Fasher;;Fasher;;;;;;;;;x;;;;
+PROV1842;Junaynah;Junaynah;Junaynah;;Junaynah;;;;;;;;;x;;;;
+PROV1843;Waw;Waw;Waw;;W漙;;;;;;;;;x;;;;
+PROV1844;Bor;Bor;Bor;;Bor;;;;;;;;;x;;;;
+PROV1845;Yambio;Yambio;Yambio;;Yambio;;;;;;;;;x;;;;
+PROV1846;Lado;Lado;Lado;;Lado;;;;;;;;;x;;;;
+PROV1847;Kapoeta;Kapoeta;Kapoeta;;Kapoeta;;;;;;;;;x;;;;
+PROV1848;Asmara;Asmara;Asmara;;Asmara;;;;;;;;;x;;;;
+PROV1849;Massawa;Massawa;Massawa;;Massawa;;;;;;;;;x;;;;
+PROV1850;Akordat;Akordat;Akordat;;Akordat;;;;;;;;;x;;;;
+PROV1851;Assab;Assab;Assab;;Assab;;;;;;;;;x;;;;
+PROV1852;Gonder;Gonder;Gonder;;Gonder;;;;;;;;;x;;;;
+PROV1853;Debre Tabor;Debre Tabor;Debre Tabor;;Debre Tabor;;;;;;;;;x;;;;
+PROV1854;Matamma;Matamma;Matamma;;Matamma;;;;;;;;;x;;;;
+PROV1855;Debre Markos;Debre Markos;Debre Markos;;Debre Markos;;;;;;;;;x;;;;
+PROV1856;Aksum;Aksum;Aksum;;Aksum;;;;;;;;;x;;;;
+PROV1857;Antalo;Antalo;Antalo;;Antalo;;;;;;;;;x;;;;
+PROV1858;Awsa;Awsa;Awsa;;Awsa;;;;;;;;;x;;;;
+PROV1859;Ankober;Ankober;Ankober;;Ankober;;;;;;;;;x;;;;
+PROV1860;Awasa;Awasa;Awasa;;Awasa;;;;;;;;;x;;;;
+PROV1861;Aselia;Aselia;Aselia;;Aselia;;;;;;;;;x;;;;
+PROV1862;Bonga;Bonga;Bonga;;Bonga;;;;;;;;;x;;;;
+PROV1863;Asosa;Asosa;Asosa;;Asosa;;;;;;;;;x;;;;
+PROV1864;Negele;Negele;Negele;;Negele;;;;;;;;;x;;;;
+PROV1865;Harer;Harer;Harer;;Harer;;;;;;;;;x;;;;
+PROV1866;Goba;Goba;Goba;;Goba;;;;;;;;;x;;;;
+PROV1867;Werder;Werder;Werder;;Werder;;;;;;;;;x;;;;
+PROV1868;Mogadishu;Mogadiscio;Mogadishu;;Mogadiscio;;;;;;;;;x;;;;
+PROV1869;Baidoa;Baidoa;Baidoa;;Baidoa;;;;;;;;;x;;;;
+PROV1870;Kismayo;Kismayo;Kismayo;;Kismaayo;;;;;;;;;x;;;;
+PROV1871;Hobyo;Hobyo;Hobyo;;Hobyo;;;;;;;;;x;;;;
+PROV1872;Bosaso;Bosaso;Bosaso;;Bosaso;;;;;;;;;x;;;;
+PROV1873;Berbera;Berbera;Berbera;;Berbera;;;;;;;;;x;;;;
+PROV1874;Zeyla;Zeyla;Zeyla;;Zeyla;;;;;;;;;x;;;;
+PROV1875;Djibuti;Djibouti;Dschibuti;;Djibuti;;;;;;;;;x;;;;
+PROV1876;Cape Verde;Cap-Verde;Cape Verde;;Cabo Verde;;;;;;;;;x;;;;
+PROV1877;Bissau;Bissau;Bissau;;Bissau;;;;;;;;;x;;;;
+PROV1878;Gabu;Gabu;Gabu;;Gabu;;;;;;;;;x;;;;
+PROV1879;Boffa;Boffa;Boffa;;Boffa;;;;;;;;;x;;;;
+PROV1880;Timbo;Timbo;Timbo;;Timbo;;;;;;;;;x;;;;
+PROV1881;Dinguiraye;Dinguiraye;Dinguiraye;;Dinguiraye;;;;;;;;;x;;;;
+PROV1882;Kankan;Kankan;Kankan;;Kankan;;;;;;;;;x;;;;
+PROV1883;Beyla;Beyla;Beyla;;Beyla;;;;;;;;;x;;;;
+PROV1884;Freetown;Freetown;Freetown;;Freetown;;;;;;;;;x;;;;
+PROV1885;Falaba;Falaba;Falaba;;Falaba;;;;;;;;;x;;;;
+PROV1886;Bo;Bo;Bo;;Bo;;;;;;;;;x;;;;
+PROV1887;Monrovia;Monrovia;Monrovia;;Monrovia;;;;;;;;;x;;;;
+PROV1888;Harper;Harper;Harper;;Harper;;;;;;;;;x;;;;
+PROV1889;Bopolu;Bopolu;Bopolu;;Bopolu;;;;;;;;;x;;;;
+PROV1890;Gbarnga;Gbarnga;Gbarnga;;Gbarnga;;;;;;;;;x;;;;
+PROV1891;Zwedru;Zwedru;Zwedru;;Zwedru;;;;;;;;;x;;;;
+PROV1892;Grand Lahou;Grand-Lahou;Grand Lahou;;Grand Lahou;;;;;;;;;x;;;;
+PROV1893;Sassandra;Sassandra;Sassandra;;Sassandra;;;;;;;;;x;;;;
+PROV1894;Grand Bassam;Grand-Bassam;Grand Bassam;;Grand Bassam;;;;;;;;;x;;;;
+PROV1895;Bouake;Bouak?Bouake;;Bouake;;;;;;;;;x;;;;
+PROV1896;Man;Man;Man;;Man;;;;;;;;;x;;;;
+PROV1897;Akoupe;Akoup?Akoupe;;Akoupe;;;;;;;;;x;;;;
+PROV1898;Kong;Kong;Kong;;Kong;;;;;;;;;x;;;;
+PROV1899;Bondouku;Bondoukou;Bondouku;;Bondouku;;;;;;;;;x;;;;
+PROV1900;Odienne;Odienne;Odienne;;Odienn?;;;;;;;;x;;;;
+PROV1901;Wagadugu;Ouagadougou;Wagadugu;;Wagadugu;;;;;;;;;x;;;;
+PROV1902;Wahiguya;Wahiguya;Wahiguya;;Wahiguya;;;;;;;;;x;;;;
+PROV1903;Dori;Dori;Dori;;Dori;;;;;;;;;x;;;;
+PROV1904;Fada Ngourma;Fada N'Gourma;Fada Ngourma;;Fada Ngourma;;;;;;;;;x;;;;
+PROV1905;Bobo Dioulasso;Bobo-Dioulasso;Bobo Dioulasso;;Bobo-Dioulasso;;;;;;;;;x;;;;
+PROV1906;Orodaro;Orodaro;Orodaro;;Orodaro;;;;;;;;;x;;;;
+PROV1907;Accra;Accra;Accra;;Accra;;;;;;;;;x;;;;
+PROV1908;Cape Coast;Cape Coast;Kapkte;;Cape Coast;;;;;;;;;x;;;;
+PROV1909;Sekondi;Sekondi;Sekondi;;Sekondi;;;;;;;;;x;;;;
+PROV1910;Kumasi;Kumasi;Kumasi;;Kumasi;;;;;;;;;x;;;;
+PROV1911;Kintampo;Kintampo;Kintampo;;Kintampo;;;;;;;;;x;;;;
+PROV1912;Wa;Wa;Wa;;Wa;;;;;;;;;x;;;;
+PROV1913;Tamale;Tamale;Tamale;;Tamale;;;;;;;;;x;;;;
+PROV1914;Lome;Lom?Lome;;Lome;;;;;;;;;x;;;;
+PROV1915;Ho;Ho;Ho;;Ho;;;;;;;;;x;;;;
+PROV1916;Yendi;Yendi;Yendi;;Yendi;;;;;;;;;x;;;;
+PROV1917;Atakpame;Atakpam?Atakpame;;Atakpame;;;;;;;;;x;;;;
+PROV1918;Sokode;Sokod?Sokode;;Sokode;;;;;;;;;x;;;;
+PROV1919;Cotonou;Cotonou;Cotonou;;Cotonou;;;;;;;;;x;;;;
+PROV1920;Abomey;Abomey;Abomey;;Abomey;;;;;;;;;x;;;;
+PROV1921;Nikki;Nikki;Nikki;;Nikki;;;;;;;;;x;;;;
+PROV1922;Jugu;Jugu;Jugu;;Jugu;;;;;;;;;x;;;;
+PROV1923;Lagos;Lagos;Lagos;;Lagos;;;;;;;;;x;;;;
+PROV1924;Abeokuta;Abeokuta;Abeokuta;;Abeokuta;;;;;;;;;x;;;;
+PROV1925;Ibadan;Ibadan;Ibadan;;Ibad嫕;;;;;;;;;x;;;;
+PROV1926;Ife;Ife;Ife;;Ife;;;;;;;;;x;;;;
+PROV1927;Ilorin;Ilorin;Ilorin;;Ilorin;;;;;;;;;x;;;;
+PROV1928;Benin;B幯in;Benin;;Ben璯;;;;;;;;;x;;;;
+PROV1929;Akure;Akure;Akure;;Akure;;;;;;;;;x;;;;
+PROV1930;Lokoja;Lokoja;Lokoja;;Lokoja;;;;;;;;;x;;;;
+PROV1931;Warri;Warri;Warri;;Warri;;;;;;;;;x;;;;
+PROV1932;Bonny;Bonny;Bonny;;Bonny;;;;;;;;;x;;;;
+PROV1933;Awka;Awka;Awka;;Awka;;;;;;;;;x;;;;
+PROV1934;Calabar;Calabar;Calabar;;Calabar;;;;;;;;;x;;;;
+PROV1935;Aruchukwu;Aruchukwu;Aruchukwu;;Aruchukwu;;;;;;;;;x;;;;
+PROV1936;Makurdi;Makurdi;Makurdi;;Makurdi;;;;;;;;;x;;;;
+PROV1937;Tukari;Tukari;Tukari;;Tukari;;;;;;;;;x;;;;
+PROV1938;Bussa;Bussa;Bussa;;Bussa;;;;;;;;;x;;;;
+PROV1939;Zaria;Zaria;Zaria;;Zaria;;;;;;;;;x;;;;
+PROV1940;Bida;Bida;Bida;;Bida;;;;;;;;;x;;;;
+PROV1941;Abuja;Abuja;Abuja;;Abuja;;;;;;;;;x;;;;
+PROV1942;Bauchi;Bauchi;Bauchi;;Bauchi;;;;;;;;;x;;;;
+PROV1943;Jos;Jos;Jos;;Jos;;;;;;;;;x;;;;
+PROV1944;Gombe;Gombe;Gombe;;Gombe;;;;;;;;;x;;;;
+PROV1945;Kano;Kano;Kano;;Kano;;;;;;;;;x;;;;
+PROV1946;Kebbi;Kebbi;Kebbi;;Kebbi;;;;;;;;;x;;;;
+PROV1947;Katsina;Katsina;Katsina;;Katsina;;;;;;;;;x;;;;
+PROV1948;Sokoto;Sokoto;Sokoto;;Sokoto;;;;;;;;;x;;;;
+PROV1949;Hadejia;Hadejia;Hadejia;;Hadejia;;;;;;;;;x;;;;
+PROV1950;Yola;Yola;Yola;;Yola;;;;;;;;;x;;;;
+PROV1951;Kuka;Kuka;Kuka;;Kuka;;;;;;;;;x;;;;
+PROV1952;Nguru;Nguru;Nguru;;Nguru;;;;;;;;;x;;;;
+PROV1953;Dikoa;Dikoa;Dikoa;;Dikoa;;;;;;;;;x;;;;
+PROV1954;S�o Tom�;x
+PROV1955;Fernando P�;x
+PROV1956;Douala;x
+PROV1957;Buea;x
+PROV1958;Kribi;Kribi;Kribi;;Kribi;;;;;;;;;x;;;;
+PROV1959;Yaounde;Yaound?Yaounde;;Yaounde;;;;;;;;;x;;;;
+PROV1960;Bafoussam;Bafoussam;Bafoussam;;Bafoussam;;;;;;;;;x;;;;
+PROV1961;Bamenda;Bamenda;Bamenda;;Bamenda;;;;;;;;;x;;;;
+PROV1962;Bertoua;Bertoua;Bertoua;;Bertoua;;;;;;;;;x;;;;
+PROV1963;Ngaoundere;Ngaound廨?Ngaoundere;;Ngaound廨?;;;;;;;;x;;;;
+PROV1964;Maroua;Maroua;Maroua;;Maroua;;;;;;;;;x;;;;
+PROV1965;Bangui;Bangui;Bangui;;Bangui;;;;;;;;;x;;;;
+PROV1966;Nola;Nola;Nola;;Nola;;;;;;;;;x;;;;
+PROV1967;Bouar;Bouar;Bouar;;Bouar;;;;;;;;;x;;;;
+PROV1968;Bossangoa;Bossangoa;Bossangoa;;Bossangoa;;;;;;;;;x;;;;
+PROV1969;Zemio;Zemio;Zemio;;Zemio;;;;;;;;;x;;;;
+PROV1970;Bangassou;Bangassou;Bangassou;;Bangassou;;;;;;;;;x;;;;
+PROV1971;Ndele;Nd幨?Ndele;;Ndele;;;;;;;;;x;;;;
+PROV1972;Libreville;Libreville;Libreville;;Libreville;;;;;;;;;x;;;;
+PROV1973;Bata;Bata;Bata;;Bata;;;;;;;;;x;;;;
+PROV1974;Mayumbe;Mayumbe;Mayumbe;;Mayumbe;;;;;;;;;x;;;;
+PROV1975;Moanda;Moanda;Moanda;;Moanda;;;;;;;;;x;;;;
+PROV1976;Makokou;Makokou;Makokou;;Makokou;;;;;;;;;x;;;;
+PROV1977;Nkuna;Nkuna;Nkuna;;Nkuna;;;;;;;;;x;;;;
+PROV1978;Madingou;Madingou;Madingou;;Madingou;;;;;;;;;x;;;;
+PROV1979;Biloka;Biloka;Biloka;;Biloka;;;;;;;;;x;;;;
+PROV1980;Djambala;Djambala;Djambala;;Djambala;;;;;;;;;x;;;;
+PROV1981;Impfondo;Impfondo;Impfondo;;Impfondo;;;;;;;;;x;;;;
+PROV1982;Kinshasa;Kinshasa;Kinshasa;;Kinshasa;;;;;;;;;x;;;;
+PROV1983;Boma;Boma;Boma;;Boma;;;;;;;;;x;;;;
+PROV1984;Kananga;Kananga;Kananga;;Kananga;;;;;;;;;x;;;;
+PROV1985;Kumbana;Kumbana;Kumbana;;Kumbana;;;;;;;;;x;;;;
+PROV1986;Lusambo;Lusambo;Lusambo;;Lusambo;;;;;;;;;x;;;;
+PROV1987;Bunkeya;Bunkeya;Bunkeya;;Bunkeya;;;;;;;;;x;;;;
+PROV1988;Mussumba;Mussumba;Mussumba;;Mussumba;;;;;;;;;x;;;;
+PROV1989;Munza;Munza;Munza;;Munza;;;;;;;;;x;;;;
+PROV1990;Nyangwe;Nyangwe;Nyangwe;;Nyangwe;;;;;;;;;x;;;;
+PROV1991;Uvira;Uvira;Uvira;;Uvira;;;;;;;;;x;;;;
+PROV1992;Basoko;Basoko;Basoko;;Basoko;;;;;;;;;x;;;;
+PROV1993;Irebu;Irebu;Irebu;;Irebu;;;;;;;;;x;;;;
+PROV1994;Nsheng;Nsheng;Nsheng;;Nsheng;;;;;;;;;x;;;;
+PROV1995;Gemena;Gemena;Gemena;;Gemena;;;;;;;;;x;;;;
+PROV1996;Kisangani;Kisangani;Kisangani;;Kisangani;;;;;;;;;x;;;;
+PROV1997;Mungbane;Mungbane;Mungbane;;Mungbane;;;;;;;;;x;;;;
+PROV1998;Baramo;Baramo;Baramo;;Baramo;;;;;;;;;x;;;;
+PROV1999;Luanda;Luanda;Luanda;;Loanda;;;;;;;;;x;;;;
+PROV2000;Cabinda;Cabinda;Cabinda;;Cabinda;;;;;;;;;x;;;;
+PROV2001;Mbanza;Mbanza;Mbanza;;Mbanza;;;;;;;;;x;;;;
+PROV2002;Quibala;Quibala;Quibala;;Quibala;;;;;;;;;x;;;;
+PROV2003;Benguela;Benguela;Benguela;;Benguela;;;;;;;;;x;;;;
+PROV2004;Mo誺medes;Mocamedes;Mocamedes;;Mocamedes;;;;;;;;;x;;;;
+PROV2005;Huambo;Huambo;Huambo;;Huambo;;;;;;;;;x;;;;
+PROV2006;Kuito;Kuito;Kuito;;Kuito;;;;;;;;;x;;;;
+PROV2007;Mavinga;Mavinga;Mavinga;;Mavinga;;;;;;;;;x;;;;
+PROV2008;Ondjiva;Ondjiva;Ondjiva;;Ondjiva;;;;;;;;;x;;;;
+PROV2009;Malanje;Malanje;Malanje;;Malanje;;;;;;;;;x;;;;
+PROV2010;Saurimo;Saurimo;Saurimo;;Saurimo;;;;;;;;;x;;;;
+PROV2011;Kubanda;Kubanda;Kubanda;;Kubanda;;;;;;;;;x;;;;
+PROV2012;Lusaka;Lusaka;Lusaka;;Lusaka;;;;;;;;;x;;;;
+PROV2013;Mongu;Mongu;Mongu;;Mongu;;;;;;;;;x;;;;
+PROV2014;Kasempa;Kasempa;Kasempa;;Kasempa;;;;;;;;;x;;;;
+PROV2015;Monzo;Monzo;Monzo;;Monzo;;;;;;;;;x;;;;
+PROV2016;Kazembe;Kazembe;Kazembe;;Kazembe;;;;;;;;;x;;;;
+PROV2017;Kasema;Kasema;Kasema;;Kasema;;;;;;;;;x;;;;
+PROV2018;Chipata;Chipata;Chipata;;Chipata;;;;;;;;;x;;;;
+PROV2019;Entebbe;Entebbe;Entebbe;;Entebbe;;;;;;;;;x;;;;
+PROV2020;Mbarara;Mbarara;Mbarara;;Mbarara;;;;;;;;;x;;;;
+PROV2021;Masindi;Masindi;Masindi;;Masindi;;;;;;;;;x;;;;
+PROV2022;Kitgum;Kitgum;Kitgum;;Kitgum;;;;;;;;;x;;;;
+PROV2023;Jinja;Jinja;Jinja;;Jinja;;;;;;;;;x;;;;
+PROV2024;Nairobi;Nairobi;Nairobi;;Nairobi;;;;;;;;;x;;;;
+PROV2025;Marsabit;Marsabit;Marsabit;;Marsabit;;;;;;;;;x;;;;
+PROV2026;Lodwar;Lodwar;Lodwar;;Lodwar;;;;;;;;;x;;;;
+PROV2027;Nakuru;Nakuru;Nakuru;;Nakuru;;;;;;;;;x;;;;
+PROV2028;Kisumu;Kisumu;Kisumu;;Kisumu;;;;;;;;;x;;;;
+PROV2029;Mombasa;Mombasa;Mombasa;;Mombasa;;;;;;;;;x;;;;
+PROV2030;Lamu;Lamu;Lamu;;Lamu;;;;;;;;;x;;;;
+PROV2031;Wajir;Garbahaarey;Wajir;;Wajir;;;;;;;;;x;;;;
+PROV2032;Garissa;Garissa;Garissa;;Garissa;;;;;;;;;x;;;;
+PROV2033;Voi;Voi;Voi;;Voi;;;;;;;;;x;;;;
+PROV2034;Kigali;Kigali;Kigali;;Kigali;;;;;;;;;x;;;;
+PROV2035;Usumbura;Usumbura;Usumbura;;Usumbura;;;;;;;;;x;;;;
+PROV2036;Dar Es Salaam;Dar es Salaam;Dar Es Salaam;;Dar Es Salaam;;;;;;;;;x;;;;
+PROV2037;Tanga;Tanga;Tanga;;Tanga;;;;;;;;;x;;;;
+PROV2038;Kilwa;Kilwa;Kilwa;;Kilwa;;;;;;;;;x;;;;
+PROV2039;Lindi;Lindi;Lindi;;Lindi;;;;;;;;;x;;;;
+PROV2040;Songea;Songea;Songea;;Songea;;;;;;;;;x;;;;
+PROV2041;Masasi;Masasi;Masasi;;Masasi;;;;;;;;;x;;;;
+PROV2042;Iringa;Iringa;Iringa;;Iringa;;;;;;;;;x;;;;
+PROV2043;Tabora;Tabora;Tabora;;Tabora;;;;;;;;;x;;;;
+PROV2044;Mwanza;Mwanza;Mwanza;;Mwanza;;;;;;;;;x;;;;
+PROV2045;Morogoro;x
+PROV2046;Ujiji;x
+PROV2047;Arusha;x
+PROV2048;Zanzibar;x
+REMOVE_PROV2049;Maputo;Maputo;Maputo;;Maputo;;;;;;;;;x;;;;
+PROV2049;Lourenzo Marques;x
+PROV2050;Chaimate;Chaimate;Chaimate;;Chaimate;;;;;;;;;x;;;;
+PROV2051;Inhambane;Inhambane;Inhambane;;Inhambane;;;;;;;;;x;;;;
+PROV2052;Massekisse;Massekisse;Massekisse;;Massekisse;;;;;;;;;x;;;;
+PROV2053;Sena;Sena;Sena;;Sena;;;;;;;;;x;;;;
+PROV2054;Tete;Tete;Tete;;Tete;;;;;;;;;x;;;;
+PROV2055;Songo;Songo;Songo;;Songo;;;;;;;;;x;;;;
+PROV2056;Zumbo;Zumbo;Zumbo;;Zumbo;;;;;;;;;x;;;;
+PROV2057;Sofala;Sofala;Sofala;;Sofala;;;;;;;;;x;;;;
+PROV2058;Mossurize;Mossurize;Mossurize;;Mossurize;;;;;;;;;x;;;;
+PROV2059;Quelimane;Quelimane;Quelimane;;Quelimane;;;;;;;;;x;;;;
+PROV2060;Mo蓷mbique;Mozambique;Mosambik;;Mozambique;;;;;;;;;x;;;;
+PROV2061;Angoche;Angoche;Angoche;;Angoche;;;;;;;;;x;;;;
+PROV2062;Shangzhou;Shangzhou;Shangzhou;;Shangzhou;;;;;;;;;x;;;;
+PROV2063;Ibo;Ibo;Ibo;;Ibo;;;;;;;;;x;;;;
+PROV2064;Nampula;Nampula;Nampula;;Nampula;;;;;;;;;x;;;;
+PROV2065;Milange;Milange;Milange;;Milange;;;;;;;;;x;;;;
+PROV2066;Zomba;Zomba;Zomba;;Zomba;;;;;;;;;x;;;;
+PROV2067;Lilongwe;Lilongwe;Lilongwe;;Lilongwe;;;;;;;;;x;;;;
+PROV2068;Harare;Harare;Harare;;Harare;;;;;;;;;x;;;;
+PROV2069;Gweru;Gweru;Gweru;;Gweru;;;;;;;;;x;;;;
+PROV2070;Mutare;Mutare;Mutare;;Mutare;;;;;;;;;x;;;;
+PROV2071;Bulawayo;Bulawayo;Bulawayo;;Bulawayo;;;;;;;;;x;;;;
+PROV2072;Hwange;Hwange;Hwange;;Hwange;;;;;;;;;x;;;;
+PROV2073;Masvingo;Masvingo;Masvingo;;Masvingo;;;;;;;;;x;;;;
+PROV2074;Gaborone;Gaborone;Gaborone;;Gaborone;;;;;;;;;x;;;;
+PROV2075;Serowe;Serowe;Serowe;;Serowe;;;;;;;;;x;;;;
+PROV2076;Nokaneng;Nokaneng;Nokaneng;;Nokaneng;;;;;;;;;x;;;;
+PROV2077;Tsabong;Tsabong;Tsabong;;Tsabong;;;;;;;;;x;;;;
+PROV2078;Windhoek;Windhoek;Windhoek;;Windhoek;;;;;;;;;x;;;;
+PROV2079;Swakopmund;Swakopmund;Swakopmund;;Swakopmund;;;;;;;;;x;;;;
+PROV2080;Tsumeb;Tsumeb;Tsumeb;;Tsumeb;;;;;;;;;x;;;;
+PROV2081;Linyati;Linyati;Linyati;;Linyati;;;;;;;;;x;;;;
+PROV2082;Otjinene;Otjinene;Otjinene;;Otjinene;;;;;;;;;x;;;;
+PROV2083;Walvis Bay;Walvis Bay;Walvis Bay;;Bah燰 de Walvis ;;;;;;;;;x;;;;
+PROV2084;Angra Pequena;Angra Pequena;Angra Pequena;;Angra Pequena;;;;;;;;;x;;;;
+PROV2085;Nu-gouses;Nu-gouses;Nu-gouses;;Nu-gouses;;;;;;;;;x;;;;
+PROV2086;Karasburg;Karasburg;Karasburg;;Karasburg;;;;;;;;;x;;;;
+PROV2087;Cape Town;Le Cap;Kapstadt;;Ciudad de El Cabo;;;;;;;;;x;;;;
+PROV2088;Springbok;Springbok;Springbok;;Springbok;;;;;;;;;x;;;;
+PROV2089;Worcester;Worcester;Worcester;;Worcester;;;;;;;;;x;;;;
+PROV2090;Swettenham;Swettenham;Swettenham;;Swettenham;;;;;;;;;x;;;;
+PROV2091;Mossel Bay;Mossel Bay;Mossel Bay;;Bah燰 de Mossel ;;;;;;;;;x;;;;
+PROV2092;Beaufort;Beaufort;Beaufort;;Beaufort;;;;;;;;;x;;;;
+PROV2093;Calvinia;Calvinia;Calvinia;;Calvinia;;;;;;;;;x;;;;
+PROV2094;Kimberley;Kimberley;Kimberley;;Kimberley;;;;;;;;;x;;;;
+PROV2095;Dikathong;Dikathong;Dikathong;;Dikathong;;;;;;;;;x;;;;
+PROV2096;Port Elizabeth;Port Elizabeth;Port Elizabeth;;Port Elizabeth;;;;;;;;;x;;;;
+PROV2097;Graaf Reinet;Graaf-Reinet;Graaf Reinet;;Graaf Reinet;;;;;;;;;x;;;;
+PROV2098;Bisho;Bisho;Bisho;;Bisho;;;;;;;;;x;;;;
+PROV2099;Mathele;Mathele;Mathele;;Mathele;;;;;;;;;x;;;;
+PROV2100;Umtata;Umtata;Umtata;;Umtata;;;;;;;;;x;;;;
+PROV2101;Bloemfontein;Bloemfontein;Bloemfontein;;Bloemfontein;;;;;;;;;x;;;;
+PROV2102;Winburg;Winburg;Winburg;;Winburg;;;;;;;;;x;;;;
+PROV2103;Philippolis;Philippolis;Philippolis;;Philippolis;;;;;;;;;x;;;;
+PROV2104;Thaba Bosiu;Thaba Bosiu;Thaba Bosiu;;Thaba Bosiu;;;;;;;;;x;;;;
+PROV2105;Pretoria;Pretoria;Pretoria;;Pretoria;;;;;;;;;x;;;;
+PROV2106;Witwatersrand;Witwatersrand;Witwatersrand;;Witwatersrand;;;;;;;;;x;;;;
+PROV2107;Klerksdorp;Klerksdorp;Klerksdorp;;Klerksdorp;;;;;;;;;x;;;;
+PROV2108;Mosega;Mosega;Mosega;;Mosega;;;;;;;;;x;;;;
+PROV2109;Lydenburg;Lydenburg;Lydenburg;;Lydenburg;;;;;;;;;x;;;;
+PROV2110;Thohoyandu;Thohoyandu;Thohoyandu;;Thohoyandu;;;;;;;;;x;;;;
+PROV2111;Durban;Durban;Durban;;Durban;;;;;;;;;x;;;;
+PROV2112;Ladysmith;Ladysmith;Ladysmith;;Ladysmith;;;;;;;;;x;;;;
+PROV2113;Ulundi;Ulundi;Ulundi;;Ulundi;;;;;;;;;x;;;;
+PROV2114;Mbabane;Mbabane;Mbabane;;Mbabane;;;;;;;;;x;;;;
+PROV2115;Tananarive;Tananarive;Tananarive;;Tananarive;;;;;;;;;x;;;;
+PROV2116;Fianarantsoa;Fianarantsoa;Fianarantsoa;;Fianarantsoa;;;;;;;;;x;;;;
+PROV2117;Ampanihy;Ampanihy;Ampanihy;;Ampanihy;;;;;;;;;x;;;;
+PROV2118;Tolanaro;Tolanaro;Tolanaro;;Tolanaro;;;;;;;;;x;;;;
+PROV2119;Toamasina;Toamasina;Toamasina;;Toamasina;;;;;;;;;x;;;;
+PROV2120;Antsiranana;Antsiranana;Antsiranana;;Antsiranana;;;;;;;;;x;;;;
+PROV2121;Mahajanga;Mahajanga;Mahajanga;;Mahajanga;;;;;;;;;x;;;;
+PROV2122;Toliara;Toliara;Toliara;;Toliara;;;;;;;;;x;;;;
+PROV2123;Comoros;Comores;Komoren;;Comoros;;;;;;;;;x;;;;
+PROV2124;Mayotte;Mayotte;Mayotte;;Mayotte;;;;;;;;;x;;;;
+PROV2125;Mauritius;姤e Maurice;Mauritius;;Mauricio;;;;;;;;;x;;;;
+PROV2126;Bourbon;Bourbon;Bourbon;;Bourbon;;;;;;;;;x;;;;
+PROV2127;Seychelles;Seychelles;Seychellen;;Seychelles;;;;;;;;;x;;;;
+PROV2128;Diego Garcia;Diego Garcia;Diego Garcia;;Diego Garc燰;;;;;;;;;x;;;;
+PROV2129;Saint Helena;Sainte-H幨鋝e;Saint Helena;;Santa Elena;;;;;;;;;x;;;;
+PROV2130;Ascension;Ascension;Ascension;;Ascensi鏮;;;;;;;;;x;;;;
+PROV2131;Falkland Islands;Malouines;Falklandinseln;;Islas Malvinas;;;;;;;;;x;;;;
+PROV2132;Tristan da Cunha;Tristan da Cunha;Tristan da Cunha;;Tristan da Cunha;;;;;;;;;x;;;;
+PROV2133;South Georgia;G廩rgie du Sud;South Georgia;;Georgia del Sur;;;;;;;;;x;;;;
+PROV2134;Azores;A蔞res;Azoren;;Azores;;;;;;;;;x;;;;
+PROV2135;Madeira;Mad鋨e;Madeira;;Madeira;;;;;;;;;x;;;;
+PROV2136;Canary Islands;姤es Canaries;Kanarische Inseln;;Islas Canarias;;;;;;;;;x;;;;
+PROV2137;Hermosillo;Hermosillo;Hermosillo;;Hermosillo;;;;;;;;;x;;;;
+PROV2138;Loreto;Loreto;Loreto;;Loreto;;;;;;;;;x;;;;
+PROV2139;Rosarito;Rosarito;Rosarito;;Rosarito;;;;;;;;;x;;;;
+PROV2140;Nogales;Nogales;Nogales;;Nogales;;;;;;;;;x;;;;
+PROV2141;Guaymas;Guaymas;Guaymas;;Guaymas;;;;;;;;;x;;;;
+PROV2142;Chihuahua;Chihuahua;Chihuahua;;Chihuahua;;;;;;;;;x;;;;
+PROV2143;Paso del Norte;Paso del Norte;Paso del Norte;;Paso del Norte;;;;;;;;;x;;;;
+PROV2144;Delicias;Delicias;Delicias;;Delicias;;;;;;;;;x;;;;
+PROV2145;Parral;Parral;Parral;;Parral;;;;;;;;;x;;;;
+PROV2146;Monterrey;Monterrey;Monterrey;;Monterrey;;;;;;;;;x;;;;
+PROV2147;Morelos;Morelos;Morelos;;Morelos;;;;;;;;;x;;;;
+PROV2148;Reynosa;Reynosa;Reynosa;;Reinosa;;;;;;;;;x;;;;
+PROV2149;Matamoros;Matamoros;Matamoros;;Matamoros;;;;;;;;;x;;;;
+PROV2150;Ciudad Victoria;Ciudad Victoria;Ciudad Victoria;;Ciudad Victoria;;;;;;;;;x;;;;
+PROV2151;Saltillo;Saltillo;Saltillo;;Saltillo;;;;;;;;;x;;;;
+PROV2152;Monclova;Monclova;Monclova;;Monclova;;;;;;;;;x;;;;
+PROV2153;Durango;Durango;Durango;;Durango;;;;;;;;;x;;;;
+PROV2154;Santa Mar燰 del Oro;Santa Maria del Oro;Santa Maria del Oro;;Santa Maria del Oro;;;;;;;;;x;;;;
+PROV2155;Torre鏮;Torre鏮;Torreon;;Torre鏮;;;;;;;;;x;;;;
+PROV2156;Mazatl嫕;Mazatl嫕;Mazatlan;;Mazatl嫕;;;;;;;;;x;;;;
+PROV2157;Culiac嫕;Culiac嫕;Culiacan;;Culiac嫕;;;;;;;;;x;;;;
+PROV2158;Zacatecas;Zacatecas;Zacatecas;;Zacatecas;;;;;;;;;x;;;;
+PROV2159;San Luis Potos?San Luis Potosi;San Luis Potosi;;San Luis Potos?;;;;;;;;x;;;;
+PROV2160;Aguascalientes;Aguascalientes;Aguascalientes;;Aguascalientes;;;;;;;;;x;;;;
+PROV2161;Tepic;Tepic;Tepic;;Tepic;;;;;;;;;x;;;;
+PROV2162;Veracruz;Veracruz;Veracruz;;Veracruz;;;;;;;;;x;;;;
+PROV2163;Tampico;Tampico;Tampico;;Tampico;;;;;;;;;x;;;;
+PROV2164;Minatitl嫕;Minatitl嫕;Minatitlan;;Minatitl嫕;;;;;;;;;x;;;;
+PROV2165;Villahermosa;Villahermosa;Villahermosa;;Villahermosa;;;;;;;;;x;;;;
+PROV2166;Guadalajara;Guadalajara;Guadalajara;;Guadalajara;;;;;;;;;x;;;;
+PROV2167;Guanajuato;Guanajuato;Guanajuato;;Guanajuato;;;;;;;;;x;;;;
+PROV2168;Puerto Vallarta;Puerto Vallarta;Puerto Vallarta;;Puerto Vallarta;;;;;;;;;x;;;;
+PROV2169;Colima;Colima;Colima;;Colima;;;;;;;;;x;;;;
+PROV2170;Morelia;Morelia;Morelia;;Morelia;;;;;;;;;x;;;;
+PROV2171;Los Alba鎴les;Los Albaniles;Los Albaniles;;Los Alba鎴les;;;;;;;;;x;;;;
+PROV2172;Mexico City;Mexico;Mexico City;;Ciudad de M憖ico;;;;;;;;;x;;;;
+PROV2173;Quer彋aro;Quer彋aro;Queretaro;;Queretaro;;;;;;;;;x;;;;
+PROV2174;Toluca;Toluca;Toluca;;Toluca;;;;;;;;;x;;;;
+PROV2175;Tulancingo;Tulancingo;Tulancingo;;Tulancingo;;;;;;;;;x;;;;
+PROV2176;Puebla;Puebla;Puebla;;Puebla;;;;;;;;;x;;;;
+PROV2177;Oaxaca;Oaxaca;Oaxaca;;Oaxaca;;;;;;;;;x;;;;
+PROV2178;Collataro;Collataro;Collataro;;Collataro;;;;;;;;;x;;;;
+PROV2179;Acapulco;Acapulco;Acapulco;;Acapulco;;;;;;;;;x;;;;
+PROV2180;Chilpancingo;Chilpancingo;Chilpancingo;;Chilpancingo;;;;;;;;;x;;;;
+PROV2181;Tuxtla;Tuxtla;Tuxtla;;Tuxtla;;;;;;;;;x;;;;
+PROV2182;Tapachula;Tapachula;Tapachula;;Tapachula;;;;;;;;;x;;;;
+PROV2183;M廨ida;Merida;Merida;;M廨ida;;;;;;;;;x;;;;
+PROV2184;Campeche;Campeche;Campeche;;Campeche;;;;;;;;;x;;;;
+PROV2185;Bacalar;Bacalar;Bacalar;;Bacalar;;;;;;;;;x;;;;
+PROV2186;Guatemala;Guatemala;Guatemala;;Guatemala;;;;;;;;;x;;;;
+PROV2187;Quetzaltenango;Quetzaltenango;Quetzaltenango;;Quetzaltenango;;;;;;;;;x;;;;
+PROV2188;Puerto Barrios;Puerto Barrios;Puerto Barrios;;Puerto Barrios;;;;;;;;;x;;;;
+PROV2189;Sayaxch?Sayaxche;Sayaxche;;Sayaxche;;;;;;;;;x;;;;
+PROV2190;Belize;Belize;Belize;;Belice;;;;;;;;;x;;;;
+PROV2191;San Salvador;San Salvador;San Salvador;;San Salvador;;;;;;;;;x;;;;
+PROV2192;San Miguel;San Miguel;San Miguel;;San Miguel;;;;;;;;;x;;;;
+PROV2193;Comayagua;Comayagua;Comayagua;;Comayagua;;;;;;;;;x;;;;
+PROV2194;San Pedro Sula;San Pedro Sula;San Pedro Sula;;San Pedro Sula;;;;;;;;;x;;;;
+PROV2195;La Ceiba;La Ceiba;La Ceiba;;La Ceiba;;;;;;;;;x;;;;
+PROV2196;Puerto Lempira;Puerto Lempira;Puerto Lempira;;Puerto Lempira;;;;;;;;;x;;;;
+PROV2197;Managua;Managua;Managua;;Managua;;;;;;;;;x;;;;
+PROV2198;Rivas;Rivas;Rivas;;Rivas;;;;;;;;;x;;;;
+PROV2199;Le鏮;Le鏮;Le鏮;;Le鏮;;;;;;;;;x;;;;
+PROV2200;Bluefields;Bluefields;Bluefields;;Bluefields;;;;;;;;;x;;;;
+PROV2201;San Jos?San Jose;San Jose;;San Jos?;;;;;;;;x;;;;
+PROV2202;Liberia;Lib廨ia;Liberia;;Liberia;;;;;;;;;x;;;;
+PROV2203;Lim鏮;Limon;Limon;;Lim鏮;;;;;;;;;x;;;;
+PROV2204;Panama City;Panam?Panama City;;Ciudad de Panam?;;;;;;;;x;;;;
+PROV2205;David;David;David;;David;;;;;;;;;x;;;;
+PROV2206;Penonom?Penonom?Penonome;;Penonom?;;;;;;;;x;;;;
+PROV2207;Sainshand;Sainshand;Sainshand;;Sainshand;;;;;;;;;x;;;;
+PROV2208;Yaviza;Yaviza;Yaviza;;Yaviza;;;;;;;;;x;;;;
+PROV2209;Havana;La Havane;Havana;;La Habana;;;;;;;;;x;;;;
+PROV2210;Jagua;Jagua;Jagua;;Jagua;;;;;;;;;x;;;;
+PROV2211;Camagy;Camaguey;Camaguey;;Camagy;;;;;;;;;x;;;;
+PROV2212;Santiago de Cuba;Santiago de Cuba;Santiago de Cuba;;Santiago de Cuba;;;;;;;;;x;;;;
+PROV2213;Port Au Prince;Port-au-Prince;Port Au Prince;;Puerto Pr璯cipe;;;;;;;;;x;;;;
+PROV2214;Santo Domingo;Santo Domingo;Santo Domingo;;Santo Domingo;;;;;;;;;x;;;;
+PROV2215;Cap Haitien;Cap-Ha鮠ien;Cap Haitien;;Cap Haitien;;;;;;;;;x;;;;
+PROV2216;La Vega;La Vega;La Vega;;La Vega;;;;;;;;;x;;;;
+PROV2217;Jamaica;Jama鮤ue;Jamaica;;Jamaica;;;;;;;;;x;;;;
+PROV2218;Cayman Islands;姤es Ca鮛an;Cayman-Inseln;;Islas Caimanes;;;;;;;;;x;;;;
+PROV2219;Bahamas;Bahamas;Bahamas;;Bahamas;;;;;;;;;x;;;;
+PROV2220;Turks And Caicos;Turks-et-Ca騃os;Turks und Caicos;;Turcos y Caicos;;;;;;;;;x;;;;
+PROV2221;Nanjing;Nanjing;Nanjing;;Nanjing;;;;;;;;;x;;;;
+PROV2222;Puerto Rico;Puerto Rico;Puerto Rico;;Puerto Rico;;;;;;;;;x;;;;
+PROV2223;Saint Thomas;Saint Thomas;Saint Thomas;;Santo Tom嫳;;;;;;;;;x;;;;
+PROV2224;Antigua;Antigua;Antigua;;Antigua;;;;;;;;;x;;;;
+PROV2225;Montserrat;Montserrat;Montserrat;;Montserrat;;;;;;;;;x;;;;
+PROV2226;Tortola;Tortola;Tortola;;Tortola;;;;;;;;;x;;;;
+PROV2227;Saint Kitts;Saint-Kitts;Saint Kitts;;Saint Kitts;;;;;;;;;x;;;;
+PROV2228;Martinique;Martinique;Martinique;;Martinica;;;;;;;;;x;;;;
+PROV2229;Barbados;La Barbade;Barbados;;Barbados;;;;;;;;;x;;;;
+PROV2230;Guadeloupe;Guadeloupe;Guadeloupe;;Guadalupe;;;;;;;;;x;;;;
+PROV2231;Saint Lucia;Sainte-Lucie;Saint Lucia;;Santa Luc燰;;;;;;;;;x;;;;
+PROV2232;Dominica;Dominique;Dominica;;Dominica;;;;;;;;;x;;;;
+PROV2233;Grenada;Grenadie;Grenada;;Granada;;;;;;;;;x;;;;
+PROV2234;Curacao;Cura蓷o;Curacao;;Cura蓷o;;;;;;;;;x;;;;
+PROV2235;Aruba;Aruba;Aruba;;Aruba;;;;;;;;;x;;;;
+PROV2236;Saint Martin;Saint-Martin;Saint Martin;;San Mart璯;;;;;;;;;x;;;;
+PROV2237;Trinidad;Trinidad;Trinidad;;Trinidad;;;;;;;;;x;;;;
+PROV2238;Tobago;Tobago;Tobago;;Tobago;;;;;;;;;x;;;;
+PROV2239;Georgetown;Georgetown;Georgetown;;Georgetown;;;;;;;;;x;;;;
+PROV2240;Paramaribo;Paramaribo;Paramaribo;;Paramaribo;;;;;;;;;x;;;;
+PROV2241;Cayenne;Cayenne;Cayenne;;Cayena;;;;;;;;;x;;;;
+PROV2242;Mahdia;Mahdia;Mahdia;;Maihia;;;;;;;;;x;;;;
+PROV2243;Essequibo;Essequibo;Essequibo;;Essequibo;;;;;;;;;x;;;;
+PROV2244;Christmas Island;姤e Christmas ;Weihnachtsinsel;;Isla de Navidad;;;;;;;;;x;;;;
+PROV2245;Apetina;Apetina;Apetina;;Apetina;;;;;;;;;x;;;;
+PROV2246;Maripasoula;Maripasoula;Maripasoula;;Maripasoula;;;;;;;;;x;;;;
+PROV2247;Bogot?Bogota;Bogota;;Bogot?;;;;;;;;x;;;;
+PROV2248;Ibagu?Ibagu?Ibagu?;Ibagu?;;;;;;;;x;;;;
+PROV2249;Tunja;Tunja;Tunja;;Tunja;;;;;;;;;x;;;;
+PROV2250;Manizales;Manizales;Manizales;;Manizales;;;;;;;;;x;;;;
+PROV2251;Cuta;Cucuta;Cucuta;;Cucuta;;;;;;;;;x;;;;
+PROV2252;Medell璯;Medell璯;Medellin;;Medell璯;;;;;;;;;x;;;;
+PROV2253;Quibd?Quibdo;Quibdo;;Quibd?;;;;;;;;x;;;;
+PROV2254;Cartagena de Indias;Cartagena de Indias;Cartagena de Indias;;Cartagena de Indias;;;;;;;;;x;;;;
+PROV2255;Barranquilla;Barranquilla;Barranquilla;;Barranquilla;;;;;;;;;x;;;;
+PROV2256;Cali;Cali;Cali;;Cali;;;;;;;;;x;;;;
+PROV2257;Popay嫕;Popay嫕;Popayan;;Popay嫕;;;;;;;;;x;;;;
+PROV2258;Buenaventura;Buenaventura;Buenaventura;;Buenaventura;;;;;;;;;x;;;;
+PROV2259;Pasto;Pasto;Pasto;;Pasto;;;;;;;;;x;;;;
+PROV2260;San Jos?del Guaviare;San Jos?del Guaviare;San Jose del Guaviare;;San Jose del Guaviare;;;;;;;;;x;;;;
+PROV2261;Obando;Obando;Obando;;Obando;;;;;;;;;x;;;;
+PROV2262;Casanare;Casanare;Casanare;;Casanare;;;;;;;;;x;;;;
+PROV2263;El Encanto;El Encanto;El Encanto;;El Encanto;;;;;;;;;x;;;;
+PROV2264;Caracas;Caracas;Caracas;;Caracas;;;;;;;;;x;;;;
+PROV2265;Guanare;Guanare;Guanare;;Guanare;;;;;;;;;x;;;;
+PROV2266;Calabozo;Calabozo;Calabozo;;Calabozo;;;;;;;;;x;;;;
+PROV2267;Cuman?Cumana;Cumana;;Cuman?;;;;;;;;x;;;;
+PROV2268;San Felipe;San Felipe;San Felipe;;San Felipe;;;;;;;;;x;;;;
+PROV2269;Gria;Guiria;Guiria;;Guiria;;;;;;;;;x;;;;
+PROV2270;Maracaibo;Maracaibo;Maracaibo;;Maracaibo;;;;;;;;;x;;;;
+PROV2271;Valera;Valera;Valera;;Valera;;;;;;;;;x;;;;
+PROV2272;Coro;Coro;Coro;;Coro;;;;;;;;;x;;;;
+PROV2273;Barquisimeto;Barquisimeto;Barquisimeto;;Barquisimeto;;;;;;;;;x;;;;
+PROV2274;Barinas;Barinas;Barinas;;Barinas;;;;;;;;;x;;;;
+PROV2275;Angostura;Angostura;Angostura;;Angostura;;;;;;;;;x;;;;
+PROV2276;Curiapo;Curiapo;Curiapo;;Curiapo;;;;;;;;;x;;;;
+PROV2277;El Jobal;El Jobal;El Jobal;;El Jobal;;;;;;;;;x;;;;
+PROV2278;San Fernando de Atabapo;San Fernando de Atabapo;San Fernando de Atabapo;;San Fernando de Atabapo;;;;;;;;;x;;;;
+PROV2279;Quito;Quito;Quito;;Quito;;;;;;;;;x;;;;
+PROV2280;Guayaquil;Guayaquil;Guayaquil;;Guayaquil;;;;;;;;;x;;;;
+PROV2281;Esmereldas;Esmereldas;Esmeraldas;;Esmereldas;;;;;;;;;x;;;;
+PROV2282;Loja;Loja;Loja;;Loja;;;;;;;;;x;;;;
+PROV2283;Zamora;Zamora;Zamora;;Zamora;;;;;;;;;x;;;;
+PROV2284;Tena;Tena;Tena;;Tena;;;;;;;;;x;;;;
+PROV2285;Gal嫚agos;Galapagos;Galapagos;;Gal嫚agos;;;;;;;;;x;;;;
+PROV2286;Iquitos;Iquitos;Iquitos;;Iquitos;;;;;;;;;x;;;;
+PROV2287;Yurimaguas;Yurimaguas;Yurimaguas;;Yurimaguas;;;;;;;;;x;;;;
+PROV2288;Yuncos;Yuncos;Yuncos;;Yuncos;;;;;;;;;x;;;;
+PROV2289;Puca Urco;Puca Urco;Puca Urco;;Puca Urco;;;;;;;;;x;;;;
+PROV2290;Cajamarca;Cajamarca;Cajamarca;;Cajamarca;;;;;;;;;x;;;;
+PROV2291;Piura;Piura;Piura;;Piura;;;;;;;;;x;;;;
+PROV2292;Trujillo;Trujillo;Trujillo;;Trujillo;;;;;;;;;x;;;;
+PROV2293;Hu嫕uco;Huanuco;Huanuco;;Huanuco;;;;;;;;;x;;;;
+PROV2294;Moyobamba;Moyobamba;Moyobamba;;Moyobamba;;;;;;;;;x;;;;
+PROV2295;Lima;Lima;Lima;;Lima;;;;;;;;;x;;;;
+PROV2296;Huancavelica;Huancavelica;Huancavelica;;Huancavelica;;;;;;;;;x;;;;
+PROV2297;Ica;Ica;Ica;;Ica;;;;;;;;;x;;;;
+PROV2298;Huaraz;Huaraz;Huaraz;;Huaraz;;;;;;;;;x;;;;
+PROV2299;Ayacucho;Ayacucho;Ayacucho;;Ayacucho (PER);;;;;;;;;x;;;;
+PROV2300;Pucallpa;Pucallpa;Pucallpa;;Pucallpa;;;;;;;;;x;;;;
+PROV2301;Puerto Maldonado;Puerto Maldonado;Puerto Maldonado;;Puerto Maldonado;;;;;;;;;x;;;;
+PROV2302;Cusco;Cusco;Cusco;;Cusco;;;;;;;;;x;;;;
+PROV2303;Puno;Puno;Puno;;Puno;;;;;;;;;x;;;;
+PROV2304;Arequipa;Arequipa;Arequipa;;Arequipa;;;;;;;;;x;;;;
+PROV2305;Antofagasta;Antofagasta;Antofagasta;;Antofagasta;;;;;;;;;x;;;;
+PROV2306;Sorocaba;Sorocaba;Sorocaba;;Sorocaba;;;;;;;;;x;;;;
+PROV2307;Iquique;Iquique;Iquique;;Iquique;;;;;;;;;x;;;;
+PROV2308;Arica;Arica;Arica;;Arica;;;;;;;;;x;;;;
+PROV2309;Calama;Calama;Calama;;Calama;;;;;;;;;x;;;;
+PROV2310;La Paz;La Paz;La Paz;;La Paz;;;;;;;;;x;;;;
+PROV2311;Cochabamba;Cochabamba;Cochabamba;;Cochabamba;;;;;;;;;x;;;;
+PROV2312;Oruro;Oruro;Oruro;;Oruro;;;;;;;;;x;;;;
+PROV2313;Chuquisaca;Chuquisaca;Chuquisaca;;Chuquisaca;;;;;;;;;x;;;;
+PROV2314;Potos?Potosi;Potosi;;Potos?;;;;;;;;x;;;;
+PROV2315;Tarija;Tarija;Tarija;;Tarija;;;;;;;;;x;;;;
+PROV2316;Santa Cruz;Santa Cruz;Santa Cruz;;Santa Cruz;;;;;;;;;x;;;;
+PROV2317;San Ignacio;San Ignacio;San Ignacio;;San Ignacio;;;;;;;;;x;;;;
+PROV2318;Robor?Robore;Robore;;Robore;;;;;;;;;x;;;;
+PROV2319;Santa Ana;Santa Ana;Santa Ana;;Santa Ana;;;;;;;;;x;;;;
+PROV2320;Riberalta;Riberalta;Riberalta;;Riberalta;;;;;;;;;x;;;;
+PROV2321;Cobija;Cobija;Cobija;;Cobija;;;;;;;;;x;;;;
+PROV2322;Copiap?Copiapo;Copiapo;;Copiap?;;;;;;;;x;;;;
+PROV2323;La Serena;La Serena;La Serena;;La Serena;;;;;;;;;x;;;;
+PROV2324;Santiago;Santiago;Santiago;;Santiago;;;;;;;;;x;;;;
+PROV2325;Valpara疄o;Valparaiso;Valparaiso;;Valpara疄o;;;;;;;;;x;;;;
+PROV2326;Vi鎙 del Mar;Vi鎙 del Mar;Vina del Mar;;Vi鎙 del Mar;;;;;;;;;x;;;;
+PROV2327;Talca;Talca;Talca;;Talca;;;;;;;;;x;;;;
+PROV2328;Valdivia;Valdivia;Valdivia;;Valdivia;;;;;;;;;x;;;;
+PROV2329;Temuco;Temuco;Temuco;;Temuco;;;;;;;;;x;;;;
+PROV2330;Cauquenes;Cauquenes;Cauquenes;;Cauquenes;;;;;;;;;x;;;;
+PROV2331;Chill嫕;Chillan;Chillan;;Chill嫕;;;;;;;;;x;;;;
+PROV2332;Osorno;Osorno;Osorno;;Osorno;;;;;;;;;x;;;;
+PROV2333;Puerto Ais幯;Puerto Aisen;Puerto Aisen;;Puerto Aisen;;;;;;;;;x;;;;
+PROV2334;Punta Arenas;Punta Arenas;Punta Arenas;;Punta Arenas;;;;;;;;;x;;;;
+PROV2335;Porvenir;Porvenir;Porvenir;;Porvenir;;;;;;;;;x;;;;
+PROV2336;Easter Island;姤e de P滸ues;Osterinsel;;Isla de Pascua;;;;;;;;;x;;;;
+PROV2337;Fortin Falcon;Fortin Falcon;Fortin Falcon;;Fort璯 Falc鏮;;;;;;;;;x;;;;
+PROV2338;Puerto Guaran?Puerto Guarani;Puerto Guarani;;Puerto Guaran?;;;;;;;;x;;;;
+PROV2339;Asuncion;Asunci鏮;Asuncion;;Asunci鏮;;;;;;;;;x;;;;
+PROV2340;Pilar;Pilar;Pilar;;Pilar;;;;;;;;;x;;;;
+PROV2341;Encarnaci鏮;Encarnaci鏮;Encarnacion;;Encarnaci鏮;;;;;;;;;x;;;;
+PROV2342;San Pedro;San Pedro;San Pedro;;San Pedro;;;;;;;;;x;;;;
+PROV2343;Concepci鏮;Concepci鏮;Concepcion;;Concepci鏮;;;;;;;;;x;;;;
+PROV2344;Montevideo;Montevideo;Montevideo;;Montevideo;;;;;;;;;x;;;;
+PROV2345;Paysand?Paysand?Paysandu;;Paysand?;;;;;;;;x;;;;
+PROV2346;Tacuaremb?Tacuarembo;Tacuarembo;;Tacuarembo;;;;;;;;;x;;;;
+PROV2347;Melo;Melo;Melo;;Melo;;;;;;;;;x;;;;
+PROV2348;Buenos Aires;Buenos Aires;Buenos Aires;;Buenos Aires;;;;;;;;;x;;;;
+PROV2349;Jun璯;Junin;Junin;;Jun璯;;;;;;;;;x;;;;
+PROV2350;Azul;Azul;Azul;;Azul;;;;;;;;;x;;;;
+PROV2351;La Plata;La Plata;La Plata;;La Plata;;;;;;;;;x;;;;
+PROV2352;Mar del Plata;Mar del Plata;Mar del Plata;;Mar del Plata;;;;;;;;;x;;;;
+PROV2353;Trenque Lauquen;Trenque Lauquen;Trenque Lauquen;;Trenque Lauquen;;;;;;;;;x;;;;
+PROV2354;Bah燰 Blanca;Bahia Blanca;Bahia Blanca;;Bah燰 Blanca;;;;;;;;;x;;;;
+PROV2355;Carmen;Carmen;Carmen;;Carmen;;;;;;;;;x;;;;
+PROV2356;Corrientes;Corrientes;Corrientes;;Corrientes;;;;;;;;;x;;;;
+PROV2357;Curuz?Cuati?Curuz?Cuati?Curuzu Cuatia;;Curuzu Cuatia;;;;;;;;;x;;;;
+PROV2358;Santo Tom嫳;Santo Tom嫳;Santo Tomas;;Santo Tom嫳;;;;;;;;;x;;;;
+PROV2359;Col鏮;Col鏮;Colon;;Col鏮;;;;;;;;;x;;;;
+PROV2360;Paran?Parana;Parana;;Paran?;;;;;;;;x;;;;
+PROV2361;Sancti Spiritu;Santa Espiritu;Santa Espiritu;;Esp甏itu Santo;;;;;;;;;x;;;;
+PROV2362;Reconquista;Reconquista;Reconquista;;Reconquista;;;;;;;;;x;;;;
+PROV2363;Rosario;Rosario;Rosario;;Rosario;;;;;;;;;x;;;;
+PROV2364;Resistencia;Resistencia;Resistencia;;Resistencia;;;;;;;;;x;;;;
+PROV2365;Villa 聲gela;Villa Angela;Villa Angela;;Villa 聲gela;;;;;;;;;x;;;;
+PROV2366;Formosa;Formosa;Formosa;;Formosa;;;;;;;;;x;;;;
+PROV2367;Xolotas;Xolotas;Xolotas;;Xolotas;;;;;;;;;x;;;;
+PROV2368;Salta;Salta;Salta;;Salta;;;;;;;;;x;;;;
+PROV2369;Jujuy;Jujuy;Jujuy;;Jujuy;;;;;;;;;x;;;;
+PROV2370;Cochinoca;Cochinoca;Cochinoca;;Cochinoca;;;;;;;;;x;;;;
+PROV2371;Equia;Equia;Equia;;Equia;;;;;;;;;x;;;;
+PROV2372;Rivadavia;Rivadavia;Rivadavia;;Rivadavia;;;;;;;;;x;;;;
+PROV2373;Tucum嫕;Tucuman;Tucuman;;Tucum嫕;;;;;;;;;x;;;;
+PROV2374;Catamarca;Catamarca;Catamarca;;Catamarca;;;;;;;;;x;;;;
+PROV2375;Vinchina;Vinchina;Vinchina;;Vinchina;;;;;;;;;x;;;;
+PROV2376;Santiago del Estero;Santiago del Estero;Santiago del Estero;;Santiago del Estero;;;;;;;;;x;;;;
+PROV2377;A鎙tuya;Anatuya;Anatuya;;Anatuya;;;;;;;;;x;;;;
+PROV2378;Mail璯;Mailin;Mailin;;Mail璯;;;;;;;;;x;;;;
+PROV2379;C鏎doba de Argentina;C鏎doba;Cordoba de Argentina;;Cordoba de Argentina;;;;;;;;;x;;;;
+PROV2380;Villa Nueva;Villa Nueva;Villa Nueva;;Villa Nueva;;;;;;;;;x;;;;
+PROV2381;R甐 Cuarto;Rio Cuarto;Rio Cuarto;;R甐 Cuarto;;;;;;;;;x;;;;
+PROV2382;Renanc?Renanco;Renanco;;Renanco;;;;;;;;;x;;;;
+PROV2383;San Luis;San Luis;San Luis;;San Luis;;;;;;;;;x;;;;
+PROV2384;Mercedes;Mercedes;Mercedes;;Mercedes;;;;;;;;;x;;;;
+PROV2385;La Rioja;Rioja;La Rioja;;La Rioja;;;;;;;;;x;;;;
+PROV2386;Santa Rita;Santa Rita;Santa Rita;;Santa Rita;;;;;;;;;x;;;;
+PROV2387;San Juan;San Juan;San Juan;;San Juan;;;;;;;;;x;;;;
+PROV2388;Calingasta;Calingasta;Calingasta;;Calingasta;;;;;;;;;x;;;;
+PROV2389;Mendoza;Mendoza;Mendoza;;Mendoza;;;;;;;;;x;;;;
+PROV2390;San Rafael;San Rafael;San Rafael;;San Rafael;;;;;;;;;x;;;;
+PROV2391;Neuqu幯;Neuqu幯;Neuqu幯;;Neuqu幯;;;;;;;;;x;;;;
+PROV2392;Viedma;Viedma;Viedma;;Viedma;;;;;;;;;x;;;;
+PROV2393;Tel幯;Telen;Telen;;Telen;;;;;;;;;x;;;;
+PROV2394;Bariloche;Bariloche;Bariloche;;Bariloche;;;;;;;;;x;;;;
+PROV2395;Curac?Curaco;Curaco;;Curaco;;;;;;;;;x;;;;
+PROV2396;Rawson;Rawson;Rawson;;Rawson;;;;;;;;;x;;;;
+PROV2397;Esquel;Esquel;Esquel;;Esquel;;;;;;;;;x;;;;
+PROV2398;Puerto Deseado;Puerto Deseado;Puerto Deseado;;Puerto Deseado;;;;;;;;;x;;;;
+PROV2399;R甐 Gallegos;Rio Gallegos;Rio Gallegos;;R甐 Gallegos;;;;;;;;;x;;;;
+PROV2400;R甐 Grande;Rio Grande;Rio Grande;;R甐 Grande;;;;;;;;;x;;;;
+PROV2401;Marabitanas;Marabitanas;Marabitanas;;Marabitanas;;;;;;;;;x;;;;
+PROV2402;Manaus;Manaus;Manaus;;Manaos;;;;;;;;;x;;;;
+PROV2403;Cachoeira;Cachoeira;Cachoeira;;Cachoeira;;;;;;;;;x;;;;
+PROV2404;Tefe;Tefe;Tefe;;Tef?;;;;;;;;x;;;;
+PROV2405;Borba;Borba;Borba;;Borba;;;;;;;;;x;;;;
+PROV2406;Cocos Islands;姤es Cocos ;Kokosinseln;;Isla de los Cocos;;;;;;;;;x;;;;
+PROV2407;Tabatinga;Tabatinga;Tabatinga;;Tabatinga;;;;;;;;;x;;;;
+PROV2408;Oriximina;Oriximina;Oriximina;;Oriximina;;;;;;;;;x;;;;
+PROV2409;Saint Vincent;Saint Vincent;Saint Vincent;;San Vincente;;;;;;;;;x;;;;
+PROV2410;Bel幦;Belem;Belem;;Bel幦;;;;;;;;;x;;;;
+PROV2411;Santar幦;Santarem;Santarem;;Santar幦;;;;;;;;;x;;;;
+PROV2412;羒idos;Obidos;Obidos;;羒idos;;;;;;;;;x;;;;
+PROV2413;Marab?Maraba;Maraba;;Maraba;;;;;;;;;x;;;;
+PROV2414;Amap?Amapa;Amapa;;Amapa;;;;;;;;;x;;;;
+PROV2415;Macap?Macapa;Macapa;;Macap?;;;;;;;;x;;;;
+PROV2416;Dourados;Dourados;Dourados;;Dourados;;;;;;;;;x;;;;
+PROV2417;Vila Bela;Vila Bela;Vila Bela;;Vila Bela;;;;;;;;;x;;;;
+PROV2418;Cuiab?Cuiaba;Cuiaba;;Cuiab?;;;;;;;;x;;;;
+PROV2419;Corumb?Corumba;Corumba;;Corumba;;;;;;;;;x;;;;
+PROV2420;Iguatemi;Iguatemi;Iguatemi;;Iguatemi;;;;;;;;;x;;;;
+PROV2421;Vila Boa;Vila Boa;Vila Boa;;Vila Boa;;;;;;;;;x;;;;
+PROV2422;Aganja;Aganja;Aganja;;Aganja;;;;;;;;;x;;;;
+PROV2423;Palmas;Palmas;Palmas;;Palmas;;;;;;;;;x;;;;
+PROV2424;S緌 Lu疄;Sao Luis;Sao Luis;;Sao Luis;;;;;;;;;x;;;;
+PROV2425;Chapada;Chapada;Chapada;;Chapada;;;;;;;;;x;;;;
+PROV2426;Teresina;Teresina;Teresina;;Teresina;;;;;;;;;x;;;;
+PROV2427;Oeiras;Oeiras;Oeiras;;Oeiras;;;;;;;;;x;;;;
+PROV2428;Para燢a;Paraiba;Paraiba;;Para燢a;;;;;;;;;x;;;;
+PROV2429;Fortaleza;Fortaleza;Fortaleza;;Fortaleza;;;;;;;;;x;;;;
+PROV2430;Crato;Crato;Crato;;Crato;;;;;;;;;x;;;;
+PROV2431;Natal;Natal;Natal;;Natal;;;;;;;;;x;;;;
+PROV2432;Recife;Recife;Recife;;Recife;;;;;;;;;x;;;;
+PROV2433;Cabrobo;Cabrobo;Cabrobo;;Cabrobo;;;;;;;;;x;;;;
+PROV2434;Macei?Maceio;Maceio;;Macei?;;;;;;;;x;;;;
+PROV2435;Aracaju;Aracaju;Aracaju;;Aracaju;;;;;;;;;x;;;;
+PROV2436;Salvador de Bahia;Salvador de Bahia;Salvador de Bahia;;Salvador de Bah燰;;;;;;;;;x;;;;
+PROV2437;Juazeiro;Juazeiro;Juazeiro;;Juazeiro;;;;;;;;;x;;;;
+PROV2438;Vila do Barra;Vila do Barra;Vila do Barra;;Vila do Barra;;;;;;;;;x;;;;
+PROV2439;Porto Seguro;Porto Seguro;Porto Seguro;;Porto Seguro;;;;;;;;;x;;;;
+PROV2440;Vit鏎ia da Conquista;Vitoria da Conquista;Vitoria da Conquista;;Vit鏎ia da Conquista;;;;;;;;;x;;;;
+PROV2441;Ouro Preto;Ouro Preto;Ouro Preto;;Ouro Preto;;;;;;;;;x;;;;
+PROV2442;Sabar?Sabara;Sabara;;Sabara;;;;;;;;;x;;;;
+PROV2443;Janu嫫ia;Januaria;Januaria;;Janu嫫ia;;;;;;;;;x;;;;
+PROV2444;Paracatu;Paracatu;Paracatu;;Paracatu;;;;;;;;;x;;;;
+PROV2445;Uberaba;Uberaba;Uberaba;;Uberaba;;;;;;;;;x;;;;
+PROV2446;S緌 Jo緌 del Rey;S緌 Jo緌 del-Rei;Sao Joao del Rey;;Sao Joao del Rey;;;;;;;;;x;;;;
+PROV2447;Rio de Janeiro;Rio de Janeiro;Rio de Janeiro;;R甐 de Janeiro;;;;;;;;;x;;;;
+PROV2448;Campos;Campos;Campos;;Campos;;;;;;;;;x;;;;
+PROV2449;Vit鏎ia;Vitoria;Vitoria;;Vit鏎ia;;;;;;;;;x;;;;
+PROV2450;S緌 Paulo;S緌 Paulo;Sao Paulo;;Sao Paulo;;;;;;;;;x;;;;
+PROV2451;Santos;Santos;Santos;;Santos;;;;;;;;;x;;;;
+PROV2452;Campinas;Campinas;Campinas;;Campinas;;;;;;;;;x;;;;
+PROV2453;Assis;Assis;Assis;;Assis;;;;;;;;;x;;;;
+PROV2454;Fiji;Fidji;Fidschi;;Islas Fiji;;;;;;;;;x;;;;
+PROV2455;Iguape;Iguape;Iguape;;Iguape;;;;;;;;;x;;;;
+PROV2456;Araraquara;Araraquara;Araraquara;;Araraquara;;;;;;;;;x;;;;
+PROV2457;Curitiba;Curitiba;Curitiba;;Curitiba;;;;;;;;;x;;;;
+PROV2458;Guarapuava;Guarapuava;Guarapuava;;Guarapuava;;;;;;;;;x;;;;
+PROV2459;Lajes;Lajes;Lajes;;Lajes;;;;;;;;;x;;;;
+PROV2460;Castro;Castro;Castro;;Castro;;;;;;;;;x;;;;
+PROV2461;Desterro;Desterro;Desterro;;Desterro;;;;;;;;;x;;;;
+PROV2462;S緌 Miguel;S緌 Miguel;Sao Miguel;;Sao Miguel;;;;;;;;;x;;;;
+PROV2463;Porto Alegre;Porto Alegre;Porto Alegre;;Porto Alegre;;;;;;;;;x;;;;
+PROV2464;Pelotas;Pelotas;Pelotas;;Pelotas;;;;;;;;;x;;;;
+PROV2465;Passo Fundo;Passo Fundo;Passo Fundo;;Passo Fundo;;;;;;;;;x;;;;
+PROV2466;Santa Maria;Santa Maria;Santa Maria;;Santa Mar燰;;;;;;;;;x;;;;
+PROV2467;Alegrete;Alegrete;Alegrete;;Alegrete;;;;;;;;;x;;;;
+PROV2468;Sydney;Sydney;Sydney;;Sydney;;;;;;;;;x;;;;
+PROV2469;Newcastle;Newcastle;Newcastle;;Newcastle;;;;;;;;;x;;;;
+PROV2470;Port Macquarie;Port Macquarie;Port Macquarie;;Port Macquarie;;;;;;;;;x;;;;
+PROV2471;Ophir;Ophir;Ophir;;Ophir;;;;;;;;;x;;;;
+PROV2472;Eden;Eden;Eden;;Ed幯;;;;;;;;;x;;;;
+PROV2473;Wagga Wagga;Wagga Wagga;Wagga Wagga;;Wagga Wagga;;;;;;;;;x;;;;
+PROV2474;Moree;Moree;Moree;;Moree;;;;;;;;;x;;;;
+PROV2475;Broken Hill;Broken Hill;Broken Hill;;Broken Hill;;;;;;;;;x;;;;
+PROV2476;Melbourne;Melbourne;Melbourne;;Melbourne;;;;;;;;;x;;;;
+PROV2477;Warmambool;Warmambool;Warmambool;;Warmambool;;;;;;;;;x;;;;
+PROV2478;Ballarat;Ballarat;Ballarat;;Ballarat;;;;;;;;;x;;;;
+PROV2479;Sale;Sale;Sale;;Sale;;;;;;;;;x;;;;
+PROV2480;Beechworth;Beechworth;Beechworth;;Beechworth;;;;;;;;;x;;;;
+PROV2481;Swan Hill;Swan Hill;Swan Hill;;Swan Hill;;;;;;;;;x;;;;
+PROV2482;Tasmania;Tasmanie;Tasmanien;;Tasmania;;;;;;;;;x;;;;
+PROV2483;Brisbane;Brisbane;Brisbane;;Brisbane;;;;;;;;;x;;;;
+PROV2484;Gladstone;Gladstone;Gladstone;;Gladstone;;;;;;;;;x;;;;
+PROV2485;Clermont;Clermont;Clermont;;Clermont;;;;;;;;;x;;;;
+PROV2486;Toowoomba;Toowoomba;Toowoomba;;Toowoomba;;;;;;;;;x;;;;
+PROV2487;Townsville;Townsville;Townsville;;Townsville;;;;;;;;;x;;;;
+PROV2488;Cooktown;Cooktown;Cooktown;;Cooktown;;;;;;;;;x;;;;
+PROV2489;Longreach;Longreach;Longreach;;Longreach;;;;;;;;;x;;;;
+PROV2490;Charleville;Charleville;Charleville;;Charleville;;;;;;;;;x;;;;
+PROV2491;Adelaide;Adelaide;Adelaide;;Adelaida;;;;;;;;;x;;;;
+PROV2492;Port Lincoln;Port Lincoln;Port Lincoln;;Port Lincoln;;;;;;;;;x;;;;
+PROV2493;Robe;Robe;Robe;;Robe;;;;;;;;;x;;;;
+PROV2494;Port Augusta;Port Augusta;Port Augusta;;Port Augusta;;;;;;;;;x;;;;
+PROV2495;Oodnadatta;Oodnadatta;Oodnadatta;;Oodnadatta;;;;;;;;;x;;;;
+PROV2496;Tarcoola;Tarcoola;Tarcoola;;Tarcoola;;;;;;;;;x;;;;
+PROV2497;Perth;Perth;Perth;;Perth;;;;;;;;;x;;;;
+PROV2498;Kojonup;Kojonup;Kojonup;;Kojonup;;;;;;;;;x;;;;
+PROV2499;Geraldton;Geraldton;Geraldton;;Geraldton;;;;;;;;;x;;;;
+PROV2500;Kalgoorlie;Kalgoorlie;Kalgoorlie;;Kalgoorlie;;;;;;;;;x;;;;
+PROV2501;Broome;Broome;Broome;;Broome;;;;;;;;;x;;;;
+PROV2502;Dampier;Dampier;Dampier;;Dampier;;;;;;;;;x;;;;
+PROV2503;Wiluna;Wiluna;Wiluna;;Wiluna;;;;;;;;;x;;;;
+PROV2504;Esperance;Esperance;Esperance;;Esperance;;;;;;;;;x;;;;
+PROV2505;Palmerston;Palmerston;Palmerston;;Palmerston;;;;;;;;;x;;;;
+PROV2506;Tennant Creek;Tennant Creek;Tennant Creek;;Tennant Creek;;;;;;;;;x;;;;
+PROV2507;Alice Springs;Alice Springs;Alice Springs;;Alice Springs;;;;;;;;;x;;;;
+PROV2508;Norfolk Island;姤e Norfolk;Norfolk Island;;Isla de Norfolk ;;;;;;;;;x;;;;
+PROV2509;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x;;;;
+PROV2510;New Plymouth;New Plymouth;New Plymouth;;New Plymouth;;;;;;;;;x;;;;
+PROV2511;Napier;Napier;Napier;;Napier;;;;;;;;;x;;;;
+PROV2512;Wellington;Wellington;Wellington;;Wellington;;;;;;;;;x;;;;
+PROV2513;Dunedin;Dunedin;Dunedin;;Dunedin;;;;;;;;;x;;;;
+PROV2514;Hokitika;Hokitika;Hokitika;;Hokitika;;;;;;;;;x;;;;
+PROV2515;Christchurch;Christchurch;Christchurch;;Christchurch;;;;;;;;;x;;;;
+PROV2516;Nelson;Nelson;Nelson;;Nelson;;;;;;;;;x;;;;
+PROV2517;Guam;Guam;Guam;;Guam;;;;;;;;;x;;;;
+PROV2518;Palau;Palau;Palau;;Palau;;;;;;;;;x;;;;
+PROV2519;Yap;Yap;Yap;;Yap;;;;;;;;;x;;;;
+PROV2520;Taveuni;Taveuni;Taveuni;;Taveuni;;;;;;;;;x;;;;
+PROV2521;Saipan;Saipan;Saipan;;Saipan;;;;;;;;;x;;;;
+PROV2522;Marshall Islands;姤es Marshall;Marshallinseln;;Islas Marshall;;;;;;;;;x;;;;
+PROV2523;Nauru;Nauru;Nauru;;Nauru;;;;;;;;;x;;;;
+PROV2524;Wake;Wake;Wake;;Atol鏮 de Wake;;;;;;;;;x;;;;
+PROV2525;Marcus;Marcus;Marcus;;Marcus;;;;;;;;;x;;;;
+PROV2526;Palmyra;Palmyra;Palmyra;;Palmira;;;;;;;;;x;;;;
+PROV2527;Gilbert Islands;姤es Gilbert;Gilbertinseln;;Islas Gilbert;;;;;;;;;x;;;;
+PROV2528;Port Moresby;Port Moresby;Port Moresby;;Port Moresby;;;;;;;;;x;;;;
+PROV2529;Kerema;Kerema;Kerema;;Kerema;;;;;;;;;x;;;;
+PROV2530;Lae;Lae;Lae;;Lae;;;;;;;;;x;;;;
+PROV2531;Madang;Madang;Madang;;Madang;;;;;;;;;x;;;;
+PROV2532;Forte S緌 Joaquim;Forte de S緌 Joaquim;Forte Sao Joaquim;;Forte Sao Joaquim;;;;;;;;;x;;;;
+PROV2533;Targu Mures;Targu Mures;Targu Mures;;Targu Mures;;;;;;;;;x;;;;
+PROV2534;Solomon Islands;姤es Salomon;Solomonen;;Islas Solomon;;;;;;;;;x;;;;
+PROV2535;New Hebrides;New Hebrides;Neue Hebriden;;Nuevas H嶵ridas;;;;;;;;;x;;;;
+PROV2536;Santa Cruz Islands;姤es Santa Cruz ;Santa Cruz-Inseln;;Islas de Santa Cruz;;;;;;;;;x;;;;
+PROV2537;New Britain;New Britain;New Britain;;Nueva Breta鎙;;;;;;;;;x;;;;
+PROV2538;Novi Sad;Novi Sad;Novi Sad;;Novi Sad;;;;;;;;;x;;;;
+PROV2539;Bougainville;Bougainville;Bougainville;;Bougainville;;;;;;;;;x;;;;
+PROV2540;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x;;;;
+PROV2541;Ellice Islands;姤es Ellice;Ellice-Inseln;;Islas Ellice;;;;;;;;;x;;;;
+PROV2542;Wallis and Futuna;Wallis-et-Futuna;Wallis und Futuna;;Wallis y Futuna;;;;;;;;;x;;;;
+PROV2543;Apia;Apia;Apia;;Apia;;;;;;;;;x;;;;
+PROV2544;Pago Pago;Pago Pago;Pago Pago;;Pago Pago;;;;;;;;;x;;;;
+PROV2545;Rarotonga;Rarotonga;Rarotonga;;Rarotonga;;;;;;;;;x;;;;
+PROV2546;Tongareva;Tongareva;Tongareva;;Tongareva;;;;;;;;;x;;;;
+PROV2547;Tokelau;Tokelau;Tokelau;;Tokelau;;;;;;;;;x;;;;
+PROV2548;Niue;Niue;Niue;;Niue;;;;;;;;;x;;;;
+PROV2549;Tarauac?Tarauaca;Tarauaca;;Tarauaca;;;;;;;;;x;;;;
+PROV2550;Forte do Pr璯cipe;Forte do Principe;Forte do Principe;;Forte do Pr璯cipe;;;;;;;;;x;;;;
+PROV2551;Marquesas;Marquises;Marquesas;;Marquesas;;;;;;;;;x;;;;
+PROV2552;Pitcairn;Pitcairn;Pitcairn;;Pitcairn;;;;;;;;;x;;;;
+PROV2553;Tuamotus;Tuamotus;Tuamotus;;Tuamotus;;;;;;;;;x;;;;
+PROV2554;Posadas;Posadas;Posadas;;Posadas;;;;;;;;;x;;;;
+PROV2555;Augusta;Augusta;Augusta;;Augusta;;;;;;;;;x;;;;
+PROV2556;Asheville;Asheville;Asheville;;Asheville;;;;;;;;;x;;;;
+PROV2557;Esbjerg;Esbjerg;Esbjerg;;Esbjerg;;;;;;;;;x;;;;
+PROV2558;De Aar;De Aar;De Aar;;De Aar;;;;;;;;;x;;;;
+PROV2559;Suhaj;Suhaj;Suhaj;;Suhaj;;;;;;;;;x;;;;
+PROV2560;Darmstadt;Darmstadt;Darmstadt;;Darmstadt;;;;;;;;;x;;;;
+PROV2561;Siegburg;Siegburg;Siegburg;;Siegburg;;;;;;;;;x;;;;
+PROV2562;Tainan;Tainan;Tainan;;Tainan;;;;;;;;;x;;;;
+PROV2563;Safi;Safi;Safi;;Safi;;;;;;;;;x;;;;
+PROV2564;Salima;Salima;Salima;;Salima;;;;;;;;;x;;;;
+PROV2565;Cebu;Cebu;Cebu;;Cebu;;;;;;;;;x;;;;
+PROV2566;Agartala;Agartala;Agartala;;Agartala;;;;;;;;;x;;;;
+PROV2567;Gaeta;Gaeta;Gaeta;;Gaeta;;;;;;;;;x;;;;
+PROV2568;Lugano;Lugano;Lugano;;Lugano;;;;;;;;;x;;;;
+PROV2569;Niksic;Niksic;Niksic;;Niksic;;;;;;;;;x;;;;
+PROV2570;Beauvais;Beauvais;Beauvais;;Beauvais;;;;;;;;;x;;;;
+PROV2571;Tauranga;Tauranga;Tauranga;;Tauranga;;;;;;;;;x;;;;
+PROV2572;Nan;Nan;Nan;;Nan;;;;;;;;;x;;;;
+PROV2573;Mboul;Mboul;Mboul;;Mboul;;;;;;;;;x;;;;
+PROV2574;Mochudi;Mochudi;Mochudi;;Mochudi;;;;;;;;;x;;;;
+PROV2575;Ipoh;Ipoh;Ipoh;;Ipoh;;;;;;;;;x;;;;
+PROV2576;Natuna;Natuna;Natuna;;Natuna;;;;;;;;;x;;;;
+PROV2577;Pljevlja;Pljevlja;Pljevlja;;Pljevlja;;;;;;;;;x;;;;
+PROV2578;Tacna;Tacna;Tacna;;Tacna;;;;;;;;;x;;;;
+PROV2579;Truk;Truk;Truk;;Truk;;;;;;;;;x;;;;
+PROV2580;Stara Ladoga;Stara Ladoga;Stara Ladoga;;Stara Ladoga;;;;;;;;;x;;;;
+PROV2581;Mataka;Mataka;Mataka;;Mataka;;;;;;;;;x;;;;
+PROV2582;Kotor;Kotor;Kotor;;Kotor;;;;;;;;;x;;;;
+PROV2583;Cetinje;Cetinje;Cetinje;;Cetinje;;;;;;;;;x;;;;
+PROV2584;Bielsko;Bielsko;Bielsko;;Bielsko;;;;;;;;;x;;;;
+PROV2585;Matan as Sarah;Matan as Sarah;Matan as Sarah;;Matan as Sarah;;;;;;;;;x;;;;
+PROV2586;Al-Ahsa;Al-Ahsa;Al-Ahsa;;Al-Ahsa;;;;;;;x;;;;;;
+PROV2587;Kola;Kola;Kola;;Kola;;;;;;;x;;;;;;
+PROV2588;Onega;Onega;Onega;;Onega;;;;;;;x;;;;;;
+PROV2589;Shoyna;Shoyna;Shoyna;;Shoyna;;;;;;;x;;;;;;
+PROV2590;Ugolnoye;Ugolnoye;Ugolnoye;;Ugolnoye;;;;;;;x;;;;;;
+PROV2591;Holsteinsborg;Sisimiut;Sisimiut;;Holsteinsborg;;;;;;;x;;;;;;
+PROV2592;Ungava;Ungava;Ungava;;Ungava;;;;;;;x;;;;;;
+PROV2593;Fort George;Fort George;Fort George;;Fort George;;;;;;;x;;;;;;
+PROV2594;Pickle;Pickle;Pickle;;Pickle;;;;;;;x;;;;;;
+PROV2595;Nunavut;Nunavut;Nunavut;;Nunavut;;;;;;;x;;;;;;
+PROV2596;Fort Resolution;Fort Resolution;Fort Resolution;;Fort Resolution;;;;;;;x;;;;;;
+PROV2597;Fort Vermilion;Fort Vermilion;Fort Vermilion;;Fort Vermilion;;;;;;;x;;;;;;
+PROV2598;Fort Liard;Fort Liard;Fort Liard;;Fort Liard;;;;;;;x;;;;;;
+PROV2599;Fairbanks;Fairbanks;Fairbanks;;Fairbanks;;;;;;;x;;;;;;
+PROV2600;Altamira;Altamira;Altamira;;Altamira;;;;;;;x;;;;;;
+PROV2601;Sandy Desert;D廥ert de sable;Sandy Desert;;Desierto Arenoso;;;;;;;x;;;;;;
+PROV2602;Roebourne;Roebourne;Roebourne;;Roebourne;;;;;;;x;;;;;;
+PROV2603;Tanami;Tanami;Tanami;;Tanami;;;;;;;x;;;;;;
+PROV2604;Normanton;Normanton;Normanton;;Normanton;;;;;;;x;;;;;;
+PROV2605;Gibson's Desert;D廥ert de Gilbert;Gibson's Desert;;Desierto de Gibson;;;;;;;x;;;;;;
+PROV2606;Zhambyl;Zhambyl;Zhambyl;;Zhambyl;;;;;;;x;;;;;;
+PROV2607;Lop Nur;Lop Nur;Lop Nur;;Lop Nur;;;;;;;x;;;;;;
+PROV2608;Khatgal;Khatgal;Khatgal;;Khatgal;;;;;;;x;;;;;;
+PROV2609;Araouane;Araouane;Araouane;;Araouane;;;;;;;x;;;;;;
+PROV2610;Uralsk;Uralsk;Uralsk;;Uralsk;;;;;;;x;;;;;;
+PROV2611;Turgay;Turgay;Turgay;;Turgay;;;;;;;x;;;;;;
+PROV2612;Aktash;Aktash;Aktash;;Aktash;;;;;;;x;;;;;;
+PROV2613;Nyda;Nyda;Nyda;;Nyda;;;;;;;x;;;;;;
+PROV2614;Mordiyakha;Mordiyakha;Mordiyakha;;Mordiyakha;;;;;;;x;;;;;;
+PROV2615;Krasnoselkup;Krasnoselkup;Krasnoselkup;;Krasnoselkup;;;;;;;x;;;;;;
+PROV2616;Tilichiki;Tilichiki;Tilichiki;;Tilichiki;;;;;;;x;;;;;;
+PROV2617;Saghalian Oula;Saghalian Oula;Saghalian Oula;;Saghalian Oula;;;;;;;x;;;;;;
+PROV2618;Talaya;Talaya;Talaya;;Talaya;;;;;;;x;;;;;;
+PROV2619;Abiy;Abiy;Abiy;;Abiy;;;;;;;x;;;;;;
+PROV2620;Syasir;Syasir;Syasir;;Syasir;;;;;;;x;;;;;;
+PROV2621;Srednekolymsk;Srednekolymsk;Srednekolymsk;;Srednekolymsk;;;;;;;x;;;;;;
+PROV2622;Markovo;Markovo;Markovo;;Markovo;;;;;;;x;;;;;;
+PROV2623;Midway Island;姤e Midway;Midway;;Isla de Midway;;;;;;;x;;;;;;
+PROV2624;Loango;Loango;Loango;;Loango;;;;;;;x;;;;;;
+PROV2625;Port Hope Simpson;Port Hope Simpson;Port Hope Simpson;;Puerto Hope Simpson;;;;;;;x;;;;;;
+PROV2626;Port Harrison;Port Harrison;Port Harrison;;Puerto Harrison;;;;;;;x;;;;;;
+PROV2627;Fort Chimo;Fort Chimo;Fort Chimo;;Fort Chimo;;;;;;;x;;;;;;
+PROV2628;Attawapiskat;Attawapiskat;Attawapiskat;;Attawapiskat;;;;;;;x;;;;;;
+PROV2629;Beatton River;Beatton River;Beatton River;;R甐 Beatton;;;;;;;x;;;;;;
+PROV2630;Cordova;Cordova;Cordova;;C鏎dova;;;;;;;x;;;;;;
+PROV2631;Unalakeet;Unalakeet;Unalakeet;;Unalakeet;;;;;;;x;;;;;;
+PROV2632;Ammassalik;Isortoq;Isortoq;;Ammassalik;;;;;;;x;;;;;;
+PROV2633;Ossora;Ossora;Ossora;;Ossora;;;;;;;x;;;;;;
+PROV2634;Rassvet;Rassvet;Rassvet;;Rassvet;;;;;;;x;;;;;;
+PROV2635;Kariba;Kariba;Kariba;;Kariba;;;;;;;x;;;;;;
+PROV2636;Egedesminde;Aasiaat;Aasiaat;;Egedesminde;;;;;;;x;;;;;;
+PROV2637;Novo Mariinsk;Novo Mariinsk;Novo Mariinsk;;Novo Mariinsk;;;;;;;x;;;;;;
+PROV2638;Omsukchan;Omsukchan;Omsukchan;;Omsukchan;;;;;;;x;;;;;;
+PROV2639;Susuman;Susuman;Susuman;;Susuman;;;;;;;x;;;;;;
+PROV2640;Ziryanka;Ziryanka;Ziryanka;;Ziryanka;;;;;;;x;;;;;;
+PROV2641;Ayan;Ayan;Ayan;;Ayan;;;;;;;x;;;;;;
+PROV2642;Ust Nera;Ust Nera;Ust Nera;;Ust Nera;;;;;;;x;;;;;;
+PROV2643;Honuu;Honuu;Honuu;;Honuu;;;;;;;x;;;;;;
+PROV2644;Olyekminsk;Olyekminsk;Olyekminsk;;Olyekminsk;;;;;;;x;;;;;;
+PROV2645;Chilchi;Chilchi;Chilchi;;Chilchi;;;;;;;x;;;;;;
+PROV2646;Ases Igan;Ases Igan;Ases Igan;;Ases Igan;;;;;;;x;;;;;;
+PROV2647;Yansk;Yansk;Yansk;;Yansk;;;;;;;x;;;;;;
+PROV2648;Yakutsk;Yakutsk;Yakutsk;;Yakutsk;;;;;;;x;;;;;;
+PROV2649;Zhigansk;Zhigansk;Zhigansk;;Zhigansk;;;;;;;x;;;;;;
+PROV2650;Nyurba;Nyurba;Nyurba;;Nyurba;;;;;;;x;;;;;;
+PROV2651;Udanchniy;Udanchniy;Udanchniy;;Udanchniy;;;;;;;x;;;;;;
+PROV2652;Kular;Kular;Kular;;Kular;;;;;;;x;;;;;;
+PROV2653;Saskylah;Saskylah;Saskylah;;Saskylah;;;;;;;x;;;;;;
+PROV2654;Khatanga;Khatanga;Khatanga;;Khatanga;;;;;;;x;;;;;;
+PROV2655;Tura;Tura;Tura;;Tura;;;;;;;x;;;;;;
+PROV2656;Tayimba;Tayimba;Tayimba;;Tayimba;;;;;;;x;;;;;;
+PROV2657;Svetlogorsk;Svetlogorsk;Svetlogorsk;;Svetlogorsk;;;;;;;x;;;;;;
+PROV2658;Kheta;Kheta;Kheta;;Kheta;;;;;;;x;;;;;;
+PROV2659;Napalkovo;Napalkovo;Napalkovo;;Napalkovo;;;;;;;x;;;;;;
+PROV2660;Bereyezovka;Bereyezovka;Bereyezovka;;Bereyezovka;;;;;;;x;;;;;;
+PROV2661;Nizhnekolymsk;Nizhnekolymsk;Nizhnekolymsk;;Nizhnekolymsk;;;;;;;x;;;;;;
+PROV2662;Cherskiy;Cherskiy;Cherskiy;;Cherskiy;;;;;;;x;;;;;;
+PROV2663;Kamenskoye;Kamenskoye;Kamenskoye;;Kamenskoye;;;;;;;x;;;;;;
+PROV2664;Oyotuni;Oyotuni;Oyotuni;;Oyotuni;;;;;;;x;;;;;;
+PROV2665;Chokurdakh;Chokurdakh;Chokurdakh;;Chokurdakh;;;;;;;x;;;;;;
+PROV2666;Pevek;Pevek;Pevek;;Pevek;;;;;;;x;;;;;;
+PROV2667;Bulun;Bulun;Bulun;;Bulun;;;;;;;x;;;;;;
+PROV2668;Verkhoyansk;Verkhoyansk;Verkhoyansk;;Verkhoyansk;;;;;;;x;;;;;;
+PROV2669;Amga;Amga;Amga;;Amga;;;;;;;x;;;;;;
+PROV2670;Tiksi;Tiksi;Tiksi;;Tiksi;;;;;;;x;;;;;;
+PROV2671;Zhilinda;Zhilinda;Zhilinda;;Zhilinda;;;;;;;x;;;;;;
+PROV2672;Pokrovsk;Pokrovsk;Pokrovsk;;Pokrovsk;;;;;;;x;;;;;;
+PROV2673;Olenyok;Olenyok;Olenyok;;Olenyok;;;;;;;x;;;;;;
+PROV2674;Essey;Essey;Essey;;Essey;;;;;;;x;;;;;;
+PROV2675;Yekonda;Yekonda;Yekonda;;Yekonda;;;;;;;x;;;;;;
+PROV2676;Kirensk;Kirensk;Kirensk;;Kirensk;;;;;;;x;;;;;;
+PROV2677;Dotkon;Dotkon;Dotkon;;Dotkon;;;;;;;x;;;;;;
+PROV2678;Bulgan;Bulgan;Bulgan;;Bulgan;;;;;;;x;;;;;;
+PROV2679;Khovd;Khovd;Khovd;;Khovd;;;;;;;x;;;;;;
+PROV2680;Dudinka;Dudinka;Dudinka;;Dudinka;;;;;;;x;;;;;;
+PROV2681;Kikkiakki;Kikkiakki;Kikkiakki;;Kikkiakki;;;;;;;x;;;;;;
+PROV2682;Aksarka;Aksarka;Aksarka;;Aksarka;;;;;;;x;;;;;;
+PROV2683;Bakchar;Bakchar;Bakchar;;Bakchar;;;;;;;x;;;;;;
+PROV2684;Yar Sale;Yar Sale;Yar Sale;;Yar Sale;;;;;;;x;;;;;;
+PROV2685;Muzhi;Muzhi;Muzhi;;Muzhi;;;;;;;x;;;;;;
+PROV2686;Ishim;Ishim;Ishim;;Ishim;;;;;;;x;;;;;;
+PROV2687;Amderma;Amderma;Amderma;;Amderma;;;;;;;x;;;;;;
+PROV2688;Inta;Inta;Inta;;Inta;;;;;;;x;;;;;;
+PROV2689;Mulda;Mulda;Mulda;;Mulda;;;;;;;x;;;;;;
+PROV2690;Verkhniy Ufaley;Verkhniy Ufaley;Verkhniy Ufaley;;Verkhniy Ufaley;;;;;;;x;;;;;;
+PROV2691;Vorgovo;Vorgovo;Vorgovo;;Vorgovo;;;;;;;x;;;;;;
+PROV2692;Kostino;Kostino;Kostino;;Kostino;;;;;;;x;;;;;;
+PROV2693;Uchami;Uchami;Uchami;;Uchami;;;;;;;x;;;;;;
+PROV2694;Vanavara;Vanavara;Vanavara;;Vanavara;;;;;;;x;;;;;;
+PROV2695;Mukhtuya;Mukhtuya;Mukhtuya;;Mukhtuya;;;;;;;x;;;;;;
+PROV2696;Aldan;Aldan;Aldan;;Aldan;;;;;;;x;;;;;;
+PROV2697;Magdagachi;Magdagachi;Magdagachi;;Magdagachi;;;;;;;x;;;;;;
+PROV2698;Slavgorod;Slavgorod;Slavgorod;;Slavgorod;;;;;;;x;;;;;;
+PROV2699;Izhma;Izhma;Izhma;;Izhma;;;;;;;x;;;;;;
+PROV2700;Usogorsk;Usogorsk;Usogorsk;;Usogorsk;;;;;;;x;;;;;;
+PROV2701;Surinda;Surinda;Surinda;;Surinda;;;;;;;x;;;;;;
+PROV2702;Aralsk;Aralsk;Aralsk;;Aralsk;;;;;;;x;;;;;;
+PROV2703;V鄚ern;V鄚ern;V鄚ern;;V鄚ern;;;;;;;x;;;;;;
+PROV2704;V酹tern;V酹tern;V酹tern;;V酹tern;;;;;;;x;;;;;;
+PROV2705;Gulf of Bothnia;Golfe de Bothnia;Bothnischer Meerbusen;;Golfo de Botnia;;;;;;;x;;;;;;
+PROV2706;儻ands Hav;Mer d'儻and;儻ands Hav;;Mar de 儻and;;;;;;;x;;;;;;
+PROV2707;Gulf of Finland;Golfe de Finlande;Finnischer Meerbusen;;Golfo de Finlandia;;;;;;;x;;;;;;
+PROV2708;Western Baltic Sea;Mer Baltique occidentale;Westliche Ostsee;;Mar B嫮tico Occidental;;;;;;;x;;;;;;
+PROV2709;Gulf of Riga;Golfe de Riga;Golf von Riga;;Golfo de Riga;;;;;;;x;;;;;;
+PROV2710;Southern Baltic Sea;Mer Baltique m廨idionale;Sliche Ostsee;;Mar B嫮tico Meridional;;;;;;;x;;;;;;
+PROV2711;琀esund;喣esund;琀esund;;喣esund;;;;;;;x;;;;;;
+PROV2712;Kattegat;Catt嶲at;Kattegat;;Kattegat;;;;;;;x;;;;;;
+PROV2713;Peipsi J酺v;Peipsi J酺v;Peipsi J酺v;;Peipsi J酺v;;;;;;;x;;;;;;
+PROV2714;Ladoga;Ladoga;Ladoga;;Lago Ladoga;;;;;;;x;;;;;;
+PROV2715;Onega;Onega;Onega;;Onega;;;;;;;x;;;;;;
+PROV2716;White Sea;Mer Blanche;Wei羥eer;;Mar Blanco;;;;;;;x;;;;;;
+PROV2717;Lofoten Sea;Mer Lofoten;Lofotensee;;Mar de Lofoten;;;;;;;x;;;;;;
+PROV2718;Northern Norwegian Sea;Mer de Norv銶e septentrionale;N顤dliches Europ鄜sches Nordmeer;;Mar de Noruega septentrional;;;;;;;x;;;;;;
+PROV2719;Southern Norwegian Sea;Mer de Norv銶e m廨idionale;Sliches Europ鄜sches Nordmeer;;Mar de Noruega meridional;;;;;;;x;;;;;;
+PROV2720;Skagerrack;Skagerrack;Skagerrak;;Skagerrack;;;;;;;x;;;;;;
+PROV2721;Helgoland Bight;Helgoland Bight;Bucht von Helgoland;;Bah燰 de Helgoland;;;;;;;x;;;;;;
+PROV2722;Coast of Holland;C矌e hollandaise;Kte von Holland;;Costa de Holland;;;;;;;x;;;;;;
+PROV2723;Dogger Bank;Banc de Dogger;Doggerbank;;Dogger Bank;;;;;;;x;;;;;;
+PROV2724;Straits of Dover;D彋roit de Douvres;Stra絽 von Dover;;Estrecho de Dover;;;;;;;x;;;;;;
+PROV2725;The Channel;La Manche;Der Kanal;;El Canal;;;;;;;x;;;;;;
+PROV2726;Lands End;Lands End;Lands End;;Lands End;;;;;;;x;;;;;;
+PROV2727;Coast of Britanny;C矌e bretonne;Bretonische Kte;;Costa de Breta鎙;;;;;;;x;;;;;;
+PROV2728;Quiberon Bay;Baie de Quiberon;Bucht von Quiberon;;Bah燰 de Quiberon;;;;;;;x;;;;;;
+PROV2729;Cote D'Argent;C矌e d'Argent;Cote D'Argent;;Cote D'Argent;;;;;;;x;;;;;;
+PROV2730;Bay of Biscay;Baie de Gascogne;Bucht von Biskaya;;Golfo de Vizcaya;;;;;;;x;;;;;;
+PROV2731;Cantabrian Sea;Mer Cantabrique;Kantabrische See;;Mar Cant墎rico;;;;;;;x;;;;;;
+PROV2732;Tyne;Tyne;Tyne;;Tyne;;;;;;;x;;;;;;
+PROV2733;Firth of Forth;Firth of Forth;Firth of Forth;;Estuario de Forth;;;;;;;x;;;;;;
+PROV2734;The North Sea;Mer du Nord;Nordsee;;Mar del Norte;;;;;;;x;;;;;;
+PROV2735;Moray Firth;Moray Firth;Moray Firth;;Moray Firth;;;;;;;x;;;;;;
+PROV2736;North Channel;Canal du nord;North Channel;;Canal del Norte;;;;;;;x;;;;;;
+PROV2737;Irish Sea;Mer d'Irlande;Irische See;;Mar de Irlanda;;;;;;;x;;;;;;
+PROV2738;St. George's Channel;Canal Saint-Georges;St. George's Channel;;Canal de St. George;;;;;;;x;;;;;;
+PROV2739;Donegal Bay;Baie de Donegal;Donegal Bay;;Bah燰 de Donegal;;;;;;;x;;;;;;
+PROV2740;Dingle Bay;Baie de Dingle;Dingle Bay;;Bah燰 de Dingle;;;;;;;x;;;;;;
+PROV2741;Celtic Sea;Mer Celtique;Keltische See;;Mar C幨tico;;;;;;;x;;;;;;
+PROV2742;Western Approaches;Abords occidentaux;Western Approaches;;Atl嫕tico Occidental;;;;;;;x;;;;;;
+PROV2743;Finisterre Bay;Baie de Finisterre;Bucht von Finisterre;;Bah燰 de Finisterre;;;;;;;x;;;;;;
+PROV2744;Lusitanian Sea;Mer Lusitanienne;Lusitanische See;;Mar de Lusitania;;;;;;;x;;;;;;
+PROV2745;Gulf of Cadiz;Golfe de Cadix;Golf von Cadiz;;Golfo de C墂iz;;;;;;;x;;;;;;
+PROV2746;Straits of Gibraltar;D彋roit de Gibraltar;Stra絽 von Gibraltar;;Estrecho de Gibraltar;;;;;;;x;;;;;;
+PROV2747;Gulf of Almer燰;Golfe d'Almeira;Golf von Almeira;;Golfo de Almer燰;;;;;;;x;;;;;;
+PROV2748;Gulf of Valencia;Golfe de Valence;Golf von Valencia;;Golfo de Valencia;;;;;;;x;;;;;;
+PROV2749;Gulf of Lion;Golfe du Lion;Golf von Lion;;Golfo de Le鏮;;;;;;;x;;;;;;
+PROV2750;Cote D'Azur;C矌e d'Azur;Cote D'Azur;;Costa Azul;;;;;;;x;;;;;;
+PROV2751;Ligurian Sea;Mer Ligure;Ligurische See;;Mar de Liguria;;;;;;;x;;;;;;
+PROV2752;Gulf of Mallorca;Golfe de Majorque;Golf von Mallorca;;Golfo de Mallorca;;;;;;;x;;;;;;
+PROV2753;Western Mediterranean;M嶮iterran嶪 occidentale;Westliches Mittelmeer;;Mediterr嫕eo Occidental;;;;;;;x;;;;;;
+PROV2754;Barbary Coast;C矌e barbare;Barbary-Kte;;Costa de Berber燰;;;;;;;x;;;;;;
+PROV2755;Cape Bon;Cap Bon;Cape Bon;;Cape Bon;;;;;;;x;;;;;;
+PROV2756;Tyrrhenian Sea;Mer Tyrrh幯ienne;Tyrrhenische See;;Mar Tirreno;;;;;;;x;;;;;;
+PROV2757;Bay of Naples;Baie de Naples;Bucht von Neapel;;Bah燰 de N嫚oles;;;;;;;x;;;;;;
+PROV2758;Gulf of Gabes;Golfe de Gab鋊;Golf von Gabes;;Golfo de Gabes;;;;;;;x;;;;;;
+PROV2759;Malta Channel;Canal de Malte;Maltakanal;;Canal de Malta;;;;;;;x;;;;;;
+PROV2760;Straits of Messina;D彋roit de Messine;Stra絽 von Messina;;Estrecho de Messina;;;;;;;x;;;;;;
+PROV2761;Gulf of Venice;Golfe de Venise;Golf von Venedig;;Golfo de Venecia;;;;;;;x;;;;;;
+PROV2762;Adriatic Sea;Mer Adriatiaque;Adria;;Mar Adri嫢ico;;;;;;;x;;;;;;
+PROV2763;Straits of Otranto;D彋roit d'Otrante ;Stra絽 von Otranto;;Estrecho de Otranto;;;;;;;x;;;;;;
+PROV2764;Gulf of Taranto;Golfe de Tarente;Golf von Taranto;;Golfo de Tarento;;;;;;;x;;;;;;
+PROV2765;Ionian Sea;Mer Ionienne;Ionisches Meer;;Mar J鏮ico;;;;;;;x;;;;;;
+PROV2766;Gulf of Sirte;Golfe de Syrte;Golf von Sirte;;Golfo de Sirte;;;;;;;x;;;;;;
+PROV2767;Gulf of Tobruk;Golfe de Tobrouk;Golf von Tobruk;;Golfo de Tobruk;;;;;;;x;;;;;;
+PROV2768;Bay of Alexandria;Baie d'Alexandrie;Bucht von Alexandria;;Bah燰 de Alejandria;;;;;;;x;;;;;;
+PROV2769;Palestinian Coast;C矌e palestinienne;Kte von Pal酲tina;;Costa de Palestina;;;;;;;x;;;;;;
+PROV2770;Gulf of Cyprus;Golfe de Chypre;Golf von Cyprus;;Golfo de Chipre;;;;;;;x;;;;;;
+PROV2771;Sea of Crete;Mer de Cr鋈e;Kretisches Meer;;Mar de Creta;;;;;;;x;;;;;;
+PROV2772;Aegean Sea;Mer Eg嶪;朧鄜s;;Mar Egeo;;;;;;;x;;;;;;
+PROV2773;Sea of Marmara;Mer de Marmara;See von Marmara;;Mar de M嫫mara;;;;;;;x;;;;;;
+PROV2774;Gulf of Varna;Golfe de Varna;Golf von Varna;;Golfo de Varna;;;;;;;x;;;;;;
+PROV2775;Gulf of Odessa;Golfe d'Odessa;Golf von Odessa;;Golfo de Odessa;;;;;;;x;;;;;;
+PROV2776;Sea of Azov;Mer d'Azov;Asowsches Meer;;Mar de Azov;;;;;;;x;;;;;;
+PROV2777;Eastern Black Sea;Mer Noire orientale;珺tliches Schwarzmeer;;Mar Negro oriental;;;;;;;x;;;;;;
+PROV2778;Lake Balaton;Lac Balaton;Balaton-See;;Lago Balat鏮;;;;;;;x;;;;;;
+PROV2779;Caspian Sea;Mer Caspienne;Kaspisches Meer;;Mar Caspio;;;;;;;x;;;;;;
+PROV2780;Aral Sea;Mer d'Aral;Aralsee;;Mar de Aral;;;;;;;x;;;;;;
+PROV2781;Gulf of Suez;Golfe de Suez;Golf von Suez;;Golfo de Suez;;;;;;;x;;;;;;
+PROV2782;Red Sea;Mer Rouge;Rotes Meer;;Mar Rojo;;;;;;;x;;;;;;
+PROV2783;Straits of Obokk;D彋roit d'Obock;Stra絽 von Obokk;;Estrecho de Obokk;;;;;;;x;;;;;;
+PROV2784;Bal el Mandeb;Bab-el-Mandeb;Bal el Mandeb;;Bal el Mandeb;;;;;;;x;;;;;;
+PROV2785;Coast of Mascate;C矌e de Mascate ;Kte von Mascate;;Costa de Mascate;;;;;;;x;;;;;;
+PROV2786;Mascate Coast;C矌e mascataise;Mascate-Kte;;Costa de Mascate;;;;;;;x;;;;;;
+PROV2787;Straits of Hormuz;D彋roit d'Ormuz;Stra絽 von Hormus;;Estrecho de Ormuz;;;;;;;x;;;;;;
+PROV2788;Persian Gulf;Golfe Persique;Persischer Golf;;Golfo P廨sico;;;;;;;x;;;;;;
+PROV2789;Gulf of Indus;Golfe de l'Indus;Golf von Indus;;Golfo del Indo;;;;;;;x;;;;;;
+PROV2790;Gulf of Gujarat;Golfe du Gujarat;Golf von Gujarat;;Golfo de Gujarat;;;;;;;x;;;;;;
+PROV2791;Laquedive Islands;姤es Laquedives;Laquedive-Inseln;;Islas Laquedivas;;;;;;;x;;;;;;
+PROV2792;Coast of Malabar;C矌e de Malabar;Kte von Malabar;;Costa de Malabar;;;;;;;x;;;;;;
+PROV2793;Comorin Cape;Cap Comorin;Kap Comorin;;Cabo Comorin;;;;;;;x;;;;;;
+PROV2794;Coast of Caramandel;C矌e de Caramandel;Kte von Caramandel;;Costa de Caramandel;;;;;;;x;;;;;;
+PROV2795;Coast of Orissa;C矌e d'Orissa;Kte von Orissa;;Costa de Orissa;;;;;;;x;;;;;;
+PROV2796;Ganges Delta;Delta du Gange;Gangesdelta;;Delta del Ganges;;;;;;;x;;;;;;
+PROV2797;Akyab Bay;Baie d'Akyab;Akyab-Bucht;;Bah燰 de Akyab;;;;;;;x;;;;;;
+PROV2798;Irrawady Delta;Delta d'Irrawaddy;Irrawadydelta;;Delta de Irrawady;;;;;;;x;;;;;;
+PROV2799;Andaman Sea;Mer d'Andaman;Andaman-See;;Mar de Andam嫕;;;;;;;x;;;;;;
+PROV2800;Mergui Archipelago;Archipel de Mergui ;Mergui-Archipel;;Archipi幨ago de Mergui;;;;;;;x;;;;;;
+PROV2801;Straits of Malacca;D彋roit de Malacca;Stra絽 von Malacca;;Estrecho de Malacca;;;;;;;x;;;;;;
+PROV2802;Nicobar Isles;姤es Nicobar;Nikobaren;;Islas Nicobar;;;;;;;x;;;;;;
+PROV2803;Coast of Atjeh;C矌e d'Atjeh;Kte von Atjeh;;Costa de Atjeh;;;;;;;x;;;;;;
+PROV2804;Coast of Sumatra;C矌e de Sumatra;Kte von Sumatra;;Costa de Sumatra;;;;;;;x;;;;;;
+PROV2805;Sunda Strait;D彋roit de Sunda ;Sundastra絽;;Estrecho de Sunda;;;;;;;x;;;;;;
+PROV2806;Coast of Java;C矌e de Java;Kte von Java;;Costa de Java;;;;;;;x;;;;;;
+PROV2807;Coast of Surabaya;C矌e de Surabaya;Kte von Surabaya;;Costa de Surabaya;;;;;;;x;;;;;;
+PROV2808;Straits of Lombok;D彋roit de Lombok;Stra絽 von Lombok;;Estrecho de Lombok;;;;;;;x;;;;;;
+PROV2809;Timor Sea;Mer de Timor;Timorsee;;Mar de Timor;;;;;;;x;;;;;;
+PROV2810;The Moluccas;Moluccas;Molukken;;Las Moluccas;;;;;;;x;;;;;;
+PROV2811;Java Sea;Mer de Java;Javasee;;Mar de Java;;;;;;;x;;;;;;
+PROV2812;Straits of Makassar;D彋roit de Makassar;Stra絽 von Makassar;;Estrecho de Makassar;;;;;;;x;;;;;;
+PROV2813;Karimata Strait;D彋roit de Karimata;Karimatastra絽;;Estrecho de Karimata;;;;;;;x;;;;;;
+PROV2814;Straits of Johore;D彋roit de Johore;Stra絽 von Johore;;Estrecho de Johore;;;;;;;x;;;;;;
+PROV2815;Malayan Sea;Mer de Malaisie;Malayasee;;Mar de Malasia;;;;;;;x;;;;;;
+PROV2816;Coast of Sarawak;C矌e de Sarawak;Kte von Sarawak;;Costa de Sarawak;;;;;;;x;;;;;;
+PROV2817;Mekong Delta;Delta du M幧ong;Mekongdelta;;Delta del Mekong;;;;;;;x;;;;;;
+PROV2818;Gulf of Siam;Golfe du Siam;Golf von Siam;;Golfo de Siam;;;;;;;x;;;;;;
+PROV2819;Cam Ranh Bay;Baie de Cam Ranh;Cam Ranh Bay;;Bah燰 de Cam Ranh;;;;;;;x;;;;;;
+PROV2820;South China Sea;Mer de Chine m廨idionale;Schinesisches Meer;;Mar de la China meridional;;;;;;;x;;;;;;
+PROV2821;Coast of Brunei;C矌e du Brunei;Kte von Brunei;;Costa de Brunei;;;;;;;x;;;;;;
+PROV2822;Coast of Annam;C矌e d'Annam;Kte von Annam;;Costa de Annam;;;;;;;x;;;;;;
+PROV2823;Gulf of Tonkin;Golfe du Tonkin;Golf von Tonkin;;Golfo de Tonk璯;;;;;;;x;;;;;;
+PROV2824;Guangzhou Bay;Baie de Canton;Guangzhou Bay;;Bah燰 de Guangzhou;;;;;;;x;;;;;;
+PROV2825;Taiwan Strait;D彋roit de Ta鵁an;Taiwanstra絽;;Estrecho de Taiwan;;;;;;;x;;;;;;
+PROV2826;Yang Tse Delta;Delta du Yangts?Yangtsedelta;;Delta del Yang Tse;;;;;;;x;;;;;;
+PROV2827;Yellow Sea;Mer Jaune;gelbes Meer;;Mar Amarillo;;;;;;;x;;;;;;
+PROV2828;Korea Bay;Baie de Cor嶪;Koreanische Bucht;;Bah燰 de Corea;;;;;;;x;;;;;;
+PROV2829;South Korean Sea;Mer de Cor嶪 m廨idionale;Skoreanisches Meer;;Mar de Corea del Sur;;;;;;;x;;;;;;
+PROV2830;North Korean Sea;Mer de Cor嶪 septentrionale;Nordkoreanisches Meer;;Mar de Corea del Norte;;;;;;;x;;;;;;
+PROV2831;Coast of Olga;C矌e d'Olga;Kte von Olga;;Costa de Olga;;;;;;;x;;;;;;
+PROV2832;Tatar Straits;D彋roit des Tatars;Tatarstra絽;;Estrecho de Tatar;;;;;;;x;;;;;;
+PROV2833;Amur Delta;Delta d'Amur;Amurdelta;;Delta del Amur;;;;;;;x;;;;;;
+PROV2834;Bay of Ayan;Baie de Ayan;Bucht von Ayan;;Bahia de Ayan;;;;;;;x;;;;;;
+PROV2835;Bay of Komenskoie;Baie de Komenskoie;Bucht von Komenskoie;;Bah燰 de Komenskoie;;;;;;;x;;;;;;
+PROV2836;Coast of Kamchatska;C矌e de Kamchatska;Kte von Kamtschatka;;Costa de Kamchatska;;;;;;;x;;;;;;
+PROV2837;Okhotsk Sea;Mer d'Okhotsk;Okhotsk-See;;Mar de Okhotsk;;;;;;;x;;;;;;
+PROV2838;Coast of Sakhalin;C矌e de Sakhalin;Kte von Sachalin;;Costa de Sajal璯;;;;;;;x;;;;;;
+PROV2839;Soya Strait;D彋roit du Soya;Soyastra絽;;Estrecho de Soya;;;;;;;x;;;;;;
+PROV2840;Tsugaru Strait;D彋roit de Tsugaru ;Tsugarustra絽;;Estrecho de Tsugaru ;;;;;;;x;;;;;;
+PROV2841;Sea of Japan;Mer du Japon;Japanisches Meer;;Mar del Jap鏮;;;;;;;x;;;;;;
+PROV2842;Amakusa Sea;Mer d'Amakusa ;Amakusa-See;;Mar de Amakusa;;;;;;;x;;;;;;
+PROV2843;Setto Inland Sea;Mer int廨ieure de Seto;Setto-Binnenmeer;;Mar de la Isla de Setto;;;;;;;x;;;;;;
+PROV2844;Tokai Sea;Mer du Tokai;Tokaisee;;Mar de Tokai;;;;;;;x;;;;;;
+PROV2845;Ryukyu Islands;姤es Ryukyu;Ryukyu-Inseln;;Islas Ryukyu;;;;;;;x;;;;;;
+PROV2846;Luzon Strait;D彋roit de Lu蔞n;Luzonstra絽;;Estrecho de Luz鏮;;;;;;;x;;;;;;
+PROV2847;Paracel Islands;姤es Paracel;Paracelinseln;;Islas Paracel;;;;;;;x;;;;;;
+PROV2848;Manila Bay;Baie de Manille;Bucht von Manila;;Bah燰 de Manila;;;;;;;x;;;;;;
+PROV2849;Coast of Luzon;C矌e de Lu蔞n;Kte von Luzon;;Costa de Luzon;;;;;;;x;;;;;;
+PROV2850;Gulf of Leyte;Golfe de Leyte;Golf von Leyte;;Golfo de Leyte;;;;;;;x;;;;;;
+PROV2851;Sulu Sea;Mer de Sulu;Sulusee;;Mar de Sul?;;;;;;x;;;;;;
+PROV2852;Sea of Celebes;Mer de C幨鋐es;See von Celebes;;Mar de Celebes;;;;;;;x;;;;;;
+PROV2853;Sea of Ternate;Mer de Ternate;See von Ternate;;Mar de Ternate;;;;;;;x;;;;;;
+PROV2854;Sea of Banda;Mer de Banda;See von Banda;;Mar de Banda;;;;;;;x;;;;;;
+PROV2855;Philippine Sea;Mer des Philippines;Philippinische See;;Mar de Filipinas;;;;;;;x;;;;;;
+PROV2856;Palau Islands;姤es Palau;Palau;;Islas Palau;;;;;;;x;;;;;;
+PROV2857;Biak Bay;Baie de Biak;Bucht von Biak;;Bah燰 de Biak;;;;;;;x;;;;;;
+PROV2858;Vilian Strait;D彋roit de Vilian;Vilianstra絽;;Estrecho de Vilian ;;;;;;;x;;;;;;
+PROV2859;Trobrian Islands;姤es Trobriand;Trobrian-Inseln;;Islas Trobrian;;;;;;;x;;;;;;
+PROV2860;Torres Strait;D彋roit de Torres;Torresstra絽;;Estrecho de Torres;;;;;;;x;;;;;;
+PROV2861;Arafuam Sea;Mer d'Arafuam;Arafuam-See;;Mar de Arafuam ;;;;;;;x;;;;;;
+PROV2862;Kolepom Bay;Baie de Kolepom;Bucht von Kolepom;;Bah燰 de Kolepom ;;;;;;;x;;;;;;
+PROV2863;Gulf of Carpentaria;Golfe de Carpentarie ;Gof von Carpentaria;;Golfo de Carpentaria;;;;;;;x;;;;;;
+PROV2864;Great Barrier Reef;Grande barri鋨e de corail;Gro絽s Barrier-Riff;;Gran Barrera de Arrecifes;;;;;;;x;;;;;;
+PROV2865;Capricorn Bay;Baie du Capricorne;Capricorn-Bucht;;Bah燰 de Capricorn ;;;;;;;x;;;;;;
+PROV2866;Cape Howe;Cap Howe;Cape Howe;;Cabo Howe;;;;;;;x;;;;;;
+PROV2867;Bass Strait;D彋roit de Bass;Bass-Stra絽;;Estrecho de Bass;;;;;;;x;;;;;;
+PROV2868;Kangaroo Island;姤e Kangourou;Kangaroo Island;;Isla de los Canguros;;;;;;;x;;;;;;
+PROV2869;Great Australian Bight;Grande baie australienne;Gro絽 Australische Bucht;;Gran Bah燰 Australiana;;;;;;;x;;;;;;
+PROV2870;Cape Leeuwin;Cap Leeuwin;Cape Leeuwin;;Cabo Leeuwin;;;;;;;x;;;;;;
+PROV2871;Shark Bay;Baie Shark;Shark Bay;;Bah燰 del Tibur鏮;;;;;;;x;;;;;;
+PROV2872;Northwest Cape;Cap Nord-Ouest;Northwest Cape;;Cabo Noroeste;;;;;;;x;;;;;;
+PROV2873;King Sound;King Sound;King Sound;;King Sound;;;;;;;x;;;;;;
+PROV2874;Tasman Plateau;Plateau de Tasmanie;Tasmanische Plateau;;Plataforma de Tasman;;;;;;;x;;;;;;
+PROV2875;Toogee Ridge;La cr皻e de Toogee;Toogee Grat;;Cresta de Toogee;;;;;;;x;;;;;;
+PROV2876;Cook Strait;D彋roit de Cook;Cookstra絽;;Estrecho de Cook;;;;;;;x;;;;;;
+PROV2877;Northern Tasman Sea;Mer de Tasmanie septentrionale;N顤dliche Tasmanische See;;Mar de Tasmania Septentrional;;;;;;;x;;;;;;
+PROV2878;Cape Farewell;Cap Farvel;Cape Farewell;;Cabo Farewell;;;;;;;x;;;;;;
+PROV2879;Coast of New Zealand;C矌e de la Nouvelle-Z幨ande;Kte von Neuseeland;;Costa de Nueva Zelanda;;;;;;;x;;;;;;
+PROV2880;Southern Tasman Sea;Sud de la mer Tasman;Sliche Tasmanische See;;Sur del mar de Tasmania;;;;;;;x;;;;;;
+PROV2881;Canterbury Bight;Canterbury Bight;Canterbury-Bucht;;Canterbury Bight;;;;;;;x;;;;;;
+PROV2882;New Caledonian Sea;Mer de Nouvelle-Cal嶮onie;Neukaledonische See;;Mar de Nueva Caledonia;;;;;;;x;;;;;;
+PROV2883;Coral Sea;Mer de Corail;Korallensee;;Mar del Coral;;;;;;;x;;;;;;
+PROV2884;Gilbert Sea;Mer de Gilbert;Gilbertsee;;Mar de Gilbert;;;;;;;x;;;;;;
+PROV2885;Solomon Sea;Mer des Salomon;Solomon-See;;Mar de las Salom鏮;;;;;;;x;;;;;;
+PROV2886;Nauru Island;姤e de Nauru;Nauru;;Isla de Nauru ;;;;;;;x;;;;;;
+PROV2887;Melanesia Sea;Mer de M幨an廥ie;Melanesische See;;Mar de Melanesia ;;;;;;;x;;;;;;
+PROV2888;Micronesia Sea;Mer de Micron廥ie;Mikronesische See;;Mar de Micronesia ;;;;;;;x;;;;;;
+PROV2889;Philippine Trench;Faille Philippine;Philippinengraben;;Fosa de las Filipinas;;;;;;;x;;;;;;
+PROV2890;Philippine Basin;Bassin Philipin;Philippinenbecken;;Cuenca de las Filipinas;;;;;;;x;;;;;;
+PROV2891;Tinian Sea;Mer de Tinian;Tinian-See;;Mar de Tinian;;;;;;;x;;;;;;
+PROV2892;Iwo Jima Sea;Mer d'Iwo Jima;Iwo Jima-See;;Mar de Iwo Jima ;;;;;;;x;;;;;;
+PROV2893;Taihei Ocean;Oc嶧n de Taihei;Taihei-Ozean;;Oc嶧no de Taihei;;;;;;;x;;;;;;
+PROV2894;The Kuriles;姤es Kouriles;Kurilen;;Las Kuriles;;;;;;;x;;;;;;
+PROV2895;Bay of Uka;Baie d'Uka;Bucht von Uka;;Bah燰 de Uka;;;;;;;x;;;;;;
+PROV2896;Bay of Oljut;Baie d'Oljut;Bucht von Oljut;;Bah燰 de Oljut;;;;;;;x;;;;;;
+PROV2897;Bay of Anadyr;Baie d'Anadyr;Bucht von Anadyr;;Bah燰 de Anadyr;;;;;;;x;;;;;;
+PROV2898;Yekaterina Plains;Plaines d'Ekaterina;Jekaterina-Ebene;;Litoral de Yekaterina;;;;;;;x;;;;;;
+PROV2899;Horn of Africa;Corne de l'Afrique;Horn von Afrika;;Cuerno de 繈rica;;;;;;;x;;;;;;
+PROV2900;Coast of Pepper;C矌e de Pepper;Pfefferkte;;Costa de la Pimienta;;;;;;;x;;;;;;
+PROV2901;Zanzibar Strait;Canal de Zanzibar;Sansibarstra絽;;Estrecho de Zanz燢ar;;;;;;;x;;;;;;
+PROV2902;Mozambique Channel;Canal du Mozambique;Mosambik-Kanal;;Canal de Mozambique;;;;;;;x;;;;;;
+PROV2903;Diego Suarez Bay;Baie de Diego-Suarez;Diego Suarez-Bucht;;Bah燰 de Diego Su嫫ez ;;;;;;;x;;;;;;
+PROV2904;Western Arabian Sea;Mer d'Arabie occidentale;Westarabische See;;Mar Ar墎igo occidental;;;;;;;x;;;;;;
+PROV2905;Eastern Arabian Sea;Mer d'Arabie orientale;Ostarabische See;;Mar Ar墎igo oriental;;;;;;;x;;;;;;
+PROV2906;The Seychelles;Seychelles;Seychellen;;Las Seychelles;;;;;;;x;;;;;;
+PROV2907;Coast of Tamatave;C矌e de Tamatave;Kte von Tamatave;;Costa de Tamatave;;;;;;;x;;;;;;
+PROV2908;The Mascareignes;Mascareignes;Mascareignen;;Las Mascareignes;;;;;;;x;;;;;;
+PROV2909;Gulf of Zambeze;Golfe du Zamb鋠e;Golf von Zambeze;;Golfo de Zambeze;;;;;;;x;;;;;;
+PROV2910;Coast of Natal;C矌e de Natal;Kte von Natal;;Costa de Natal;;;;;;;x;;;;;;
+PROV2911;Coast of Transkei;C矌e de Transkei;Kte von Transkei;;Costa de Transkei;;;;;;;x;;;;;;
+PROV2912;Coast of Ciskei;C矌e de Ciskei;Kte von Ciskei;;Costa de Ciskei;;;;;;;x;;;;;;
+PROV2913;Cape of Good Hope;Cap de Bonne-Esp廨ance;Kap der Guten Hoffnung;;Cabo de Buena Esperanza;;;;;;;x;;;;;;
+PROV2914;Coast of Namibia;C矌e de Namibie;Kte von Namibia;;Costa de Namibia;;;;;;;x;;;;;;
+PROV2915;Coast of Angola;C矌e d'Angola;Kte von Angola;;Costa de Angola;;;;;;;x;;;;;;
+PROV2916;Gulf of Kongo;Golfe du Congo;Kongo-Golf;;Golfo del Congo;;;;;;;x;;;;;;
+PROV2917;Coast of Cameroon;C矌e du Cameroun;Kte von Kamerun;;Costa de Camer;;;;;;;x;;;;;;
+REMOVE_PROV2918;Gulf of Nigeria;Golf du Nigeria;Golf von Nigeria;;Golfo de Nigeria;;;;;;;x;;;;;;
+PROV2919;Gold Coast;C矌e d'Or;Goldkte;;Costa de Oro;;;;;;;x;;;;;;
+PROV2920;Ivory Coast;C矌e-d'Ivoire;Elfenbeinkte;;Costa de Marfil;;;;;;;x;;;;;;
+REMOVE_PROV2921;Coast of Gambia;C矌e de Gambie;Kte von Gambia;;Costa de Gambia;;;;;;;x;;;;;;
+REMOVE_PROV2922;Coast of Guinea;C矌e de Guin嶪;Kte von Guinea;;Costa de Guinea;;;;;;;x;;;;;;
+PROV2923;Mauritanian Coast;C矌e mauritanienne;Kte von Mauritanien;;Costa de Mauritania;;;;;;;x;;;;;;
+PROV2924;Canarian Sea;C矌e canarienne;Kanarische See;;Mar de las Canarias;;;;;;;x;;;;;;
+PROV2925;Coast of Morocco;C矌e du Maroc;Kte von Marokko;;Costa de Marruecos;;;;;;;x;;;;;;
+PROV2926;Jan Mayen Sea;Mer ce Jan Mayen;Jan-Mayen-See;;Mar de Jan Mayen ;;;;;;;x;;;;;;
+PROV2927;Spitzberg Sea;Mer de Spitzberg;See von Spitzbergen;;Mar de Spitzberg ;;;;;;;x;;;;;;
+PROV2928;Icelandic Sea;Mer d'Islande;Islandmeer;;Mar de Islandia;;;;;;;x;;;;;;
+PROV2929;Shetland Straits;D彋roit des Shetland;Shetlandstra絽;;Estrecho de Shetland;;;;;;;x;;;;;;
+PROV2930;Coast of Iceland;C矌e d'Islande;Kte von Island;;Costa de Islandia;;;;;;;x;;;;;;
+PROV2931;Northeastern Atlantic;Altantique Nord-Est;Nrdostatlantik;;Atl嫕tico Nororiental;;;;;;;x;;;;;;
+PROV2932;Rockall;Rockall;Rockall;;Rockall;;;;;;;x;;;;;;
+PROV2933;Denmark Strait;D彋roit du Danemark;Stra絽 von D鄚emark;;Estrecho de Dinamarca;;;;;;;x;;;;;;
+PROV2934;Eastern Coast of Greenland;C矌e orientale du Grland;Ostkte Gr霵lands;;Costa de Groenlandia Oriental;;;;;;;x;;;;;;
+PROV2935;Western Coast of Greenland;C矌e occidentale du Grland;Westkte Gr霵lands;;Costa de Groenlandia Occidental;;;;;;;x;;;;;;
+PROV2936;Labrador Strait;D彋roit du Labrador;Labradorstra絽;;Estrecho de Labrador;;;;;;;x;;;;;;
+PROV2937;Baffin Bay;Baie de Baffin;Baffin Bay;;Bah燰 de Baffin;;;;;;;x;;;;;;
+PROV2938;Hudson Straits;D彋roit d'Hudson;Hudsonstra絽;;Estrecho de Hudson;;;;;;;x;;;;;;
+PROV2939;James Bay;Baie de James;James Bay;;Bah燰 de James ;;;;;;;x;;;;;;
+PROV2940;Western Hudson Bay;Baie d'Hudson occidentale;West-Hudson Bay;;Bah燰 de Hudson Occidental;;;;;;;x;;;;;;
+PROV2941;Eastern Hudson Bay;Baie d'Hudson orientale;Ost-Hudson Bay;;Bah燰 de Hudson Oriental;;;;;;;x;;;;;;
+PROV2942;Foxe Basin;Bassin de Foxe;Foxe Basin;;Foxe Basin;;;;;;;x;;;;;;
+PROV2943;Gulf of St. Lawrence;Golfe du Saint-Laurent;Golf von St. Lawrence;;Golfo de San Lawrence;;;;;;;x;;;;;;
+PROV2944;Cabot Strait;D彋roit de Cabot;Cabot-Stra絽;;Estrecho de Caboto;;;;;;;x;;;;;;
+PROV2945;Bay of Fundy;Baie de Fundy;Fundy-Bucht;;Bah燰 de Fundy;;;;;;;x;;;;;;
+PROV2946;Strait of Belle Isle;D彋roit de Belle Isle;Stra絽 von Belle Isle;;Estrecho de Belle Isle;;;;;;;x;;;;;;
+PROV2947;Fortune Bay;Baie de Fortune;Fortune Bay;;Bah燰 de Fortune;;;;;;;x;;;;;;
+PROV2948;Notre Dame Bay;Baie de Notre Dame;Notre Dame Bay;;Bah燰 de Notre Dame;;;;;;;x;;;;;;
+PROV2949;Labrador Sea;Mer du Labrador;Labradorsee;;Mar del Labrador;;;;;;;x;;;;;;
+PROV2950;Greenland Sea;Mer du Grland;Gr霵landsee;;Mar de Groenlandia;;;;;;;x;;;;;;
+PROV2951;Hecala Seamount;Mont sous-marin de Hecala;Hecala Seamount;;Plataformas de Hecala;;;;;;;x;;;;;;
+PROV2952;Massachusetts Bay;Baie du Massachusetts;Massachusetts Bay;;Bah燰 de Massachusetts ;;;;;;;x;;;;;;
+PROV2953;Chesapeake Bay;Baie de Chesapeake;Chesapeake Bay;;Bah燰 de Chesapeake ;;;;;;;x;;;;;;
+PROV2954;Cape Hatteras;Cap Hatteras;Kap Hatteras;;Cabo Hatteras;;;;;;;x;;;;;;
+PROV2955;Coast of Carolina;C矌e de Caroline;Kte von Carolina;;Costa de Carolina;;;;;;;x;;;;;;
+PROV2956;Coast of Florida;C矌e de Floride;Kte von Florida;;Costa de Florida;;;;;;;x;;;;;;
+PROV2957;Coast of the Bahamas;C矌e des Bahamas;Kte der Bahamas;;Costa de las Bahamas;;;;;;;x;;;;;;
+PROV2958;Florida Straits;D彋roit de Floride;Floridastra絽;;Estrecho de Florida;;;;;;;x;;;;;;
+PROV2959;Apalachee Bay;Baie d'Apalachee;Apalachee Bay;;Bah燰 de los Apalaches ;;;;;;;x;;;;;;
+PROV2960;Mobile Bay;Baie de Mobile;Mobile Bay;;Bah燰 de Mobile ;;;;;;;x;;;;;;
+PROV2961;Galveston Bay;Baie de Galveston ;Galveston Bay;;Bah燰 de Galveston ;;;;;;;x;;;;;;
+PROV2962;Tampico Bay;Baie de Tampico;Tampico Bay;;Bah燰 de Tampico ;;;;;;;x;;;;;;
+PROV2963;Yucatan Sea;Mer du Yucatan;Yucatansee;;Mar de Yucat嫕 ;;;;;;;x;;;;;;
+PROV2964;Gulf of Mexico;Golfe du Mexique;Golf von Mexico;;Golfo de M憖ico;;;;;;;x;;;;;;
+PROV2965;Yucatan Channel;Canal du Yucatan;Yucatankanal;;Canal de Yucat嫕;;;;;;;x;;;;;;
+PROV2966;Belize Bay;Baie de Belize;Belize Bay;;Bah燰 de Belice ;;;;;;;x;;;;;;
+PROV2967;Mosquito Coast;C矌e des Mosquitos;Mosquito Coast;;Mosta de los Mosquitos;;;;;;;x;;;;;;
+PROV2968;Gulf of Darien;Golfe de Darien;Golf von Darien;;Golfo de Dari幯;;;;;;;x;;;;;;
+PROV2969;Jamaica Channel;Canal de Jama鮤ue;Jamaikakanal;;Canal de Jamica;;;;;;;x;;;;;;
+PROV2970;Central Caribbean;Cara駼es centrales;Zentrale Karibik;;Caribe Central;;;;;;;x;;;;;;
+PROV2971;Northwestern Caribbean;Cara駼es nord-ouest;Nordwest-Karibik;;Caribe Noroccidental;;;;;;;x;;;;;;
+PROV2972;Venezuelan Gulf;Golfe du Venezuela;Golf von Venezuela;;Golfo de Venezuela;;;;;;;x;;;;;;
+PROV2973;Venezuelan Sea;Mer du Venezuela;Venezuela-See;;Mar de Venezuela;;;;;;;x;;;;;;
+PROV2974;Eastern Caribbean;Cara駼es orientales;Ost-Karibik;;Caribe Oriental;;;;;;;x;;;;;;
+PROV2975;Windward Islands;姤es Windward;Windward Islands;;Islas de Barlovento;;;;;;;x;;;;;;
+PROV2976;Lesser Antilles;Petites Antilles;Kleine Antillen;;Antillas Menores;;;;;;;x;;;;;;
+PROV2977;Turks & Caicos Sea;Mer Turks-et-Caicos;Turks & Caicos-See;;Mar de Turcos y Caicos ;;;;;;;x;;;;;;
+PROV2978;Coast of Cuba;C矌e de Cuba;Kte von Cuba;;Costa de Cuba;;;;;;;x;;;;;;
+PROV2979;Coast of Hispaniola;C矌e d'Hispaniola;Kte von Hispaniola;;Costa de la Espa隳la;;;;;;;x;;;;;;
+PROV2980;Guyana Coast;C矌e de Guyane;Kte von Guyana;;Costa de Guyana;;;;;;;x;;;;;;
+PROV2981;Coast of Amap?C矌e d'Amapa;Kte von Amapa;;Costa de Amapa;;;;;;;x;;;;;;
+PROV2982;Amazonas Gulf;Golfe d'Amazonas;Amazonas-Golf;;Golfo del Amazonas;;;;;;;x;;;;;;
+PROV2983;Coast of Brazil;C矌e du Br廥il;Kte von Brazil;;Costa de Brasil;;;;;;;x;;;;;;
+PROV2984;Coast of Recife;C矌e de Recife;Kte von Recife;;Costa de Recife;;;;;;;x;;;;;;
+PROV2985;Coast of Pernambuco;C矌e de Pernambuc;Kte von Pernambuco;;Costa de Pernambuco;;;;;;;x;;;;;;
+PROV2986;Todos os Santos Bay;Baie de Todos Santos;Todos Santos-Bucht;;Bah燰 de Todos los Santos ;;;;;;;x;;;;;;
+PROV2987;Rio De Janeiro;Rio de Janeiro;Rio de Janeiro;;R甐 de Janeiro;;;;;;;x;;;;;;
+PROV2988;Baia Paranagu?Baia Parangua;Baia Parangua;;Baia Parangua;;;;;;;x;;;;;;
+PROV2989;Rio De La Plata;Rio de la Plata;Rio De La Plata;;R甐 de la Plata;;;;;;;x;;;;;;
+PROV2990;Bahia Blanca;Bahia Blanca;Bahia Blanca;;Bah燰 Blanca;;;;;;;x;;;;;;
+PROV2991;Coast of Patagonia;C矌e de Patagonie;Kte von Patagonia;;Costa de la Patagonia;;;;;;;x;;;;;;
+PROV2992;Magellan Strait;D彋roit de Magellan;Magellanstra絽;;Estrecho de Magallanes;;;;;;;x;;;;;;
+PROV2993;South Chilean Coast;C矌e chilienne m廨idionale;Schilenische Kte;;Costa meridional de Chile;;;;;;;x;;;;;;
+PROV2994;Coast of Chile;C矌e du Chili;Kte von Chile;;Costa de Chile;;;;;;;x;;;;;;
+PROV2995;Atacama Coast;C矌e d'Atacama;Atacama-Kte;;Costa de Atacama;;;;;;;x;;;;;;
+PROV2996;Antofagasta Coast;C矌e d'Antofagasta ;Antofagasta-Kte;;Costa de Antofagasta;;;;;;;x;;;;;;
+PROV2997;Arequipa Bay;Baie d'Arequipa;Arequipa Bay;;Bah燰 de Arequipa;;;;;;;x;;;;;;
+PROV2998;Coast of Peru;C矌e du P廨ou;Kte von Peru;;Costa de Per?;;;;;;x;;;;;;
+PROV2999;Guayaquil Bay;Baie de Guayaquil;Guayaquil-Bucht;;Bah燰 de Guayaquil ;;;;;;;x;;;;;;
+PROV3000;Coast of Ecuador;C矌e d'夯uateur;Kte von Ecuador;;Costa de Ecuador;;;;;;;x;;;;;;
+PROV3001;Gulf of Panama;Golfe de Panama;Golf von Panama;;Golfo de Panam?;;;;;;x;;;;;;
+PROV3002;Bay of Costa Rica;Baie de Costa Rica;Costa Rica-Bucht;;Bah燰 de Costa Rica;;;;;;;x;;;;;;
+PROV3003;Acapulco Bay;Baie d'Acapulco;Acapulco-Bucht;;Bah燰 de Acapulco;;;;;;;x;;;;;;
+PROV3004;Manzanilla Bay;Baie de Manzanilla;Manzanilla-Bucht;;Bah燰 de Manzanilla;;;;;;;x;;;;;;
+PROV3005;Mazatlan Bay;Baie de Mazatlan;Mazatlan-Bucht;;Bah燰 de Mazatl嫕 ;;;;;;;x;;;;;;
+PROV3006;Gulf of California;Golfe de Californie;Golf von Kalifornien;;Golfo de California;;;;;;;x;;;;;;
+PROV3007;Coast of Baja;C矌e de Baja;Kte von Baja;;Costa de Baja;;;;;;;x;;;;;;
+PROV3008;Coast of California;C矌e de Californie;Kte von Kalifornien;;Costa de California;;;;;;;x;;;;;;
+PROV3009;Santa Catalina Islands;姤e de Santa Catalina;Santa Catalina-Inseln;;Islas de Santa Catalina;;;;;;;x;;;;;;
+PROV3010;Coast of Oregon;C矌e d'Oregon;Kte von Oregon;;Costa de Oreg鏮;;;;;;;x;;;;;;
+PROV3011;Coast of Columbia;C矌e de Columbia;Kte von Kolumbien;;Costa de Columbia;;;;;;;x;;;;;;
+PROV3012;Hecate Strait;D彋roit d'Hecate;Hecatestra絽;;Estrecho de Hecate ;;;;;;;x;;;;;;
+PROV3013;Gulf of Alaska;Golfe d'Alaska;Golf von Alaska;;Golfo de Alaska;;;;;;;x;;;;;;
+PROV3014;Coast of Alaska;C矌e d'Alaska;Kte von Alaska;;Costa de Alaska;;;;;;;x;;;;;;
+PROV3015;Kuskowim Bay;Baie de Kuskokwim;Kuskowim-Bucht;;Bah燰 de Kuskowim ;;;;;;;x;;;;;;
+PROV3016;Hatton Bank;Banc Hatton;Hatton Bank;;Hatton Bank;;;;;;;x;;;;;;
+PROV3017;Eastern Gibbs Fracture;Fracture Gibbs orientale;Eastern Gibbs Fracture;;Fractura de Gibbs oriental;;;;;;;x;;;;;;
+PROV3018;Western Gibbs Fracture;Fracture Gibbs occidentale;Western Gibbs Fracture;;Fractura de Gibbs occidental;;;;;;;x;;;;;;
+PROV3019;Iberian Shelf;Talus ib廨ique;Iberischer Festlandsockel;;Plataforma Ib廨ica;;;;;;;x;;;;;;
+PROV3020;Sea of Azores;Mer des A蔞res;Azorensee;;Mar de Azores;;;;;;;x;;;;;;
+PROV3021;Corner Seamounts;Monts sous-marins de Corner;Corner Seamounts;;Plataforma de Corner;;;;;;;x;;;;;;
+PROV3022;New England Seamounts;Monts sous-marins de Nlle-Angleterre;New England Seamounts;;Plataforma de Nueva Inglaterra;;;;;;;x;;;;;;
+PROV3023;Sable Island Bank;Banc de l'螿e de Sable;Sable Island Bank;;Ribera de la Isla de Sable;;;;;;;x;;;;;;
+PROV3024;Blake Plateau;Plateau de Blake;Blake Plateau;;Plataforma de Blake;;;;;;;x;;;;;;
+PROV3025;West Bermuda Sea;Mer des Bermudes occidentale;West-Bermudasee;;Mar de Bermuda Occidental;;;;;;;x;;;;;;
+PROV3026;East Bermuda Sea;Mer des Bermudes orientale;Ost-Bermudasee;;Mar de Bermuda Oriental;;;;;;;x;;;;;;
+PROV3027;Canary Current;Courant des Canaries;Kanarenstrom;;Corriente de las Canarias;;;;;;;x;;;;;;
+PROV3028;Northern Guiana Basin;Bassin de Guyane septentrional;Nordguiana-Becken;;Cuenca septentrional de las Guayanas;;;;;;;x;;;;;;
+PROV3029;Guiana Basin;Bassin de Guyane;Guianabecken;;Cuenca de las Guyanas;;;;;;;x;;;;;;
+PROV3030;Southern Guiana Basin;Bassin de Guyane m廨idional;Sguianabecken;;Cuenca meridional de las Guayanas;;;;;;;x;;;;;;
+PROV3031;Canary Approach;Approche des Canaries;Canary Approach;;Costas de las Canarias;;;;;;;x;;;;;;
+PROV3032;Cape Verde Approach;Approche du Cap-Vert;Cap Verde Approach;;Costas de Cabo Verde;;;;;;;x;;;;;;
+PROV3033;Cruiser Tablemount;Guyot du Cruiser;Cruiser Tablemount;;Meseta marina Cruiser;;;;;;;x;;;;;;
+PROV3034;Barracuda Fracture Zone;Zone de fracture de Barracuda;Barracuda-Frakturzone;;Zona de fractura de Barracuda;;;;;;;x;;;;;;
+PROV3035;Eastern Sargasso Sea;Mer des Sargasses orientale;Ost-Sargassosee;;Mar de los Sargazos Oriental;;;;;;;x;;;;;;
+PROV3036;Central Sargasso Sea;Mer des Sargasses centrale ;Zentral-Sargassosee;;Mar de los Sargazos Central;;;;;;;x;;;;;;
+PROV3037;Romanche Gap;Faille de Romanche;Romanche-Graben;;Paso de Romanche;;;;;;;x;;;;;;
+PROV3038;East Guinea Basin;Bassin de Guin嶪 orientale;Ostguinea-Becken;;Cuenca de Guinea Oriental;;;;;;;x;;;;;;
+PROV3039;West Guinea Basin;Bassin de Guin嶪 occidentale;Westguinea-Becken;;Cuenca de Guinea Occidental;;;;;;;x;;;;;;
+PROV3040;Argentine Sea;Mer d'Argentine;Argentinische See;;Mar Argentino;;;;;;;x;;;;;;
+REMOVE_PROV3041;New Georgia Islands;姤es de New Georgia;New Georgia-Inseln;;Islas de Nueva Georgia;;;;;;;x;;;;;;
+PROV3041;Argentine Rise;x
+PROV3042;Cornet Bank;Banc de Cornet;Cornet Bank;;Ribera de Cornet;;;;;;;x;;;;;;
+PROV3043;Vema Channel;Canal de Vema ;Vemakanal;;Canal de Vema;;;;;;;x;;;;;;
+PROV3044;South Brazil Basin;Bassin du Br廥il m廨idional;Sbrasilianisches Becken;;Cuenca meridional de Brasil;;;;;;;x;;;;;;
+PROV3045;Zapiola Plain;Plaine de Zapiola;Zapiola-Ebene;;Plataforma de Zapiola;;;;;;;x;;;;;;
+PROV3046;Argentine Basin;Bassin d'Argentine;Argentinien-Ebene;;Cuenca de Argentina;;;;;;;x;;;;;;
+PROV3047;Falkland Plateau;Plateau des Malouines;Falkland-Plateau;;Banco de las Malvinas;;;;;;;x;;;;;;
+PROV3048;Coast of Falklands;C矌e des Malouines;Falklandkte;;Costa de las Malvinas;;;;;;;x;;;;;;
+PROV3049;Fernando de Noronha Islands;Archipel de Fernando de Noronha;Fernando de Noronha-Inseln;;Islas de Fernando de Noronha;;;;;;;x;;;;;;
+PROV3050;North Brazil Basin;Bassin du Br廥il septentrional;Nordbrasilianisches Becken;;Cuenca septentrional de Brasil;;;;;;;x;;;;;;
+PROV3051;Sierra Leone Basin;Bassin de la Sierra Leone;Sierra Leone-Becken;;Cuenca de Sierra Leona;;;;;;;x;;;;;;
+PROV3052;Martin Vaz Ridge;Dorsale de Martin Vaz;Martin Vaz-Rken;;Dorsal de Mart璯 Vaz;;;;;;;x;;;;;;
+PROV3053;West Coast of Ascension;C矌e occidentale d'Ascension;Westkte von Ascension;;Costa occidental de Ascensi鏮;;;;;;;x;;;;;;
+PROV3054;East Coast of Ascension;C矌e orientale d'Ascension;Ostkte von Ascension;;Costa oriental de Ascensi鏮;;;;;;;x;;;;;;
+PROV3055;Walvis Ridge;Dorsal de Walvis;Walfischrken;;Dorsal de Walvis;;;;;;;x;;;;;;
+PROV3056;Cape Plain;Plaine du Cap;Kapebene;;Plataforma del Cabo;;;;;;;x;;;;;;
+PROV3057;Gough Island;姤e de Gough;Gough;;Isla de Gough ;;;;;;;x;;;;;;
+PROV3058;Coast of Tristan da Cunha;C矌e de Tristan da Cunha;Kte von Tristan da Cunha;;Costa de Tristan da Cunha;;;;;;;x;;;;;;
+PROV3059;San Marin Gap;Faille de San Marin;San Marin-Graben;;Paso de San Marin;;;;;;;x;;;;;;
+PROV3060;South Sandwich Islands;姤es Sandwich du sud;S-Sandwichinseln;;ISlas de Sandwich del Sur;;;;;;;x;;;;;;
+PROV3061;Inaccessible Island;姤e Inaccessible;Unzug鄚gliche Insel;;Isla Inaccesable;;;;;;;x;;;;;;
+PROV3062;Bouvet Island;姤e Bouvet;Bouvet-Insel;;Isla de Bouvet;;;;;;;x;;;;;;
+PROV3063;Cape of Storms;Cap des temp皻es;Kap der Stme;;Cabo de las Tormentas;;;;;;;x;;;;;;
+PROV3064;Gulf of Bengal;Golfe du Bengal;Golf von Bengalen;;Golfo de Bengala;;;;;;;x;;;;;;
+PROV3065;Northern Bay of Bengal;Baie septentrionale du Bengal;Nordbucht von Bengalen;;Bah燰 de Bengala Septentrional;;;;;;;x;;;;;;
+PROV3066;Southern Bay of Bengal;Baie m廨idionale du Bengal;Sbucht von Bengalen;;Golfo de Bengala meridional;;;;;;;x;;;;;;
+PROV3067;Ceylon Sea;Mer de Ceylan;Ceylonsee;;Mar de Ceil嫕;;;;;;;x;;;;;;
+PROV3068;Coast of Maldives;C矌e des Maldives;Kte von Maldives;;Costa de las Maldivas;;;;;;;x;;;;;;
+PROV3069;Eight Degree Channel;Canal de Eight Degree;Acht-Grad-Kanal;;Canal de Eight Degree;;;;;;;x;;;;;;
+PROV3070;Madingley Rise;Plateau de Madingley;Madingley-H鐬e;;Falla de Madingley;;;;;;;x;;;;;;
+PROV3071;Arabian Basin;Bassin arabe;Arabisches Becken;;Cuenca Ar墎iga;;;;;;;x;;;;;;
+PROV3072;One and a Half Degree Channel;Courant de Souadou;Anderthalb-Grad-Kanal;;Canal de One and a Half Degree;;;;;;;x;;;;;;
+PROV3073;Chagos Archipelago;Archipel des Chagos;Chagos-Archipel;;Archipi幨ago de Chagos;;;;;;;x;;;;;;
+PROV3074;Cocos Basin;Bassin des Cocos;Kokosbecken;;Cuenca de Cocos;;;;;;;x;;;;;;
+PROV3075;Southern Sumatra Trench;Fosse m廨idionale de Sumatra;S-Sumatragraben;;Fosa de Sumatra Meridional;;;;;;;x;;;;;;
+PROV3076;Coast of the Keelings;C矌es des Keelings;Kte der Keelings;;Costa de las Keelings;;;;;;;x;;;;;;
+PROV3077;Java Trench;Fosse de Java;Javagraben;;Fosa de Java;;;;;;;x;;;;;;
+PROV3078;Prince Edward Islands;姤es du Prince 丼ouard;Prinz-Edward-Inseln;;Islas del Pr璯cipe Eduardo;;;;;;;x;;;;;;
+PROV3079;Del Cano Rise;Plateau de Del Cano;Del Cano-H鐬e;;Elevaci鏮 del Cano;;;;;;;x;;;;;;
+PROV3080;Cape Sainte Marie;Cap Sainte Marie;Kap Sainte Marie;;Cabo de Santa Mar燰;;;;;;;x;;;;;;
+PROV3081;Crozet Island;Archipel Crozet;Crozet-Insel;;Isla de Crozet ;;;;;;;x;;;;;;
+PROV3082;Mascarene Plain;Plaine de Mascarene;Mascarene-Ebene;;Mascarenas;;;;;;;x;;;;;;
+PROV3083;Rodrigues Island;姤e Rodrigues;Rodrigues-Insel;;Isla de Rodrigues;;;;;;;x;;;;;;
+PROV3084;Southwest Indian Basin;Bassin indien sud-ouest;Swestindisches Becken;;Cuenca sudoccidental de la India;;;;;;;x;;;;;;
+PROV3085;Kerguelen Islands;Iles Kerguelen;Kerguelen;;Islas de Kerguelen ;;;;;;;x;;;;;;
+PROV3086;St Paul Island;姤e de St Paul;St Paul;;Isla de San Pablo;;;;;;;x;;;;;;
+PROV3087;Broken Ridge;Dorsale de Broken;Broken Ridge;;Dorsal de Broken ;;;;;;;x;;;;;;
+PROV3088;South Australian Basin;Bassin australien du sud;Saustralisches Becken;;Cuenca Australiana Meridional;;;;;;;x;;;;;;
+PROV3089;Egeria Fracture Zone;Zone de fracture d'Egeria;Egeria-Frakturzone;;Zona de Fractura de Egeria;;;;;;;x;;;;;;
+PROV3090;Argo Zone;Zone d'Argo;Argo-Zone;;Zona de Argo;;;;;;;x;;;;;;
+PROV3091;Cuvier Basin;Bassin de Cuvier;Cuvierbecken;;Cuenca de Cuvier;;;;;;;x;;;;;;
+PROV3092;Wallaby Plateau;Plateau de Wallaby;Wallaby Plateau;;Banco de Wallaby;;;;;;;x;;;;;;
+PROV3093;Ninety East Ridge;Dorsale de Ninety East;Ninety East Ridge;;Dorsal de Ninety East;;;;;;;x;;;;;;
+PROV3094;Roa Rise;Plateau de Roa;Roa Rise;;Falla de Roa;;;;;;;x;;;;;;
+PROV3095;Vening-Meinesz Seamounts;Monts sous-marins de Venig-Meisenz;Venig-Meisenz Seamounts;;Plataforma de Venig-Meisenz ;;;;;;;x;;;;;;
+PROV3096;Wharton Basin;Bassin de Wharton;Whartonbecken;;Cuenca Wharton;;;;;;;x;;;;;;
+PROV3097;Northern Cocos Plateau;Plateau nord des Cocos;Nordkokosbecken;;Banco de Cocos Septentrional;;;;;;;x;;;;;;
+PROV3098;Southern Cocos Plateau;Plateau sud des Cocos ;Skokosbecken;;Banco de Cocos Meridional;;;;;;;x;;;;;;
+PROV3099;Amsterdam Island;姤e d'Amsterdam ;Amsterdam-Insel;;Isla de 聱sterdam ;;;;;;;x;;;;;;
+PROV3100;Marie-Celeste Fracture Zone;Zone de fracture de Marie Celeste ;Marie-Celeste-Frakturzone;;Zona de Fractura Marie-Celeste;;;;;;;x;;;;;;
+PROV3101;Lake Tchad;Lac Tchad;Tschadsee;;Lago Chad;;;;;;;x;;;;;;
+PROV3102;Lake Victoria;Lac Victoria;Victoriasee;;Lago Victoria;;;;;;;x;;;;;;
+PROV3103;Lake Tanganyika;Lac Tangayika;Tangayikasee;;Lago Tanganika;;;;;;;x;;;;;;
+PROV3104;Lake Malawi;Lac Malawi;Malawisee;;Lago Malawi;;;;;;;x;;;;;;
+PROV3105;Gulden-Draak Seamount;Mont sous-marin de Gulden-Draak;Gulden-Draak Seamount;;Plataforma de Gulden-Draak;;;;;;;x;;;;;;
+PROV3106;Lake Balchasj;Lac Balchasj;Balchasjsee;;Lago Balchasj;;;;;;;x;;;;;;
+PROV3107;Lake Bajkal;Lac Ba鮨al;Baikalsee;;Lago Baikal;;;;;;;x;;;;;;
+PROV3108;Lake Dongting;Lac Dongting;Dongtingsee;;Lago Dongting;;;;;;;x;;;;;;
+PROV3109;Lake Titicaca;Lac Titicaca;Titicacasee;;Lago Titicaca;;;;;;;x;;;;;;
+PROV3110;Lake Nicaragua;Lac Nicaragua;Nicaraguasee;;Lago Nicaragua;;;;;;;x;;;;;;
+PROV3111;Sedna Basin;Bassin de Sedna;Sednabecken;;Cuenca de Sedna;;;;;;;x;;;;;;
+PROV3112;Lake Ontario;Lac Ontario;Ontariosee;;Lago Ontario;;;;;;;x;;;;;;
+PROV3113;Lake Erie;Lac Erie;Eriesee;;Lago Erie;;;;;;;x;;;;;;
+PROV3114;Lake Huron;Lac Huron;Huronsee;;Lago Hur鏮;;;;;;;x;;;;;;
+PROV3115;Lake Michigan;Lac Michigan;Michigansee;;Lago Michigan;;;;;;;x;;;;;;
+PROV3116;Lake Superior;Lac Superior;Superiorsee;;Lago Superior;;;;;;;x;;;;;;
+PROV3117;Lake Nipigon;Lac Nipigon;Nipigonsee;;Lago Nipigon;;;;;;;x;;;;;;
+PROV3118;Lake Winnipeg;Lac Winnipeg;Winnipegsee;;Lago Winnipeg;;;;;;;x;;;;;;
+PROV3119;Korskiyev Gulch;Gorge de Korskiyev ;Korskiyev Gulch;;Depresi鏮 de Korskiyev;;;;;;;x;;;;;;
+PROV3120;Orsova Bank;Banc d'Orsova;Orsova Bank;;Costa de Orsova;;;;;;;x;;;;;;
+PROV3121;Novarsk Plain;Plaine de Novarsk;Novarsk-Ebene;;Plataforma de Novarsk;;;;;;;x;;;;;;
+PROV3122;Sorvskiya Plains;Plaines de Sorvskiya;Sorvskiya-Ebene;;Litoral de Sorvskiya;;;;;;;x;;;;;;
+PROV3123;Yamara Gulch;Gorge du Yamaru;Yamara Gulch;;Depresi鏮 de Yamara;;;;;;;x;;;;;;
+PROV3124;Northwest Pacific Basin;Bassin Pacifique du nord-ouest ;Nordwestpazifikbecken;;Cuenca del Pac璗ico Noroeste;;;;;;;x;;;;;;
+PROV3125;Sevrance Shoals;Bancs de Sevrance;Sevrance Shoals;;Baj甐s de Sevrance;;;;;;;x;;;;;;
+PROV3126;Coast of Marcus Island;C矌e de l'螿e Marcus;Kte der Marcus-insel;;Costa de la Isla de Marcus;;;;;;;x;;;;;;
+PROV3127;Coast of the Mariana Islands;C矌e des Malouines;Kte der Marianen;;Costa de las Islas Marianas;;;;;;;x;;;;;;
+PROV3128;Maysdale Flats;Vasi鋨e de Maysdale;Maysdale Flats;;Maysdale;;;;;;;x;;;;;;
+PROV3129;Izamo Drop;Cuvette d'Izamo;Izamo Drop;;Fosa de Izamo;;;;;;;x;;;;;;
+PROV3130;North Bering Sea;Mer de Bering septentrionale;Nordberingsee;;Mar de Bering Septentrional;;;;;;;x;;;;;;
+PROV3131;South Bering Sea;Mer de Bering m廨idionale;Sberingsee;;Mar de Bering Meridional;;;;;;;x;;;;;;
+PROV3132;Western Aleutian Islands;姤es Al廩utiennes occidentales;West-Aleuten;;Islas Aleutianas Occidentales;;;;;;;x;;;;;;
+PROV3133;Pribilof Islands;姤es Pribilof;Pribilof-Inseln;;Islas de Pribilof;;;;;;;x;;;;;;
+PROV3134;Eastern Aleutian Islands;姤es Al廩utiennes orientales;Ostaleutensee;;Islas Aleutianas Orientales;;;;;;;x;;;;;;
+PROV3135;Uminak Pass;Passage d'Uminak;Uminak-Pass;;Paso de Uminak;;;;;;;x;;;;;;
+PROV3136;Western Aleutian Sea;Mer Al廩tienne occidentale;Westaleutensee;;Mar de las Aleutianas Occidental;;;;;;;x;;;;;;
+PROV3137;Baker Seamount;Mont sous-marin Baker;Baker Seamount;;Plataforma de Baker;;;;;;;x;;;;;;
+PROV3138;Alaska Plain;Plaine d'Alaska;Alaska-Ebene;;Litoral de Alaska;;;;;;;x;;;;;;
+PROV3139;Eastern Aleutian Sea;Mer Al廩tienne orientale;OstaleutenseeSea;;Mar de las Aleutianas Oriental;;;;;;;x;;;;;;
+PROV3140;Explorer Trench;Fosse d'Explorer;Explorer-Graben;;Fosa Explorer;;;;;;;x;;;;;;
+PROV3141;Moonless Seamounts;Monts sous-marins de Moonless;Moonless Seamounts;;Plataforma de Moonless;;;;;;;x;;;;;;
+PROV3142;Chinook Basin;Bassin de Chinook;Chinookbecken;;Cuenca de Chinook;;;;;;;x;;;;;;
+PROV3143;Ulchi Basin;Bassin d'Ulchi;Ulchibecken;;Cuenca de Ulchi ;;;;;;;x;;;;;;
+PROV3144;Jingu Basin;Bassin de Jingu;Jingubecken;;Cuenca de Jingu ;;;;;;;x;;;;;;
+PROV3145;Chinook Trough;Passage de Chinook;Chinook Trough;;Depresi鏮 de Chinook;;;;;;;x;;;;;;
+PROV3146;Stanley Seamount;Mont sous-marin de Stanley;Stanley Seamount;;Plataforma de Stanley;;;;;;;x;;;;;;
+PROV3147;Mendocino Escarpment;Falaise de Mendocino;Mendocino Escarpment;;Escarpe de Mendocino;;;;;;;x;;;;;;
+PROV3148;California Seamount;Mont sous-marin de Californie;California Seamount;;Plataforma de California ;;;;;;;x;;;;;;
+PROV3149;Murray Fracture Zone;Zone de fracture de Murray;Murray-Frakturzone;;Zona de Fractura de Murray;;;;;;;x;;;;;;
+PROV3150;Coast of Hawaii;C矌e d'Hawa?Kte von Hawaii;;Costa de Hawai;;;;;;;x;;;;;;
+PROV3151;Argo Seamount;Mont sous-marin d'Argo;Argo Seamount;;Plataforma de Argo ;;;;;;;x;;;;;;
+PROV3152;Musicians Seamount;Mont sous-marin des musiciens;Musicians Seamount;;Plataforma de los Micos;;;;;;;x;;;;;;
+PROV3153;Coast of Midway Island;C矌e de Midway;Kte von Midway;;Isla de la Costa de Midway;;;;;;;x;;;;;;
+PROV3154;Kepler Plain;Plaine de Kepler;Kepler-Ebene;;Litoral de Kepler;;;;;;;x;;;;;;
+PROV3155;Galois Plain;Plaine Galois;Galois-Ebene;;Litoral de Galois;;;;;;;x;;;;;;
+PROV3156;O'Gorman Rise;Plateau d'O'Gorman;O'Gorman Rise;;Falla de O'Gorman;;;;;;;x;;;;;;
+PROV3157;Coast of the Galapagos Islands;C矌e des Galapagos;Galapagos-Kte;;Costa de las Islas Gal嫚agos;;;;;;;x;;;;;;
+PROV3158;Lapira Plains;Plaines de Lapira;Lapira-Ebene;;Litoral de Lapira ;;;;;;;x;;;;;;
+PROV3159;Coast of the Cook Islands;C矌e des 姤es Cook ;Kte der Cook-Inseln;;Costa de las Islas Cook;;;;;;;x;;;;;;
+PROV3160;Clipperton Island;姤e de Clipperton;Clipperton-Insel;;Isla de Clipperton ;;;;;;;x;;;;;;
+PROV3161;Henderson Seamount;Mont sous-marin de Henderson;Henderson Seamount;;Monte submarino Henderson;;;;;;;x;;;;;;
+PROV3162;Madijera Ridge;Dorsale de Madijera ;Madijera-Rken;;Dorsal de Madijera;;;;;;;x;;;;;;
+PROV3163;Bauer Basin;Bassin de Bauer;Bauer-Becken;;Cuenca de Bauer;;;;;;;x;;;;;;
+PROV3164;Northeast Pacific Basin;Bassin pacifique du nord-est;Nortostpazifikbecken;;Cuenca del noreste del Pac璗ico;;;;;;;x;;;;;;
+PROV3165;Discoverer Seamount;Mont sous-marin de Discoverer ;Discoverer Seamount;;Plataforma de Discoverer;;;;;;;x;;;;;;
+PROV3166;Tasavulu Flats;Vasi鋨e de Tasavulu;Tasavulu Flats;;Plataforma de Tasavulu;;;;;;;x;;;;;;
+PROV3167;Hawaiian Arch;Arc hawa髾n;Hawaii-Bogen;;Arco Hawaiano;;;;;;;x;;;;;;
+PROV3168;Radford Basin;Bassin de Radford ;Radford-Becken;;Cuenca de Radford;;;;;;;x;;;;;;
+PROV3169;Northern Line Islands;姤es Line septentrionales;N顤dliche Line-Inseln;;Islas Northern Line;;;;;;;x;;;;;;
+PROV3170;Coast of the Society Islands;C矌e des 姤es de la Soci彋?Kte der Gesellschaftsinseln;;Costa de las Islas de la Sociedad;;;;;;;x;;;;;;
+PROV3171;Peru Basin;Bassin du P廨ou;Perubecken;;Cuenca peruana;;;;;;;x;;;;;;
+PROV3172;Yupanqui Basin;Bassin de Yupanqui;Yupanqui-Becken;;Cuenca de Yupanqui;;;;;;;x;;;;;;
+PROV3173;Severance Plains;Plaines de Severance;Severance-Ebene;;Litoral de Severance;;;;;;;x;;;;;;
+PROV3174;Altamira Plains;Plaines d'Altamira;Altamira-Ebene;;Litoral de Altamira ;;;;;;;x;;;;;;
+PROV3175;Southern Line Islands;姤es Line m廨idionales;Sliche Line-Inseln;;Islas Southern Line;;;;;;;x;;;;;;
+PROV3176;Central Pacific Basin;Bassin pacifique central;Zentralpazifikbecken;;Cuenca central del Pac璗ico;;;;;;;x;;;;;;
+PROV3177;Coast of Samoa;C矌e des Samoa;Kte von Samoa;;Costa de Samoa;;;;;;;x;;;;;;
+PROV3178;Johnston Atoll;Atoll de Johnston;Johnston Atoll;;Atol鏮 de Johnston ;;;;;;;x;;;;;;
+PROV3179;Coast of Tonga;C矌e de Tonga;Kte von Tonga;;Costa de Tonga;;;;;;;x;;;;;;
+PROV3180;Coast of the Marquesas;C矌e des Marquises;Kte der Marquesas;;Costa de las Marquesas;;;;;;;x;;;;;;
+PROV3181;Resolution Flats;Vasi鋨e de Resolution;Resolution Flats;;Plataforma de Resolution;;;;;;;x;;;;;;
+PROV3182;Coast of the Tuamotus;C矌e des Tuamotus;Kte der Tuamotus;;Costa de las Tuamotus;;;;;;;x;;;;;;
+PROV3183;Titus Ridge;Dorsale de Titus;Titus-Rken;;Dorsal de Titus;;;;;;;x;;;;;;
+PROV3184;Chatham Islands;姤es Chatham;Chatham-Inseln;;Islas Chatham;;;;;;;x;;;;;;
+PROV3185;Southwest Pacific Basin;Bassin pacifique du sud-ouest;Swestpazifikbecken;;Cuenca del Pac璗ico Sudoccidental;;;;;;;x;;;;;;
+PROV3186;Ludovico Gulch;Gorge de Ludovico;Ludovico Gulch;;Quebrada de Ludovico;;;;;;;x;;;;;;
+PROV3187;Coast of Pitcairn Island;C矌e de l'姤e de Pitcairn;Kte der Pitcairn-Insel;;Costa de la Isla de Pitcairn ;;;;;;;x;;;;;;
+PROV3188;Rogeveen Basin;Bassin de Rogeveen;Rogeveen-Becken;;Cuenca de Rogeveen;;;;;;;x;;;;;;
+PROV3189;Menard Fracture Zone;Zone de fracture de M幯ard;Menard-Frakturzone;;Zona de Fractura de Menard ;;;;;;;x;;;;;;
+PROV3190;Coast of Easter Island;C矌e de l'姤e de P滸ues;Kte der Osterinsel;;Costa de la Isla de Pascua;;;;;;;x;;;;;;
+PROV3191;Coast of the Ellice Islands;C矌e des 姤es Ellice;Kte der Ellice-Inseln;;Costa de las Islas de Ellice;;;;;;;x;;;;;;
+PROV3192;New Caledonia Basin;Bassin de Nouvelle-Cal嶮onie;New Caledonia-Becken;;Cuenca de Nueva Caledonia ;;;;;;;x;;;;;;
+PROV3193;Juan Fernandez Islands;姤es Juan Fern嫕dez;Juan Fernandez-Inseln;;Islas de Juan Fern嫕dez ;;;;;;;x;;;;;;
+PROV3194;Selkirk Rise;Plateau de Selkirk ;Selkirk Rise;;Falla de Selkirk ;;;;;;;x;;;;;;
+PROV3195;Karasev Plains;Plaines de Karasev;Karasev-Ebene;;Litoral de Karasev ;;;;;;;x;;;;;;
+PROV3196;Timkin Plain;Plaine de Timkin ;Timkin-Ebene;;Litoral de Timkin ;;;;;;;x;;;;;;
+PROV3197;Syrus Reef;R嶰if de Syrus;Syrus-Riff;;Arrecifes de Syrus;;;;;;;x;;;;;;
+PROV3198;Humboldt Plains;Plaine de Humboldt;Humboldtebene;;Litoral de Humboldt;;;;;;;x;;;;;;
+PROV3199;Valdivia Flats;Vasi鋨e de Valdivia;Valdivia Flats;;Plataforma de Valdivia;;;;;;;x;;;;;;
+PROV3200;Coast of South Georgia;C矌e de G廩rgie du sud;Kte von South Georgia;;Costa de Georgia del Sur;;;;;;;x;;;;;;
+PROV3201;Argentine Plain;Plaine d'Argentine;Argentinien-Ebene;;Litoral de Argentina;;;;;;;x;;;;;;
+PROV3202;Zapiola Seamount;Mont sous-marin de Zapiola;Zapiola Seamount;;Plataforma de Zapiola ;;;;;;;x;;;;;;
+PROV3203;West Coast of Saint Helena;x
+PROV3204;Moore Fracture Zone;x
+PROV3205;West Demerara Plain;x
+PROV3206;East Demerara Plain;x
+PROV3207;Cape Verde Basin;x
+PROV3208;Nares Plain;x
+PROV3209;Bahamas Basin;x
+PROV3210;Western Sargasso Sea;x
+PROV3211;Bermuda Approaches;x
+PROV3212;Ceylon Plain;Plaine de Ceylan;Ceylon-Ebene;;Litoral de Ceil嫕;;;;;;;x;;;;;;
+PROV3213;Sunda Trench;Fosse de Sunda;Sundagraben;;Fosa de Sunda;;;;;;;x;;;;;;
+PROV3214;Northern Sumatra Trench;Fosse Nord de Sumatra;Nordsumatragraben;;Fosa del norte de Sumatra ;;;;;;;x;;;;;;
+PROV3215;Central Indian Basin;Bassin indien central;Zentralindisches Becken;;Cuenca de la India Central;;;;;;;x;;;;;;
+PROV3216;Fiji Basin;Bassin de Fiji;Fidschibecken;;Cuenca de Fiji;;;;;;;x;;;;;;
+PROV3217;Solace Flats;Vasi鋨e de Solace;Solace Flats;;Plataforma de Solace;;;;;;;x;;;;;;
+PROV3218;Pisaros Pass;Passe de Pisaros;Pisaros-Pass;;Paso de Pisaros;;;;;;;x;;;;;;
+PROV3219;Coast of Fiji;C矌e de Fiji;Kte von Fiji;;Costa de Fiji;;;;;;;x;;;;;;
+PROV3220;Coast of Norfolk Island;C矌e de l'姤e Norfolk;Kte der Norfolk-Insel;;Costa de la isla de Norfolk;;;;;;;x;;;;;;
+PROV3221;Coast of the Gilbert Islands;C矌e des 姤es Gilbert;Kte der Gilbert-Inseln;;Costa de las Islas Gilbert;;;;;;;x;;;;;;
+PROV3222;Mainu Reef;R嶰if de Mainu;Mainu-Riff;;Arrecife de Mainu;;;;;;;x;;;;;;
+PROV3223;Tusei Bank;Banc de Tusei ;Tusei Bank;;Banco de Tusei;;;;;;;x;;;;;;
+PROV3224;Lake Tana;Lac Tana;Tanasee;;Lago Tana;;;;;;;x;;;;;;
+PROV3225;Great Salt Lake;Grand Lac Sal?Gro絽r Salzsee;;Gran Lago Salino;;;;;;;x;;;;;;
+PROV3226;South Australian Plain;Plaine australienne m廨idionale;Saustralische Ebene;;Litoral meridional de Australian ;;;;;;;x;;;;;;
+PROV3227;Great Slave Lake;Grand lac des esclaves;Gro絽r Sklavensee;;Gran Lago del Esclavo;;;;;;;x;;;;;;
+PROV3228;Lake Athabasca;Lac Athabasca;Athabascasee;;Lago Athabasca;;;;;;;x;;;;;;
+PROV3229;Reindeer Lake;Lac Reindeer;Reindeersee;;Lago Reindeer;;;;;;;x;;;;;;
+PROV3230;Gulf of Ob;Golfe d'Ob;Golf von Ob;;Golfo de Ob;;;;;;;x;;;;;;
+PROV3231;Lake Van;Lac Van;Van-See;;Lago Van;;;;;;;x;;;;;;
+PROV3232;Lake Urmia;x
+PROV3233;Issyk Kul;x
+PROV3234;Qinghai Lake;x
+PROV3235;Lake Poyang;x
+PROV3236;Lake Rudolf;x
+PROV3237;Sohm Plain;x
+PROV3238;Lake Mweru;x
+PROV3239;Lake Champlain;x
+PROV3240;Lake Poopo;x
+PROV3241;Arctic Ocean;x
+PROV3242;Maury Sea Channel;x
+PROV3243;Southeast Pacific Basin;x
+PROV3244;Jaluit Passage;x
+PROV3245;Markov Plains;x
+PROV3246;Jan Mayen;x

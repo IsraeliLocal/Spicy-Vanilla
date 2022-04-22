@@ -1,0 +1,373 @@
+;;;;;;;;;;x
+USA_1;Alaska;x
+USA_78;Washington;x
+USA_81;Oregon;x
+USA_91;Idaho;x
+USA_106;Colorado;x
+USA_111;Wyoming;x
+USA_116;Montana;x
+USA_118;North Dakota;x
+USA_121;South Dakota;x
+USA_124;Nebraska;x
+USA_126;Kansas;x
+USA_129;Oklahoma;x
+USA_139;Louisiana;x
+USA_144;Arkansas;x
+USA_148;Missouri;x
+USA_151;Iowa;x
+USA_158;Minnesota;x
+SPA_2209;Cuba;x
+ENG_203;Caribbean Islands;x
+USA_162;Wisconsin;x
+USA_168;Illinois;x
+USA_170;Indiana;x
+USA_176;Michigan;x
+USA_178;Ohio;x
+USA_185;Kentucky;x
+USA_188;Tennessee;x
+USA_194;Mississippi;x
+USA_196;Alabama;x
+USA_200;Florida;x
+USA_201;Georgia;x
+USA_211;Virginia;x
+REMOVE_USA_220;West Virginia;x
+USA_223;Pennsylvania;x
+USA_231;New Jersey;x
+USA_232;New York;x
+USA_243;Massachusetts;x
+USA_247;New England;x
+USA_2556;North Carolina;x
+ENG_6;Yukon Territory;x
+ENG_9;Northwest Territories;x
+ENG_13;British Columbia;x
+ENG_22;Alberta;x
+ENG_30;Saskatchewan;x
+ENG_36;Manitoba;x
+ENG_44;Nunavut Territory;x
+ENG_46;Ontario;x
+ENG_58;Quebec;x
+ENG_74;Newfoundland;x
+TEX_132;Texas;x
+UCA_2186;Guatemala;x
+UCA_2191;Honduras;x
+UCA_2197;Nicaragua;x
+UCA_2201;Costa Rica;x
+CLM_1723;Panama;x
+SPA_2209;Greater Antilles;x
+URU_2344;Uruguay;x
+ECU_2279;Ecuador;x
+HAI_2213;Hispaniola;x
+MEX_85;California;x
+MEX_100;Arizona;x
+MEX_103;New Mexico;x
+MEX_94;Nevada-Utah;x
+FRA_77;Saint Pierre and Miquelon;x
+ENG_2224;West Indies;x
+REMOVE_ENG_203;North Caribbean Islands;x
+ENG_2228;Lesser Antilles;x
+MEX_2138;Sonora;x
+MEX_2142;Chihuahua;x
+MEX_2151;Durango;x
+MEX_2146;Nuevo León;x
+MEX_2173;Zacatecas;x
+MEX_2161;Jalisco;x
+MEX_2170;Morelia;x
+MEX_2162;México;x
+MEX_2183;Yucatán;x
+CLM_2251;Antioquía;x
+CLM_2247;Cundinamarca;x
+CLM_2262;Guaviare;x
+CLM_2256;Valle del Cauca;x
+BRZ_2401;Amazonas;x
+VNZ_2234;Zulia;x
+VNZ_2265;Miranda;x
+VNZ_2278;Bolívar;x
+ENG_1979;Guayana;x
+PEU_2289;Pastaza;x
+BRZ_2408;Pará;x
+BRZ_2410;Maranhão;x
+BRZ_2427;Rio Grande do Norte;x
+BRZ_2428;Pernambuco;x
+BRZ_2439;Bahia;x
+BRZ_2416;Mato Grosso;x
+BRZ_2246;Minas Gerais;x
+BRZ_2447;Rio de Janeiro;x
+BRZ_2306;São Paulo;x
+BRZ_2462;Paraná;x
+BRZ_2467;Rio Grande do Sul;x
+PEU_2291;Cajamarca;x
+PEU_2300;Lima;x
+PEU_2297;Ica;x
+PEU_2303;Arequipa;x
+PRG_2338;Alto Paraguay;x
+PRG_2343;Bajo Paraguay;x
+BOL_2321;La Paz;La Paz;x
+BOL_2317;Santa Cruz;x
+BOL_2305;Potosí;x
+CHL_2332;Araucania;x
+CHL_2322;Santiago;x
+CHL_2327;Los Ríos;x
+ARG_2368;Jujuy;x
+ARG_2387;Tucumán;x
+ARG_2393;Río Negro;x
+ARG_2377;Chaco;x
+ARG_2384;La Pampa;x
+ARG_2357;Corrientes;x
+ARG_2363;Santa Fe;x
+ARG_2355;Buenos Aires;x
+ARG_2391;Patagonia Septentrional;x
+ARG_2398;Patagonia Meridional;x
+ENG_43;Nunavut;x
+ENG_68;New Brunswick;x
+SWE_329;Götaland;x
+SWE_318;Norrland;x
+SWE_322;Svealand;x
+SIC_763;Sicily;x
+GRE_826;Peloponnese;x
+TUR_853;Albania;x
+TUR_788;Bosnia;x
+MOL_673;Moldavia;x
+WAL_665;Wallachia;x
+SPA_474;Galicia;x
+SPA_477;León-Castilla;x
+SPA_492;Vasconia-Aragón;x
+SPA_498;Catalonia;x
+AUS_613;Kärnten-Steiermark;x
+AUS_612;Tirol;x
+AUS_702;West Galicia;x
+AUS_662;East Galicia;x
+AUS_633;Slovakia;x
+AUS_777;Slavonia;x
+AUS_780;Dalmatia;x
+AUS_771;Croatia;x
+AUS_726;Lombardia;x
+AUS_736;Istria;x
+AUS_729;Venetia;x
+AUS_625;Bohemia;x
+AUS_626;Moravia;x
+AUS_654;Western Transylvania;x
+AUS_657;Eastern Transylvania;x
+AUS_647;Alföld;x
+AUS_623;Transdanubia;x
+AUS_619;Österreich;x
+AUS_734;South Tirol;x
+AUS_641;Central Hungary;x
+ENG_260;Münster;x
+ENG_263;Leinster-Connacht;x
+ENG_254;Ulster;x
+ENG_273;Wales;x
+ENG_277;North West England;x
+ENG_280;North East England;x
+ENG_284;Midlands;x
+ENG_291;Eastern Counties;x
+ENG_300;South East England;x
+ENG_296;South West England;x
+SPA_513;Granada;x
+SPA_512;Andalusia;x
+SPA_484;Extremadura;x
+SPA_503;Valencia;x
+SPA_487;Castilla la Nueva;x
+GRE_837;Attica;x
+TUR_832;Thessalía;x
+TUR_803;Southern Serbia;x
+SER_794;Northern Serbia;x
+REMOVE_TUR_806;West Macedonia;x
+TUR_805;East Macedonia;x
+TUR_860;Thrace;x
+EGY_843;Aegean Islands;x
+TUR_855;Cyprus;x
+TUR_809;Rumelia;x
+TUR_810;Bulgaria;x
+TUR_674;Dobrudja;x
+MON_2582;Montenegro;x
+FRA_458;Aquitaine;x
+FRA_442;Poitou;x
+FRA_455;Le Midi;x
+FRA_461;Languedoc;x
+FRA_467;Provence;x
+FRA_445;Limousin;x
+FRA_448;Auvergne;x
+FRA_451;Rhone;x
+FRA_420;Bretagne;x
+FRA_435;Loire;x
+FRA_438;Region Centre;x
+FRA_428;Bourgogne;x
+FRA_418;Normandie;x
+FRA_425;Ile-de-France;x
+FRA_404;Champagne;x
+FRA_412;Alsace-Lorraine;x
+FRA_399;Picardie;x
+POR_518;Douro;x
+POR_521;Estremadura;x
+POR_525;Alentejo;x
+POR_2134;Macaronesia;x
+ENG_266;Highlands;x
+ENG_271;Lowlands;x
+BEL_394;Wallonie;x
+BEL_387;Vlaanderen;x
+NET_375;Holland;x
+NET_381;Gelderland;x
+NET_385;Friesland;x
+SAR_466;Savoie;x
+SAR_720;Piemonte;x
+SAR_765;Sardegna;x
+AUS_768;Slovenia;x
+MOD_739;Emilia;x
+PAP_741;Romagna;x
+TUS_744;Toscana;x
+PAP_752;Lazio;x
+SIC_754;Campania;x
+SIC_753;Puglia;x
+SWI_605;West Switzerland;x
+SWI_603;East Switzerland;x
+BAD_586;Baden;Baden;x
+WUR_589;Württemberg;x
+HES_2560;Hesse-Nassau;x
+BAV_599;Bayern;x
+BAV_595;Franken;x
+SAX_558;Sachsen;x
+HEK_568;Hessen;x
+HAN_534;Hannover;x
+PRU_572;Rheinland;x
+PRU_575;Nordrhein;x
+PRU_581;Westfalen;x
+HAM_528;Osthannover;x
+REMOVE_MEC_544;Mecklemburg-Holstein;x
+MEC_544;Schleswig-Holstein;x
+PRU_553;Magdeburg;x
+PRU_549;Brandenburg;x
+PRU_546;Pommern;x
+PRU_682;Schlesien;x
+PRU_701;Posen;x
+PRU_690;Westpreußen;x
+PRU_695;Ostpreußen;x
+DEN_367;Jylland;x
+DEN_372;Sjaelland;x
+SWE_313;Ostlandet;x
+SWE_309;Vestlandet;x
+SWE_308;Nordnorge;x
+RUS_366;Lappi;x
+RUS_340;Southern Finland;x
+RUS_349;Estonia;x
+RUS_354;Latvia;x
+RUS_360;Lietuva;x
+RUS_710;Wielkopolskie;x
+RUS_706;Mazowieckie;x
+RUS_707;Brêst;x
+RUS_718;Minsk;x
+RUS_676;Bessarabia;x
+RUS_965;Cherson;x
+RUS_958;Kiev;x
+RUS_964;Crimea;x
+RUS_980;Luhansk;x
+RUS_339;Karelia;x
+RUS_994;Ingria;x
+RUS_1003;Novgorod;x
+RUS_947;Orsha;x
+RUS_943;Smolensk;x
+RUS_955;Rovne;x
+RUS_998;Tver;x
+RUS_981;Arkhangelsk;x
+RUS_990;Galich;x
+RUS_1008;Moscow;x
+RUS_1009;Bryansk;x
+RUS_977;Kursk;x
+RUS_2589;Nenetsia;x
+RUS_1026;Perm;x
+RUS_1020;Kazan;x
+RUS_1060;Samara;x
+RUS_1037;Tartaria;x
+RUS_1041;Astrakhan;x
+RUS_979;Rostov;x
+RUS_1048;Ekaterinodar;x
+RUS_1052;North Caucasia;x
+RUS_336;Northern Finland;x
+FRA_411;Franche-Comté;x
+ENG_2468;New South Wales;x
+GER_2530;Northern New Guinea;x
+AST_2528;Southern New Guinea;x
+ENG_2476;Victoria;x
+ENG_2483;Queensland;x
+ENG_2491;South Australia;x
+ENG_2497;Western Australia;x
+ENG_2505;Northern Territory;x
+ENG_2509;North Island;x
+ENG_2513;South Island;x
+HAW_658;Hawaiian Islands;x
+AST_2527;Kiribati;x
+AST_801;Polynesia;x
+AST_2454;Fiji;x
+AST_2535;Vanuatu;x
+AST_2244;Christmas & Cocos Islands;x
+NET_1413;Java;x
+ENG_1321;Ceylon;x
+CHI_2608;Mongolia;x
+OMA_1166;Oman;x
+ABU_1162;Abu Dhabi;x
+NEJ_1163;Arabian Coast;x
+YEM_1173;Yemen;x
+HDJ_1151;Hedjaz;x
+SIA_1366;Cambodia;x
+ENG_1252;North Bengal;x
+ENG_1251;South Bengal;x
+ENG_1258;Assam;x
+RUS_1090;Georgia;x
+RUS_1098;Armenia;x
+EGY_921;Palestine;x
+RUS_1104;Baku;x
+RUS_1102;Azerbaijan;x
+SPA_1463;Mindanao;x
+SPA_1455;Luzón;x
+SPA_1459;Visayas;x
+TUN_1726;Tunisia;x
+FRA_1879;Guinea;x
+ENG_1887;Liberia;x
+FRA_1907;Ghana;x
+FRA_1914;Togo;x
+FRA_1919;Dahomey;x
+FRA_1972;Gabon;x
+ENG_2074;Botswana;x
+ENG_2014;Zambia;x
+MOR_1683;Taza;x
+TUR_819;West Macedonia;x
+TUR_806;North Macedonia;x
+ENG_2068;Zambezi;x
+EGY_1842;Darfur;x
+EGY_1838;Kordofan;x
+EGY_915;Lebanon;x
+CHI_2562;Formosa;x
+BEL_1977;Bas-Congo;x
+BEL_1987;Katanga;x
+BEL_1990;Eastern Congo;x
+BEL_1984;Kasai;x
+POR_1999;North Angola;x
+ENG_1956;South Cameroon;x
+ENG_1960;North Cameroon;x
+ENG_1868;Somaliland;x
+ENG_2026;Rift Valley;x
+ENG_2024;Kenya;x
+ENG_2019;Uganda;x
+TRN_2108;Transvaal;x
+POR_2060;Mocambique;x
+FRA_1884;Sierra Leone;x
+FRA_1813;Niger;x
+FRA_1892;Ivory Coast;x
+FRA_1893;Windward Coast;x
+FRA_1788;Gambia;x
+FRA_1783;Senegal;x
+FRA_1775;Mauritania;x
+MOR_1696;West Morocco;x
+POR_2003;South Angola;x
+POR_2006;East Angola;x
+ALD_1718;Sahara;x
+ALD_1714;West Sahara;x
+TRI_1739;Libyan Desert;x
+EGY_1754;Libya;x
+FRA_1780;Inner Mauritania;x
+ORA_2103;Vrystaat;x
+ENG_2092;Northern Cape;x
+ENG_2083;Namaqualand;x
+ENG_2096;Eastern Cape;x
+ENG_2087;Cape Colony;x
+BEL_1992;Equateur;x
+FRA_1978;Congo;x

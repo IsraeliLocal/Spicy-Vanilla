@@ -1,0 +1,447 @@
+;;;;;;;;;;x
+REB;Rebels;x
+REB_ADJ;Rebel;x
+ALB;Albania;x
+ALB_ADJ;Albanian;x
+BOS;Bosnia;x
+BOS_ADJ;Bosnian;x
+BUL;Bulgaria;x
+BUL_ADJ;Bulgarian;x
+CRO;Croatia;x
+CRO_ADJ;Croatian;x
+CYP;Cyprus;x
+CYP_ADJ;Cypriot;x
+GRE;Greece;x
+GRE_ADJ;Greek;x
+MOL;Moldavia;x
+MOL_ADJ;Moldavian;x
+MON;Montenegro;x
+MON_ADJ;Montenegrin;x
+ROM;Romania;x
+ROM_ADJ;Romanian;x
+SER;Serbia;x
+SER_ADJ;Serb;x
+TUR;The Ottoman Empire;x
+TUR_ADJ;Ottoman;x
+TUR_proletarian_dictatorship;Turkey;x
+TUR_proletarian_dictatorship_ADJ;Turkish;x
+WAL;Wallachia;x
+WAL_ADJ;Wallachian;x
+SWI;Switzerland;x
+SWI_ADJ;Swiss;x
+SLO;Slovenia;x
+SLO_ADJ;Slovenian;x
+AUS;Austria;x
+AUS_ADJ;Austrian;x
+BOH;Bohemia-Moravia;x
+BOH_ADJ;Bohemian;x
+DZG;Danzig;x
+KRA;Krakow;x
+KRA_ADJ;Krakowian;x
+CRI;Crimea;x
+CRI_ADJ;Crimean;x
+EST;Estonia;x
+EST_ADJ;Estonian;x
+HUN;Hungary;x
+HUN_ADJ;Hungarian;x
+LIT;Lithuania;x
+LIT_ADJ;Lithuanian;x
+LAT;Latvia;x
+LAT_ADJ;Latvian;x
+POL;Poland;x
+POL_ADJ;Polish;x
+RUS;Russia;x
+RUS_ADJ;Russian;x
+RUS_absolute_monarchy;The Russian Empire;x
+RUS_prussian_constitutionalism;The Russian Empire;x
+SLV;Slovakia;x
+SLV_ADJ;Slovak;x
+RUT;Ruthenia;x
+RUT_ADJ;Ruthenian;x
+SIE;Transylvania;x
+SIE_ADJ;Transylvanian;x
+UKR;Ukraine;x
+UKR_ADJ;Ukrainian;x
+GER;Germany;x
+GER_ADJ;German;x
+GER_absolute_monarchy;The German Empire;x
+GER_prussian_constitutionalism;The German Empire;x
+NGF;North German Federation;x
+NGF_ADJ;North German;x
+SGF;South German Federation;x
+SGF_ADJ;German;x
+BAD;Baden;x
+BAV;Bavaria;x
+BAV_ADJ;Bavarian;x
+BRA;Braunschweig;x
+BRA_ADJ;Braunschweigian;x
+BRE;Bremen;x
+BRE_ADJ;Bremian;x
+FRM;Frankfurt am Main;x
+FRM_ADJ;Frankfurter;x
+HAM;Hamburg;x
+HAM_ADJ;Hamburgian;x
+HAN;Hanover;x
+HAN_ADJ;Hanoverian;x
+HES;Hesse-Darmstadt;x
+HES_ADJ;Hessian;x
+HEK;Hesse-Kassel;x
+HEK_ADJ;Hessian;x
+HOL;Holstein;x
+HOL_ADJ;Holsteinian;x
+LUB;Lübeck;x
+LUB_ADJ;Lübeckian;x
+LUX;Luxembourg;x
+LUX_ADJ;Luxembourger;x
+OLD;Oldenburg;x
+OLD_ADJ;Oldenburgian;x
+PRU;Prussia;x
+PRU_ADJ;Prussian;x
+SAX;Saxony;x
+SAX_ADJ;Saxon;x
+SCH;Schleswig;x
+SCH_ADJ;Schleswigian;x
+WUR;Württemberg;x
+WUR_ADJ;Württembergian;x
+COB;Saxe-Coburg-Gotha;x
+COB_ADJ;Saxon;x
+LIP;Lippe-Detmold;x
+LIP_ADJ;Lippish;x
+MEC;Mecklenburg;x
+MEC_ADJ;Mecklenburgian;x
+ITA;Italy;x
+ITA_ADJ;Italian;x
+LOM;Lombardy;x
+LOM_ADJ;Lombardian;x
+PAR;Parma;x
+PAR_ADJ;Parmese;x
+MOD;Modena;x
+MOD_ADJ;Modenian;x
+PAP;Papal States;x
+PAP_ADJ;Roman;x
+SAR;Sardinia-Piedmont;x
+SAR_ADJ;Piedmontese;x
+SIC;Two Sicilies;x
+SIC_ADJ;Sicilian;x
+TUS;Tuscany;x
+TUS_ADJ;Tuscan;x
+VEN;Venice;x
+VEN_ADJ;Venetian;x
+DEN;Denmark;x
+DEN_ADJ;Danish;x
+FIN;Finland;x
+FIN_ADJ;Finnish;x
+NOR;Norway;x
+NOR_ADJ;Norwegian;x
+SCA;Scandinavia;x
+SCA_ADJ;Scandinavian;x
+SWE;Sweden;x
+SWE_ADJ;Swedish;x
+BEL;Belgium;x
+BEL_ADJ;Belgian;x
+CAT;Catalonia;x
+CAT_ADJ;Catalonian;x
+ENG;The United Kingdom;x
+ENG_ADJ;British;x
+ENG_fascist_dictatorship;Republic of Britannia;x
+ENG_fascist_dictatorship_ADJ;British;x
+ENG_democracy;Great Britain;x
+ENG_absolute_monarchy;The British Empire;x
+ENG_prussian_constitutionalism;The British Empire;x
+ENG_bourgeois_dictatorship;Republic of Britannia;x
+ENG_presidential_dictatorship;Great Britain;x
+FLA;Flanders;x
+FLA_ADJ;Flemish;x
+WLL;Wallonia;x
+WLL_ADJ;Wallonian;x
+FRA;France;x
+FRA_ADJ;French;x
+IRE;Ireland;x
+IRE_ADJ;Irish;x
+NET;Netherlands;x
+NET_ADJ;Dutch;x
+POR;Portugal;x
+POR_ADJ;Portuguese;x
+SCO;Scotland;x
+SCO_ADJ;Scottish;x
+SPA;Spain;x
+SPA_ADJ;Spanish;x
+PER;Iran;x
+PER_ADJ;Iranian;x
+NEJ;Nejd;x
+NEJ_ADJ;Nejdi;x
+AFG;Afghanistan;x
+AFG_ADJ;Afghan;x
+EGY;Egypt;x
+EGY_ADJ;Egyptian;x
+KHI;Khiva;x
+KHI_ADJ;Khivan;x
+BUK;Bukkhara;x
+BUK_ADJ;Bukkharan;x
+KOK;Kokand;x
+KOK_ADJ;Kokandi;x
+OMA;Oman;x
+OMA_ADJ;Omani;x
+YEM;Yemen;x
+YEM_ADJ;Yemeni;x
+ABU;Abu Dhabi;x
+ABU_ADJ;Abu Dhabian;x
+TRA;Travancore;x
+TRA_ADJ;Travancorian;x
+MYS;Mysore;x
+MYS_ADJ;Mysori;x
+HYD;Hyderabad;x
+HYD_ADJ;Hyderabadi;x
+NAG;Nagpur;x
+NAG_ADJ;Nagpuri;x
+BAS;Bastar;x
+BAS_ADJ;Bastar;x
+ORI;Orissa;x
+ORI_ADJ;Orissan;x
+BUN;Bundelkhand;x
+BUN_ADJ;Bundeli;x
+AWA;Awadh;x
+AWA_ADJ;Awadhi;x
+GWA;Gwalior;x
+GWA_ADJ;Gwaliori;x
+BHO;Bhopal;x
+BHO_ADJ;Bhopali;x
+IND;Indore;x
+IND_ADJ;Indori;x
+JAI;Jaipur;x
+JAI_ADJ;Jaipuri;x
+MEW;Mewar;x
+MEW_ADJ;Mewari;x
+JOD;Jodhpur;x
+JOD_ADJ;Jodhpuri;x
+BER;Beroda;x
+BER_ADJ;Berodan;x
+KUT;Kutch;x
+KUT_ADJ;Kutchi;x
+SIN;Sindh;x
+SIN_ADJ;Sindi;x
+MAK;Makran;x
+MAK_ADJ;Makrani;x
+KAL;Kalat;x
+KAL_ADJ;Kalati;x
+JAS;Jaisalmer;x
+JAS_ADJ;Jaisalmeri;x
+BIK;Bikaner;x
+BIK_ADJ;Bikaneri;x
+PAN;The Sikh Empire;x
+PAN_ADJ;Punjabi;x
+SHI;Shimla;x
+SHI_ADJ;Shimlan;x
+LAD;Ladakh;x
+LAD_ADJ;Ladakhi;x
+KAS;Kashmir;x
+KAS_ADJ;Kashmiri;x
+NEP;Nepal;x
+NEP_ADJ;Nepali;x
+SIK;Sikkim;x
+SIK_ADJ;Sikkimese;x
+BHU;Bhutan;x
+BHU_ADJ;Bhutanese;x
+ETH;Ethiopia;x
+ETH_ADJ;Ethiopian;x
+LIB;Liberia;x
+LIB_ADJ;Liberian;x
+REMOVE_ALD;Aldjazair;Algérie;Al Djazair;;Argel;;;;;;;;;x;;;;
+ALD_ADJ;Algerian;x
+MOR;Morocco;x
+MOR_ADJ;Moroccan;x
+TRI;Tripoli;x
+TRI_ADJ;Tripolitanian;x
+SOK;Sokoto;x
+SOK_ADJ;Sokot;x
+ZUL;Zulu;x
+ZUL_ADJ;Zulu;x
+SAF;South Africa;x
+SAF_ADJ;South African;x
+MAD;Madagascar;x
+MAD_ADJ;Madagascarian;x
+CHI;China;x
+CHI_ADJ;Chinese;x
+JAP;Japan;x
+JAP_ADJ;Japanese;x
+KOR;Joseon;x
+KOR_ADJ;Korean;x
+TIB;Tibet;x
+TIB_ADJ;Tibetan;x
+SIA;Siam;x
+SIA_ADJ;Siamese;x
+CAM;Cambodia;x
+CAM_ADJ;Cambodian;x
+BUR;Burma;x
+BUR_ADJ;Burmese;x
+DAI;Dai Nam;x
+DAI_ADJ;Vietnamese;x
+BRU;Brunei;x
+BRU_ADJ;Bruneian;x
+BAL;Bali;x
+BAL_ADJ;Balinese;x
+JOH;Johore;x
+JOH_ADJ;Johorian;x
+JAV;Java;x
+JAV_ADJ;Javanese;x
+AST;Australia;x
+AST_ADJ;Australian;x
+NZL;New Zealand;x
+NZL_ADJ;New Zealander;x
+HAW;Hawaii;x
+HAW_ADJ;Hawaiian;x
+USA;United States of America;x
+USA_ADJ;American;x
+USA_presidential_dictatorship;United States of America;x
+USA_bourgeois_dictatorship;United States of America;x
+USA_fascist_dictatorship;United States of America;x
+REMOVE_USA_prussian_constitutionalism;The USA;x
+USA_democracy;United States of America;x
+CSA;Confederate States of America;x
+CSA_ADJ;Confederate;x
+CSA_proletarian_dictatorship;Confederate States of America;x
+CSA_presidential_dictatorship;Confederate States of America;x
+CSA_bourgeois_dictatorship;Confederate States of America;x
+CSA_fascist_dictatorship;Confederate States of America;x
+CSA_prussian_constitutionalism;Dixie Kingdom;x
+CSA_democracy;Confederate States of America;x
+CAN;Canada;x
+CAN_ADJ;Canadian;x
+TEX;Texas;x
+TEX_ADJ;Texan;x
+CAL;Californian Republic;x
+CAL_ADJ;Californian;x
+CAL_absolute_monarchy;Kingdom of California;x
+CAL_hms_government;Kingdom of California;x
+COL;Columbia;x
+COL_ADJ;Columbian;x
+NEN;New England;x
+NEN_ADJ;New English;x
+MEX;Mexico;x
+MEX_ADJ;Mexican;x
+MEX_absolute_monarchy;Empire of Mexico;x
+MEX_prussian_constitutionalism;Empire of Mexico;x
+MEX_hms_government;Empire of Mexico;x
+CUB;Cuba;x
+CUB_ADJ;Cuban;x
+DOM;Dominican Republic;x
+DOM_ADJ;Dominican;x
+DOM_absolute_monarchy;Santo Domingo;x
+DOM_hms_government;Santo Domingo;x
+HAI;Haiti;x
+HAI_ADJ;Haitian;x
+UCA;United States of Central America;x
+UCA_ADJ;Central American;x
+PNM;Panama;x
+PNM_ADJ;Panamanian;x
+HON;Honduras;x
+HON_ADJ;Honduran;x
+ELS;El Salvador;x
+ELS_ADJ;El Salvadorian;x
+GUA;Guatemala;x
+GUA_ADJ;Guatemalan;x
+NIC;Nicaragua;x
+NIC_ADJ;Nicaraguan;x
+COS;Costa Rica;x
+COS_ADJ;Costa Rican;x
+DES;Deseret;x
+DES_ADJ;Mormon;x
+QUE;Québec;x
+QUE_ADJ;Québécois;x
+MTC;Metis Confederacy;x
+MTC_ADJ;Métis;x
+VNZ;Venezuela;x
+VNZ_ADJ;Venezuelan;x
+BRZ;Brazil;x
+BRZ_ADJ;Brazilian;x
+URU;Uruguay;x
+URU_ADJ;Uruguayan;x
+PRG;Paraguay;x
+PRG_ADJ;Paraguayan;x
+ARG;Argentina;x
+ARG_ADJ;Argentinian;x
+CHL;Chile;x
+CHL_ADJ;Chilean;x
+PEU;Peru;x
+PEU_ADJ;Peruvian;x
+BOL;Bolivia;x
+BOL_ADJ;Bolivian;x
+CLM;Colombia;x
+CLM_ADJ;Colombian;x
+ATJ;Aceh;x
+ATJ_ADJ;Acehnese;x
+HDJ;Hedjaz;x
+HDJ_ADJ;Hedjazi;x
+ECU;Ecuador;x
+ECU_ADJ;Ecuadorian;x
+TUN;Tunis;x
+TUN_ADJ;Tunisian;x
+NAL;Natalia;x
+NAL_ADJ;Natalian;x
+ORA;Oranje;x
+ORA_ADJ;Oranjean;x
+TRN;Transvaal;x
+TRN_ADJ;Transvaali;x
+LUA;Luang Prabang;x
+LUA_ADJ;Luang Prabangi;x
+WIA;Wiang Chhan;x
+WIA_ADJ;Vientiane;x
+NEW;Newfoundland;x
+NEW_ADJ;Newfoundlander;x
+ZAN;Zanzibar;x
+ZAN_ADJ;Zanzibari;x
+NAS;Nassau;x
+NAS_ADJ;Nassauan;x
+ANH;Anhalt;x
+ANH_ADJ;Anhaltian;x
+WEI;Saxe-Weimar;x
+WEI_ADJ;Saxon;x
+MEI;Saxe-Meiningen;x
+MEI_ADJ;Saxon;x
+MAN;Manhattan Commune;x
+MAN_ADJ;Manhattanite;x
+CRE;Crete;x
+CRE_ADJ;Cretian;x
+ION;Ionian Islands;x
+ION_ADJ;Ionian;x
+TRE;Trieste;x
+TRE_ADJ;Triestian;x
+ARM;Armenia;x
+ARM_ADJ;Armenian;x
+GEO;Georgia;x
+GEO_ADJ;Georgian;x
+CHE;Cherokee;x
+CHE_ADJ;Cherokee;x
+MUG;Mughalistan;x
+MUG_ADJ;Mughal;x
+LUC;Lucca;x
+LUC_ADJ;Luccan;x
+KUK;Austria-Hungary;x
+KUK_ADJ;Austro-Hungarian;x
+ICL;Iceland;x
+ICL_ADJ;Icelandic;x
+ISR;Israel;x
+ISR_ADJ;Israeli;x
+BYZ;Byzantine Empire;x
+BYZ_ADJ;Byzantine;x
+BYZ_absolute_monarchy;Byzantine Empire;x
+BYZ_proletarian_dictatorship;Union of Red Themes;x
+BAB;Babylon;x
+BAB_ADJ;Babylonian;x
+RHO;Southern Rhodesia;x
+RHO_ADJ;Rhodesian;x
+RHO_proletarian_dictatorship;Zimbabwe;x
+RHO_absolute_monarchy;Southern Rhodesia;x
+RHO_hms_government;Southern Rhodesia;x
+CNG;Congo;x
+CNG_ADJ;Congolese;x
+CNG_absolute_monarchy;Congo Free State;x
+CNG_presidential_dictatorship;Zaire;x
+CNG_hms_government;Congo;x
+CNG_democracy;Zaire;x
+GEL;Geledi;x
+GEL_ADJ;Geledi;x
+MAJ;Majeerteen;x
+MAJ_ADJ;Majeertani;x
+ISQ;Isaaq Sultanate;x
+ISQ_ADJ;Isaaqi;x

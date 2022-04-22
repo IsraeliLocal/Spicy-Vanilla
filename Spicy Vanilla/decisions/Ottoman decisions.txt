@@ -1,0 +1,103 @@
+political_decisions = {
+	inherit_egypt_ottoman = {
+		picture = inherit_egypt
+		potential = {
+				tag = TUR
+				is_our_vassal = EGY
+				year = 1855
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			is_our_vassal = EGY
+		}
+		effect = {
+			inherit = EGY
+			Prestige = 50
+		}
+	}
+	inherit_levant_ottoman = {
+		picture = inherit_levant
+		potential = {
+			tag = TUR
+			is_our_vassal = EGY
+			NOT = {
+				has_country_flag = levant_inherited
+			}
+		}
+		allow = {
+			is_our_vassal = EGY
+		}
+		effect = {
+			prestige = 35
+			set_country_flag = levant_inherited
+			EGY = {
+				any_owned = {
+					limit = {
+					OR = {
+						region = TUR_876
+						region = EGY_897
+						region = EGY_903
+						region = EGY_915
+						region = EGY_921
+						region = EGY_910
+						region = NEJ_1156
+						region = EGY_843
+					}
+				}
+				secede_province = TUR
+				}
+			}
+		}
+	}
+	inherit_tunis_ottoman = {
+		picture = inherit_tunis
+		potential = {
+			tag = TUR
+			TUN = { in_sphere = TUR }
+			NOT = {
+				has_country_flag = tunis_inherited
+			}
+		}
+		allow = {
+			TUN = { in_sphere = TUR }
+			year = 1860
+		}
+		effect = {
+			prestige = 35
+			set_country_flag = tunis_inherited
+			inherit = TUN
+		}
+	}
+	inherit_oman_africa_ottoman = {
+		picture = east_africa_map
+		potential = {
+			tag = TUR
+			OMA = { in_sphere = TUR }
+			NOT = {
+				has_country_flag = omani_africa_inherited
+			}
+		}
+		allow = {
+			OMA = { in_sphere = TUR }
+			year = 1870
+			invention = mission_to_civilize
+		}
+		effect = {
+			prestige = 35
+			set_country_flag = omani_africa_inherited
+			OMA = {
+				any_owned = {
+					limit = {
+					OR = {
+						region = ENG_2029
+						region = ENG_2024
+						region = ENG_2039
+						region = ENG_1868
+					}
+				}
+				secede_province = TUR
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+army = {
+	name = "Army of the Majeerteen"
+	location = 1872
+	regiment = {
+		name = "Sultan Guards"
+		type = infantry
+		home = 1872
+	}
+}
+
+army = {
+	name = "Southern Army"
+	location = 1871
+	regiment = {
+		name = "Sultan Guards"
+		type = irregular
+		home = 1871
+	}
+}
+
