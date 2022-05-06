@@ -265,6 +265,15 @@ JAN 	= "countries/JanMayen.txt"
 GEL		= "countries/Geledi.txt"
 MAJ		= "countries/Majeerteen.txt"
 ISQ		= "countries/Isaaq Sultanate.txt"
+OYO		= "countries/Oyo.txt"
+SOM		= "countries/Somaliland.txt"
+BEN		= "countries/Benin.txt"
+WRI 	= "countries/Warri.txt"
+CLB 	= "countries/Calabar.txt"
+ARO 	= "countries/Aro.txt"
+DAH 	= "countries/Dahomey.txt"
+BNU 	= "countries/Bornu.txt"
+
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

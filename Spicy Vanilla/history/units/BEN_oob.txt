@@ -1,0 +1,15 @@
+army = {
+	name = "Osemwende's Army"
+	location = 1928
+	regiment = {
+		name= "1.Benin"
+		type = irregular
+		home = 1928
+	}
+
+	regiment = {
+		name= "2.Benin"
+		type = irregular
+		home = 1928
+	}
+}

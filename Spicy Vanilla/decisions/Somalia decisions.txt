@@ -1,0 +1,54 @@
+political_decisions = {
+
+form_somaliland = {
+		picture = somaliland_map
+		potential = {
+			primary_culture = somali
+			NOT = {
+				exists = SOM
+			}
+		}	
+		allow = {
+			prestige = 30
+			war = no
+			SOM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+					
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = somali
+					}
+					in_sphere = THIS
+					vassal_of = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}		
+			change_tag = SOM
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+
+
+}

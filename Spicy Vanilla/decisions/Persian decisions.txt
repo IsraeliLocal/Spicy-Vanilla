@@ -3,6 +3,7 @@ political_decisions = {
 		picture = integrate_central_asia
 		potential = {
 			tag = PER
+			has_country_flag = eastern_expansion_iran
 			NOT = {
 				has_country_flag = central_asia_integrated
 			}
@@ -47,10 +48,12 @@ political_decisions = {
 			1204 = { add_core = PER }
 		}
 	}
+	
 	integrate_afghanistan = {
 		picture = integrate_afghanistan
 		potential = {
 			tag = PER
+			has_country_flag = eastern_expansion_iran
 			NOT = {
 				has_country_flag = afghanistan_integrated
 			}
@@ -80,10 +83,12 @@ political_decisions = {
 			1217 = { add_core = PER }
 		}
 	}
+	
 	integrate_balochistan = {
 		picture = integrate_balochistan
 		potential = {
 			tag = PER
+			has_country_flag = eastern_expansion_iran
 			NOT = {
 				has_country_flag = balochistan_integrated
 			}
@@ -107,10 +112,12 @@ political_decisions = {
 			1223 = { add_core = PER }
 		}
 	}
+	
 	cores_in_mesopotamia = {
 		picture = cores_in_mesopotamia
 		potential = {
 			tag = PER
+			has_country_flag = western_expansion_iran
 			NOT = {
 				has_country_flag = cored_mesopotamia
 			}
@@ -144,6 +151,7 @@ political_decisions = {
 			933 = { add_core = PER }
 		}
 	}
+	
 	bagdad_tech = {
 		picture = bagdad_tech
 		potential = {
@@ -166,10 +174,12 @@ political_decisions = {
 			}
 		}
 	}
+	
 	cores_in_kurdistan = {
 		picture = cores_in_kurdistan
 		potential = {
 			tag = PER
+			has_country_flag = western_expansion_iran
 			NOT = {
 				has_country_flag = cored_kurdistan
 			}
@@ -193,6 +203,66 @@ political_decisions = {
 			893 = { add_core = PER }
 			899 = { add_core = PER }
 			901 = { add_core = PER }
+		}
+	}
+	
+	cores_in_caucasus_iran = {
+		picture = caucasus_map
+		potential = {
+			tag = PER
+			has_country_flag = western_expansion_iran
+			NOT = {
+				has_country_flag = cored_caucasus
+			}
+		}
+		allow = {
+			prestige = 70
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = cored_caucasus
+			add_accepted_culture = georgian
+			add_accepted_culture = armenian
+			add_accepted_culture = north_caucasian
+			prestige = 50
+			RUS_1098 = { add_core = PER }
+			RUS_1102 = { add_core = PER }
+			RUS_1090 = { add_core = PER }
+			RUS_1052 = { add_core = PER }
+		}
+	}
+	
+	eastern_expansion_iran = {
+		picture = central_asia_map
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = eastern_expansion_iran
+				has_country_flag = western_expansion_iran
+			}
+		}
+		allow = {
+			tag = PER
+		}
+		effect = {
+			set_country_flag = eastern_expansion_iran
+		}
+	}
+	
+	western_expansion_iran = {
+		picture = ottoman_map
+		potential = {
+			tag = PER
+			NOT = {
+				has_country_flag = eastern_expansion_iran
+				has_country_flag = western_expansion_iran
+			}
+		}
+		allow = {
+			tag = PER
+		}
+		effect = {
+			set_country_flag = western_expansion_iran
 		}
 	}
 }

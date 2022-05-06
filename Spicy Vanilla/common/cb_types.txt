@@ -58,6 +58,7 @@ liberate_country
 release_puppet
 become_independent
 make_puppet
+puppet_ottoman
 dismantle_forts
 humiliate
 demand_concession_casus_belli
@@ -1730,7 +1731,6 @@ puppet_ottoman = {
 	months = 12
 	crisis = no
 	constructing_cb = no
-	always = yes
 
 	badboy_factor = 0.6
 	prestige_factor = 1
@@ -1747,10 +1747,6 @@ puppet_ottoman = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		tag = EGY
-        THIS = {
-            tag = TUR
-        }
 		NOT = { is_our_vassal = THIS }
 		is_greater_power = no
 		is_vassal = no

@@ -1,4 +1,14 @@
 ;;;;;;;;;;x
+europe;Europe;x
+asia;Asia;x
+africa;Africa;x
+north_america;North America;x
+south_america;South America;x
+oceania;Oceania;x
+southern_africa;Southern Africa;x
+east_africa;East Africa;x
+west_africa;West Africa;x
+central_africa;Central Africa;x
 REB;Rebels;x
 REB_ADJ;Rebel;x
 ALB;Albania;x
@@ -445,3 +455,21 @@ MAJ;Majeerteen;x
 MAJ_ADJ;Majeertani;x
 ISQ;Isaaq Sultanate;x
 ISQ_ADJ;Isaaqi;x
+SOM;Somaliland;x
+SOM_proletarian_dictatorship;Somali Commune;x
+SOM_absolute_monarchy;Sultanate of Somaliland;x
+SOM_ADJ;Somali;x
+OYO;Oyo;x
+OYO_ADJ;Oyo;x
+BEN;Benin;x
+BEN_ADJ;Beninese;x
+WRI;Warri;x
+WRI_ADJ;Warri;x
+CLB;Calabar;x
+CLB_ADJ;Calabari;x
+ARO;Aro;x
+ARO_ADJ;Aro;x
+DAH;Dahomey;x
+DAH_ADJ;Dahomeyan;x
+BNU;Bornu;x
+BNU_ADJ;Bornu;x

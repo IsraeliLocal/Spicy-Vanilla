@@ -1,0 +1,9 @@
+army = {
+	name = "Ibrahim's Army"
+	location = 1951
+	regiment = {
+		name= "1.Bornu"
+		type = irregular
+		home = 1951
+	}
+}

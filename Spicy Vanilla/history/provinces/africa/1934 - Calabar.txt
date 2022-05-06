@@ -1,0 +1,5 @@
+owner = CLB
+controller = CLB
+add_core = CLB
+trade_goods = coal
+life_rating = 25

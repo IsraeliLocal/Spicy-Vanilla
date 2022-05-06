@@ -29,7 +29,7 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 35
-			set_country_flag = levant_inherited
+			set_country_flag = levant_inherited 
 			EGY = {
 				any_owned = {
 					limit = {
@@ -40,11 +40,12 @@ political_decisions = {
 						region = EGY_915
 						region = EGY_921
 						region = EGY_910
-						region = NEJ_1156
 						region = EGY_843
 					}
 				}
 				secede_province = TUR
+				add_core = TUR
+				remove_core = EGY
 				}
 			}
 		}
@@ -97,6 +98,138 @@ political_decisions = {
 				}
 				secede_province = TUR
 				}
+			}
+		}
+	}
+	annex_arabian_desert = {
+		picture = arabian_desert
+		potential = {
+			NOT = {
+			 has_global_flag = arabian_desert_conquered	
+			}
+			OR = {
+			
+				AND = {
+						NOT = {
+							tag = IRQ
+							tag = ARA
+							tag = TUR
+							tag = EGY
+						}
+						
+						owns = 926
+						owns = 1160
+						owns = 933
+						owns = 1153
+						owns = 1154
+						owns = 909
+						owns = 908
+						owns = 902
+						owns = 904
+					}
+		
+					tag = IRQ
+					tag = ARA
+					tag = TUR
+			
+				AND = {
+					tag = EGY
+					civilized = yes
+					owns = 909
+					owns = 908
+					owns = 902
+					owns = 904
+					owns = 922
+				}
+			}
+		}
+		
+		allow = { 
+			OR = {
+				AND = {
+					
+						NOT = {
+							tag = IRQ
+							tag = ARA
+							tag = TUR
+							tag = EGY
+						}
+						invention = mission_to_civilize
+					}
+				
+				AND = {
+					tag = IRQ
+					civilized = yes
+					owns = 926
+					owns = 933
+					prestige = 20
+				}
+			
+				AND = {
+					tag = ARA
+					civilized = yes
+					owns = 1160
+					owns = 1153
+					owns = 1154
+					prestige = 20
+				}
+			
+				AND = {
+					tag = TUR
+					invention = manifest_destiny
+					owns = 926
+					owns = 933
+					owns = 909
+					owns = 908
+					owns = 902
+					owns = 904
+				}
+			
+				AND = {
+					tag = EGY
+					civilized = yes
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			set_global_flag = arabian_desert_conquered
+			
+			1158 = {
+				secede_province = THIS
+			}
+			
+			1156 = {
+				secede_province = THIS
+			}
+			
+			910 = {
+				secede_province = THIS
+			}
+			
+			911 = {
+				secede_province = THIS
+			}
+		
+			906 = {
+				secede_province = THIS
+			}
+			
+			907 = {
+				secede_province = THIS
+			}
+			
+			931 = {
+				secede_province = THIS
+			}
+			
+			929 = {
+				secede_province = THIS
+			}
+			
+			934 = {
+				secede_province = THIS
 			}
 		}
 	}

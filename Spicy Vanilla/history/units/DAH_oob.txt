@@ -1,0 +1,14 @@
+army = {
+	name = "Ghezo's Army"
+	location = 1919
+	regiment = {
+		name= "1.Dahomey"
+		type = irregular
+		home = 1919
+	}
+	regiment = {
+		name= "2.Dahomey"
+		type = irregular
+		home = 1919
+	}
+}

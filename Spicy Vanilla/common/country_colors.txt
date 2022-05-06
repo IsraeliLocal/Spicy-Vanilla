@@ -1058,3 +1058,59 @@ ISQ = {
     color2= { 0 0 0  }
     color3= { 69 157 208  }
 }
+
+# Oyo
+OYO = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Somaliland
+SOM = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Benin
+BEN = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Warri
+WRI = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Calabar
+CLB = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Aro
+ARO = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Dahomey
+DAH = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}
+
+# Bornu
+BNU = {
+    color1= { 87 146 87  }
+    color2= { 0 0 0  }
+    color3= { 69 157 208  }
+}

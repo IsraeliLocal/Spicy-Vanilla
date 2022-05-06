@@ -39,13 +39,7 @@ army = {
 
 army = {
 	name = "Ibn Rashid's Army"
-	location = 1158
-	regiment = {
-		name= "1. 'Ateba"
-		type = irregular
-		home = 1158
-	}
-
+	location = 1163
 	regiment = {
 		name= "2. 'Ateba"
 		type = irregular

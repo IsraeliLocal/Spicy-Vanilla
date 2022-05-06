@@ -1,0 +1,9 @@
+;;;;;;;;;;x
+EVTNAME50000;End Egyptian self rule;x
+EVTDESC50000;Since the Ottoman-Egyptian war of 1833 Egypt Lead by Muhammad Ali Pasha we were unable to reestablish our rule over Egypt and Syria. but today we see a weakness within the Egyptian state stracture and our millitry advisors recommend that if we take a quick action we could bring Egypt under our rule once more.;x
+EVTOPTA50000;To War with Egypt!.. later;x
+EVTOPTB50000;To WAR with Egypt!;x
+EVTNAME50001;Egyptian Surrender;x
+EVTDESC50001;After our successful campaign in the Levant the Muhammad Ali Pasha offers us The Levant back in exchange for peace. However he wouldn't accept a Peace where his reign over Egypt itself is challanged. Our military advisors are split on the Issue and are worried it may cause foreign powers to intervene on the side of the Egyptians.;x
+EVT50001OPTA;Accept Egyptian Surrender;x
+EVT50001OPTB;Decline Egyptian Surrender;x

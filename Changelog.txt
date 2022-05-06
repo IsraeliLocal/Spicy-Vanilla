@@ -1,0 +1,36 @@
+Version 0.02
+
+- Added Ottoman-Egyptian war events
+
+- Added The Syrian Desert as an uncolonized area all provinces in the uncolonized land still belong to their original regions
+
+- Minor changes to province borders around the Syrian desert
+
+- Fixed Localization Issues mostly in South America
+
+- Made Connections for easier troop movement on Caribbean
+
+- Split Africa as a continent to Southern Africa, East Africa, Central Africa, and West Africa with North Africa staying as just Africa.
+  in terms of gameplay it means that if you have a colony in a region it'll display it as for example German West Africa
+  
+- Added new nations Oyo, Somaliland, Benin, Warri, Calabar, Aro, Dahomey, Bornu
+
+- Incorparated the graphical mod Belle Cartographie into the mod
+
+- Added The region of Ogaden and changed some province borders in the region
+
+- Added Somali Flavor
+
+- Split Iranian expansion into Eastern and Western focuses
+  East (Central Asia, Balochistan, Afghanistan) West (Caucasus, Mesopotamia, Kurdistan)
+
+
+Version 0.01
+
+- Added flavor for Iran 
+
+- Added flavor for The Ottomans
+
+- Added Somali states of Isaaq, Majeerteen, and Geledi
+
+- Minor changes to states borders in Arabia and added a new State the Arabian Coast

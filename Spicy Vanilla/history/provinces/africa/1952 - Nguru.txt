@@ -1,0 +1,5 @@
+owner = BNU
+controller = BNU
+add_core = BNU
+trade_goods = cattle
+life_rating = 35

@@ -1,6 +1,6 @@
 ;;;;;;;;;;x
-ABU_conservative;Sheikhs Council;Conseil des Cheikhs;Scheichrat;;Consejo de jeques;;;;;;;;;x;;;;
-ABU_conservative_2;Trucial Sheiks;Sheiks Trucial;Befriedete Scheichs;;Jeques truciales;;;;;;;;;x;;;;
+ABU_conservative;Sheikhs Council;x
+ABU_conservative_2;Trucial Sheiks;x
 ABU_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La facción liberal;;;;;;;;;x;;;;
 ABU_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La facción nacionalista;;;;;;;;;x;;;;
 ABU_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La facción radical;;;;;;;;;x;;;;
@@ -1826,3 +1826,59 @@ ISQ_anarcho_liberal;Xagjir Siyaasadeed;x
 ISQ_socialist;Hantiwadaaga Siyaasadeed;x
 ISQ_communist;Shuuci Siyaasadeed;x
 ISQ_fascist;Faashiste Siyaasadeed;x
+SOM_conservative;Suldaan Siyaasadeed;x
+SOM_liberal;Xoriyada Siyaasadeed;x
+SOM_reactionary;Dhaqan Siyaasadeed;x
+SOM_anarcho_liberal;Xagjir Siyaasadeed;x
+SOM_socialist;Hantiwadaaga Siyaasadeed;x
+SOM_communist;Shuuci Siyaasadeed;x
+SOM_fascist;Faashiste Siyaasadeed;x
+OYO_conservative;Konsafetifu Keta;x
+OYO_liberal;Onitesiwaju Keta;x
+OYO_reactionary;Ibile Keta;x
+OYO_anarcho_liberal;Yori Keta;x
+OYO_socialist;Sosialisiti Keta;x
+OYO_communist;Komunisiti Keta;x
+OYO_fascist;Fasi Keta;x
+BEN_conservative;Otu Eze;x
+BEN_liberal;Otu Nnwere Onwe;x
+BEN_reactionary;Otu Omenala;x
+BEN_anarcho_liberal;Otu Radikal;x
+BEN_socialist;Otu Soshalist;x
+BEN_communist;Otu Ndi Komunist;x
+BEN_fascist;Otu Fasisti;x
+WRI_conservative;Otu Eze;x
+WRI_liberal;Otu Nnwere Onwe;x
+WRI_reactionary;Otu Omenala;x
+WRI_anarcho_liberal;Otu Radikal;x
+WRI_socialist;Otu Soshalist;x
+WRI_communist;Otu Ndi Komunist;x
+WRI_fascist;Otu Fasisti;x
+CLB_conservative;Otu Eze;x
+CLB_liberal;Otu Nnwere Onwe;x
+CLB_reactionary;Otu Omenala;x
+CLB_anarcho_liberal;Otu Radikal;x
+CLB_socialist;Otu Soshalist;x
+CLB_communist;Otu Ndi Komunist;x
+CLB_fascist;Otu Fasisti;x
+ARO_conservative;Otu Eze;x
+ARO_liberal;Otu Nnwere Onwe;x
+ARO_reactionary;Otu Omenala;x
+ARO_anarcho_liberal;Otu Radikal;x
+ARO_socialist;Otu Soshalist;x
+ARO_communist;Otu Ndi Komunist;x
+ARO_fascist;Otu Fasisti;x
+DAH_conservative;Konsafetifu Keta;x
+DAH_liberal;Onitesiwaju Keta;x
+DAH_reactionary;Ibile Keta;x
+DAH_anarcho_liberal;Yori Keta;x
+DAH_socialist;Sosialisiti Keta;x
+DAH_communist;Komunisiti Keta;x
+DAH_fascist;Fasi Keta;x
+BNU_conservative;Sultan's Court;x
+BNU_liberal;Reformist Faction;x
+BNU_reactionary;Traditionalist Faction;x
+BNU_anarcho_liberal;The Radical Faction;x
+BNU_socialist;The Socialist Faction;x
+BNU_communist;The Communist Faction;x
+BNU_fascist;The Fascist Faction;x

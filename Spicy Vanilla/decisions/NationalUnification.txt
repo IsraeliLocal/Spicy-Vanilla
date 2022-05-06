@@ -254,7 +254,7 @@ political_decisions = {
 			factor = 1
 		}
 	}	
-		
+	
 	form_germany = {
 		news = yes
 		news_desc_long = "form_germany_NEWS_LONG"
@@ -295,7 +295,7 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
-					NOT = UBD
+					NOT = { tag = UBD }
 				}
 				country_event = { id=11101 days=0 }
 			}

@@ -9,6 +9,22 @@
 2237;2269;sea;2975;0;Strait of Trinidad
 2334;2335;sea;2992;0;Strait of Magellan
 2204;2206;sea;3001;0;Panama strait
+2237;2238;sea;2975;0;Trinidad Tobago
+2233;2409;sea;2975;0;Granda Saint-Vincent
+2409;2231;sea;2975;0;Saint-Vincent Saint-Lucia
+2231;2228;sea;2976;0;Saint-Lucia Martinique
+2228;2232;sea;2976;0;Martinique Dominica
+2232;2230;sea;2976;0;Dominica Guadeloupe
+2230;2225;sea;2976;0;Guadeloupe Monsterat
+2225;2224;sea;2976;0;Monsterat Antigua
+2225;2227;sea;2976;0;Monsterat Saint-Kitts
+2227;2236;sea;2976;0;Saint-Kitts Saint-Martin
+2226;2233;sea;2976;0;Tortola Saint-Thomas
+2226;2222;sea;2976;0;Tortola Puerto-Rico
+2223;2222;sea;2976;0;Saint-Thomas Puerto-Rico
+2235;2234;sea;2972;0;Aruba Curacao
+2235;2272;sea;2972;0;Aruba Coro
+2220;2219;sea;2978;0;Turks & Caicos Bahamas
 
 #
 # African Straits

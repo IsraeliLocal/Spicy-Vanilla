@@ -1,5 +1,6 @@
 owner = ISQ
 controller = ISQ
 add_core = ISQ
+add_core = SOM
 trade_goods = cotton
 life_rating = 20
